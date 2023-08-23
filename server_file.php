@@ -3,8 +3,8 @@ if (isset($_GET['class'])) {
     $class = $_GET['class'];
 
     // Define file paths for different classes
-    $filePathElectric = "Lists\\Electric.txt";
-    $filePathCombustion = "Lists\\IC.txt";
+    $filePathElectric = "Lists/Electric.txt";
+    $filePathCombustion = "Lists/IC.txt";
 
     // Determine the appropriate file path based on the class value
     if ($class === 'electric') {
