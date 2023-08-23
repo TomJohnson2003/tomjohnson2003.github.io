@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #444654;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 0;
+            color: white;
+        }
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: #333;
+            overflow: hidden;
+        }
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: #333;
+            overflow: hidden;
+            display: flex; /* Add flex display to the navbar */
+        }
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .navbar a.active {
+            background-color: #ddd;
+            color: black;
+        }
+        .navbar a:last-child {
+            margin-right: 0; /* Remove right margin for the last link */
+            margin-left: auto; /* Move the "About" link to the right */
+        }
+        #csv-content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin-top: 56px;
+            overflow: auto;
+            display: none; /* Hide initially */
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .odd-row {
+            background-color: #f2f2f2; /* Light gray */
+        }
+
+        .even-row {
+            background-color: #ffffff; /* White */
+        }
+        table a {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="index.html">Home</a>
+        <a href="combustion_lists.html">Top Lists</a>
+        <a href="search_combustion.html">Combustion</a>
+        <a href="search_electric.html">Electric</a>
+        <a href="about.html">About</a>
+    </div>
+    <div id="csv-content">
+        <h2 id="csv-title"></h2>
+        <!-- CSV content will be displayed here -->
+    </div>
+    <script>
+        window.onload = async function () {
+            // Get the category and type parameters from the URL query string
+            const urlParams = new URLSearchParams(window.location.search);
+            const category = urlParams.get('category');
+            const type = urlParams.get('type');
+    
+            if (category && type) {
+                let filePath = "";
+    
+                if (type === "combustion") {
+                    filePath = `/FSS/Lists/IC/${category}.csv`;
+                } else if (type === "electric") {
+                    filePath = `/FSS/Lists/Electric/${category}.csv`;
+                }
+    
+                try {
+                    const response = await fetch(filePath);
+                    
+                    if (!response.ok) {
+                        throw new Error("CSV file not found.");
+                    }
+    
+                    const csvContent = await response.text();
+                    const csvLines = csvContent.split("\n");
+                    csvLines.pop();
+                    let tableHTML = "<table>";
+                    let isOddRow = false; // Flag to track if the row is odd
+    
+                    // Create table rows and columns from CSV lines
+                    for (let i = 0; i < csvLines.length; i++) {
+                        const cells = csvLines[i].split(",");
+                        const rowClass = isOddRow ? "odd-row" : "even-row"; // Set class based on row parity
+                        tableHTML += `<tr class="${rowClass}">`;
+
+                        for (let j = 0; j < cells.length; j++) {
+                            // Create links starting from the second row and only in the second column
+                            if (i > 0 && j === 1) {
+                                const name = cells[j];
+                                const link = `data.html?file=${encodeURIComponent(name)}&class=${type}`;
+                                tableHTML += `<td><a href="${link}">${name}</a></td>`;
+                            } else {
+                                tableHTML += "<td>" + cells[j] + "</td>";
+                            }
+                        }
+
+                        tableHTML += "</tr>";
+                        isOddRow = !isOddRow; // Toggle the flag for the next row
+                    }
+
+                    tableHTML += "</table>";
+                
+                    // Get the title from the category parameter and set it as the CSV title
+                    const title = category.replace("_", " ");
+                    document.getElementById("csv-title").textContent = title + " - " + type.charAt(0).toUpperCase() + type.slice(1);
+                    document.getElementById("csv-content").innerHTML = "<h2>" + title + " - " + type.charAt(0).toUpperCase() + type.slice(1) + "</h2>" + tableHTML;
+                    document.getElementById("csv-content").style.display = "block";
+                } catch (error) {
+                    document.getElementById("csv-content").innerHTML = "<p>Error: " + error.message + "</p>";
+                    document.getElementById("csv-content").style.display = "block";
+                }
+            } else {
+                document.getElementById("csv-content").innerHTML = "<p>Error: Invalid parameters.</p>";
+                document.getElementById("csv-content").style.display = "block";
+            }
+        };
+    </script>
+</body>
+</html>
