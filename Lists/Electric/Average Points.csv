@@ -1,0 +1,302 @@
+Rank,University,#,Points
+1,Nagoya University,3,763.0
+2,Carnegie Mellon University,4,746.25
+3,Monash University,6,735.83
+4,Pimpri Chinchwad College Of Engineering,1,728.0
+5,ETH Zürich,43,719.84
+6,Universität Stuttgart,40,718.1
+7,TU Delft,31,696.35
+8,University of Michigan - Ann Arbor,3,680.0
+9,Massachusetts Institute of Technology,3,657.0
+10,Tallinn TU UAS,25,646.2
+11,University of Auckland,4,634.0
+12,Karlsruhe Institute of Technology,36,627.03
+13,Duale Hochschule Baden-Württemberg Stuttgart,25,621.72
+14,Westsächsische Hochschule Zwickau,30,588.27
+15,Technical University of Munich,37,571.86
+16,Georgia Institute of Technology,2,569.0
+17,GFR DHBW Ravensburg &amp; Oregon State University,22,566.95
+18,University of Canterbury,4,564.25
+19,University of Washington,4,564.25
+20,Technische Universität Bergakademie Freiberg,25,554.72
+21,National Technical University of Athens,5,544.4
+22,University of Pennsylvania,4,534.75
+23,Fachhochschule Joanneum Graz,3,534.33
+24,National Tsing Hua University,4,530.25
+25,Hochschule Bonn-Rhein-Sieg,23,518.48
+26,Technische Universiteit Eindhoven,25,518.32
+27,University of Wollongong,3,513.0
+28,Universidade Estadual de Campinas,2,500.0
+29,Norwegian University of Science and Technology,19,494.68
+30,Budapest University of Technology and Economics,19,492.89
+31,University of Adelaide,3,489.0
+32,Warsaw University of Technology,1,488.0
+33,Brno University of Technology,4,486.75
+34,McGill University,5,478.2
+35,Czech Technical University in Prague,24,477.75
+36,RMIT University,10,474.4
+37,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),23,474.13
+38,Fachhochschule München,31,472.55
+39,Toyohashi University of Technology,2,465.5
+40,Rheinisch-Westfälische Technische Hochschule Aachen,23,457.61
+41,Technische Universität Dresden,33,452.94
+42,Politecnico di Torino,22,440.0
+43,Chalmers University of Technology,11,426.45
+44,École de Technologie Superieure,1,424.0
+45,The University of Akron,2,423.0
+46,Ostfalia University of Applied Sciences,15,416.8
+47,Missouri University of Science and Technology,2,409.5
+48,Politecnico di Milano,6,408.5
+49,Tongji University,4,399.25
+50,University of Technology Sydney,5,398.0
+51,Technische Hochschule Ingolstadt,20,397.1
+52,Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,25,392.72
+53,Escola Superior d'Enginyeries Industrial Aeroespacial i Audiovisual de Terrassa (UPC),17,391.47
+54,University of Queensland,5,385.8
+55,Universität Bayreuth,18,385.06
+56,Swinburne University of Technology,10,379.1
+57,Université Laval,7,374.14
+58,Technische Universität Hamburg,27,373.15
+59,Technische Universität Darmstadt,30,368.77
+60,Technische Universität Graz,13,368.69
+61,Aristotle University of Thessaloniki,10,368.1
+62,Hochschule Esslingen,20,363.0
+63,Curtin University,1,361.0
+64,University of Wisconsin-Madison,4,361.0
+65,Technische Universität Wien,24,360.79
+66,Fachhochschule Osnabrück,15,354.4
+67,Ulm University of Applied Sciences,2,351.5
+68,UAS Würzburg-Schweinfurt,9,351.0
+69,University of Southampton,1,350.0
+70,The University of Newcastle,3,347.0
+71,École Polytechnique de Montréal,4,346.75
+72,Helsinki Metropolia University of Applied Sciences,15,346.73
+73,University of California Davis,4,346.25
+74,Università degli Studi di Parma,5,341.2
+75,Universidade de Lisboa - Instituto Superior Técnico,24,338.42
+76,Deggendorf Institute of Technology,26,334.85
+77,Hochschule für angewandte Wissenschaften Augsburg,18,334.56
+78,University of Ljubljana,13,333.92
+79,Liaoning University of Technology,2,332.5
+80,University of the Basque Country,18,329.61
+81,K. J. Somaiya College of Engineering,4,328.0
+82,Fachhochschule Kiel,26,325.92
+83,Georg-Simon-Ohm-Hochschule Nürnberg,15,322.33
+84,University of Strathclyde,1,321.0
+85,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,13,320.31
+86,Alma Mater Studiorum - Università di Bologna,2,318.5
+87,Ostbayerische Technische Hochschule Regensburg,10,318.5
+88,Universität Siegen,18,316.22
+89,University of Bath,8,314.75
+90,University of Texas at Austin,4,309.5
+91,University Of Hertfordshire,3,308.67
+92,Purdue University - West Lafayette,4,302.5
+93,KU Leuven - Group T Campus,25,301.52
+94,Hefei University of Technology,1,297.0
+95,University of Melbourne,3,285.67
+96,University of Patras,12,279.33
+97,Università degli studi di Padova,9,278.44
+98,Leibniz Universität Hannover,26,274.88
+99,Iwate University,4,274.75
+100,University of Seville,9,273.0
+101,Hochschule RheinMain,17,272.0
+102,Oxford Brookes University,2,269.5
+103,Western University,3,267.0
+104,Heriot-Watt University,1,264.0
+105,Universität Paderborn,5,262.4
+106,COEP Technological University ,1,254.0
+107,Duale Hochschule Baden-Württemberg - Mannheim,8,254.0
+108,MIT World Peace University,1,254.0
+109,University of Illinois at Urbana-Champaign,4,254.0
+110,Technische Universität Kaiserslautern,19,253.37
+111,Jilin University,1,250.0
+112,Smt. Kashibai Navale College of Engineering,1,248.0
+113,University of Nottingham,4,247.5
+114,Hochschule Pforzheim,2,246.0
+115,University of Western Australia,3,241.0
+116,Virginia Polytechnic Institute and State University,2,240.5
+117,Technische Hochschule Köln,19,240.37
+118,Hochschule für Angewandte Wissenschaften Hamburg,2,239.5
+119,University of Manitoba,4,236.5
+120,École Polytechnique Fédérale de Lausanne,8,235.88
+121,University of Surrey,4,234.25
+122,University of Southern Denmark,12,234.08
+123,Griffith University,1,232.0
+124,California State Polytechnic University - San Luis Obispo,4,230.0
+125,San José State University,4,228.0
+126,University of Kansas,1,226.0
+127,Wroclaw University of Technology,2,224.0
+128,Sardar Patel College of Engineering Mumbai,1,223.0
+129,Technische Universität Clausthal,9,220.33
+130,UAS Kempten,3,219.33
+131,Queen's University Belfast,1,216.0
+132,University of Applied Sciences Ravensburg-Weingarten,3,214.0
+133,Ryerson University,1,212.0
+134,University of New Mexico,1,210.0
+135,Saarland University,6,209.67
+136,Ramaiah Institute of Technology,1,209.0
+137,Hochschule Mannheim,7,208.43
+138,KTH Royal Institute of Technology,8,207.88
+139,Fachhochschule Konstanz,6,206.5
+140,Linköping University,1,205.0
+141,Western Washington University,1,205.0
+142,Indian Institute of Technology Bombay,9,204.67
+143,Ain Shams University,1,204.0
+144,Technische Universität Ilmenau,9,203.0
+145,University of Tasmania,3,202.33
+146,Technische Universität Braunschweig,16,201.56
+147,Fachhochschule für Wirtschaft und Technik,17,201.18
+148,Hochschule Niederrhein,1,201.0
+149,Cornell University,1,200.0
+150,Università degli Studi di Trento,6,199.0
+151,Hochschule Aalen - Technik und Wirtschaft,15,198.47
+152,Escola d'Enginyeria de Barcelona Est. EEBE,11,196.91
+153,Imperial College London,4,196.5
+154,Slovak University of Technology in Bratislava,18,196.44
+155,University of Minnesota Twin Cities,1,196.0
+156,Indian Institute of Technology Roorkee,1,195.0
+157,The University of Michigan-Dearborn,2,193.0
+158,Indian Institute of Technology Delhi,5,192.2
+159,Yıldız Technical University,3,190.33
+160,Karlstad University,1,190.0
+161,Shizuoka Institute of Science and Technology,6,189.33
+162,Otto-von-Guericke-Universität Magdeburg,1,189.0
+163,Toyota Technical College Nagoya,7,188.14
+164,MCT's Rajiv Gandhi Institute of Technology,1,188.0
+165,Lund University,1,186.0
+166,Hochschule Landshut,6,184.5
+167,Technische Universität Chemnitz,6,184.17
+168,PSG Institute of Technology and Applied Research,1,184.0
+169,Technische Universität Berlin,10,183.9
+170,Friedrich-Alexander-Universität Erlangen-Nürnberg,3,183.33
+171,Hochschule Karlsruhe - Technik und Wirtschaft,1,182.0
+172,University of British Columbia - Vancouver,1,182.0
+173,University of Sussex,1,182.0
+174,University of Toronto,1,182.0
+175,Università degli Studi di Napoli Federico II,2,180.5
+176,Beijing Institute of Technology,1,178.0
+177,Dwarkadas. J. Sanghvi College of Engineering,2,177.5
+178,Duale Hochschule Baden-Württemberg Mosbach,1,177.0
+179,Poznan University of Technology,2,177.0
+180,University of California Berkeley,1,177.0
+181,Concordia University,1,176.0
+182,North Carolina State University,1,174.0
+183,TECNUN - University of Navarra,14,174.0
+184,University of California Riverside,1,174.0
+185,Technion - Israel Institute of Technology,1,173.0
+186,University of Waterloo,2,173.0
+187,Central South University - Changsha,1,172.0
+188,Ben-Gurion University of the Negev,6,171.83
+189,Guangdong University of Technology,1,171.0
+190,University College Dublin,1,171.0
+191,University of North Carolina at Asheville,1,171.0
+192,Università degli Studi di Roma La Sapienza,13,169.54
+193,National Taiwan University,1,168.0
+194,Portland State University,1,168.0
+195,University of Birmingham,1,168.0
+196,Universidad Politécnica de Madrid (UPM),7,165.71
+197,Ruhr-Universität Bochum,2,165.5
+198,Leopold-Franzens-Universität Innsbruck,3,165.33
+199,University of Zagreb,4,163.75
+200,Olin College of Engineering,3,162.33
+201,Hochschule für Technik und Wirtschaft Mittweida,1,161.0
+202,Cairo University,2,159.0
+203,Niigata Institute of Technology,2,158.0
+204,Universidad Nacional Autónoma de México,1,157.0
+205,Kennesaw State University,2,156.5
+206,Democritus University of Thrace,1,155.0
+207,Bern University of Applied Sciences,8,154.25
+208,Coventry University,1,154.0
+209,Universität Duisburg-Essen,13,153.46
+210,Kookmin University,1,153.0
+211,University of New South Wales,2,151.5
+212,VIT University - Chennai,1,151.0
+213,AGH University of Science and Technology,4,149.75
+214,University of Iceland,12,149.08
+215,ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),1,147.0
+216,Istanbul Technical University,1,146.0
+217,McMaster University,1,144.0
+218,Tohoku University,7,142.43
+219,University of Utah,2,140.5
+220,Hochschule für Angewandte Wissenschaften Hof,8,139.38
+221,California Institute of Technology,2,138.5
+222,Universität Kassel,6,138.33
+223,Moscow State Automobile &amp; Road Technical University - MADI,8,137.25
+224,Belgorod state technological university named after V. G. Shukhov,1,136.0
+225,University of Stavanger,8,135.12
+226,Universität Bremen,8,135.12
+227,Universidad Pontificia Comillas,5,135.0
+228,Texas A&amp;M University,1,134.0
+229,University of Iowa,1,134.0
+230,Manchester Metropolitan University,1,133.0
+231,Universidad Politecnica Salesiana,1,133.0
+232,R.V.College of Engineering,1,132.0
+233,Hochschule Ruhr West - UAS,5,131.6
+234,Liverpool John Moores University,1,131.0
+235,SRM Institute of Science and Technology - Kattankulathur,1,131.0
+236,University of Ontario Institute of Technology,2,129.0
+237,King Mongkut's University of Technology Thonburi,1,127.0
+238,Technische Hochschule Ostwestfalen-Lippe,2,126.0
+239,Instituto Superior de Engenharia de Lisboa,2,125.5
+240,Harbin Institute of Technology at Weihai,3,123.67
+241,University of Colorado - Colorado Springs,1,121.0
+242,Università degli studi di Trieste,1,121.0
+243,University of Warwick,3,120.67
+244,Hochschule Darmstadt UAS,3,120.33
+245,Lancaster  University,4,120.0
+246,Pakistan Institute of Engineering &amp; Applied Sciences,1,120.0
+247,Thomas More Mechelen - De Nayer,5,119.2
+248,University of Texas at San Antonio,1,119.0
+249,Universität der Bundeswehr München,1,119.0
+250,Technische Universität Dortmund,2,118.5
+251,San Diego State University,3,118.33
+252,California Baptist University,1,117.0
+253,Zürcher Hochschule für Angewandte Wissenschaften,2,116.5
+254,Universidad Politécnica de Cartagena,3,113.0
+255,Kanagawa University,3,109.0
+256,Technical University of Denmark,1,108.0
+257,Queensland University of Technology,4,107.5
+258,University of New South Wales - Australian Defence Force Academy,1,105.0
+259,Ghent University,2,104.0
+260,Newcastle University,2,102.5
+261,University of Burgundy - ISAT,1,101.0
+262,Vrije Universiteit Brussel,1,98.0
+263,Kingston University,3,97.0
+264,Hubei University of Automotive Technology,1,96.0
+265,Delhi Technological University,1,95.0
+266,Loughborough University,1,95.0
+267,Seikei University,1,94.0
+268,University of South Australia,2,93.5
+269,Guangxi Science and Technology University Lushan College,1,93.0
+270,VIT University - Vellore,4,91.25
+271,Universidad de Oviedo,3,90.0
+272,University of Belgrade (Универзитет у Београду),2,87.0
+273,University of California Irvine,1,84.0
+274,ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),2,76.5
+275,Sepuluh Nopember Institute of Technology,1,76.0
+276,Daido Institute of Technology,1,75.0
+277,Kanagawa Institute of Technology,3,71.67
+278,University of Bristol,2,71.0
+279,Drexel University,1,70.0
+280,University of Maryland,1,69.0
+281,Technical University of Cluj-Napoca,1,66.0
+282,University of Oxford,1,66.0
+283,University of Agder,1,65.0
+284,Universidad de Castilla-La Mancha,1,64.0
+285,University of La Laguna,1,63.0
+286,Rutgers The State University of New Jersey,1,58.0
+287,Gadjah Mada University,2,57.5
+288,University of Leicester,2,53.0
+289,National Cheng Kung University,1,52.0
+290,University of Cincinnati,1,51.0
+291,National Taipei University of Technology,1,43.0
+292,University of Southern California,1,42.0
+293,University of California - Santa Cruz,1,40.0
+294,Islamic Azad University of Karaj,1,38.0
+295,The Hague University of Applied Sciences,1,29.0
+296,Hochschule Düsseldorf,2,22.0
+297,Rhein-Waal University of Applied Sciences,1,22.0
+298,Brunel University London,1,17.0
+299,Rajshahi University of Engineering &amp; Technology,1,12.0
+300,Kyushu Institute of Technology,1,8.0
+301,University of Alcalá,1,7.0

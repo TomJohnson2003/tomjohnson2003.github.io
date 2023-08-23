@@ -1,0 +1,876 @@
+Rank,University,Lowest Place,Number of Lowest Place
+1,GFR DHBW Ravensburg &amp; Oregon State University,1.0,9
+2,Universität Stuttgart,1.0,8
+3,Monash University,1.0,7
+4,Karlsruhe Institute of Technology,1.0,6
+5,University of Seville,1.0,6
+6,Technische Universität Graz,1.0,5
+7,Fachhochschule Konstanz,1.0,4
+8,RMIT University,1.0,4
+9,Rochester Institute of Technology,1.0,4
+10,TU Delft,1.0,4
+11,University of Auckland,1.0,4
+12,Università degli studi di Padova,1.0,4
+13,Escola de Engenharia de São Carlos da Universidade de São Paulo,1.0,3
+14,Fachhochschule Joanneum Graz,1.0,3
+15,National University of Singapore,1.0,3
+16,Sophia University,1.0,3
+17,The University of Tokyo,1.0,3
+18,Universidade Estadual de Campinas,1.0,3
+19,University of Bath,1.0,3
+20,University of Missouri,1.0,3
+21,University of Wisconsin-Madison,1.0,3
+22,Università di Pisa,1.0,3
+23,Western University,1.0,3
+24,Alma Mater Studiorum - Università di Bologna,1.0,2
+25,Georgia Institute of Technology,1.0,2
+26,Hochschule Darmstadt UAS,1.0,2
+27,Hochschule Esslingen,1.0,2
+28,Hochschule Karlsruhe - Technik und Wirtschaft,1.0,2
+29,Ibaraki University,1.0,2
+30,Oxford Brookes University,1.0,2
+31,UAS Kempten,1.0,2
+32,University of Pittsburgh,1.0,2
+33,Vanderbilt University,1.0,2
+34,Virginia Polytechnic Institute and State University,1.0,2
+35,VŠB - Technical University of Ostrava,1.0,2
+36,Wroclaw University of Technology,1.0,2
+37,École de Technologie Superieure,1.0,2
+38,Aligarh Muslim University,1.0,1
+39,Birla Institute of Technology Mesra,1.0,1
+40,Brno University of Technology,1.0,1
+41,Cardiff University Wales,1.0,1
+42,Centro Federal de Educação Tecnológica de Minas Gerais,1.0,1
+43,Centro Universitário da FEI,1.0,1
+44,Centro Universitário Facens,1.0,1
+45,Chalmers University of Technology,1.0,1
+46,Clemson University,1.0,1
+47,Cornell University,1.0,1
+48,Curtin University,1.0,1
+49,Doshisha University,1.0,1
+50,Duale Hochschule Baden-Württemberg Stuttgart,1.0,1
+51,Edith Cowan University,1.0,1
+52,Escola Politécnica da Universidade de São Paulo,1.0,1
+53,Fachhochschule Coburg,1.0,1
+54,Fachhochschule München,1.0,1
+55,Fachhochschule Stralsund,1.0,1
+56,Gadjah Mada University,1.0,1
+57,Helsinki Metropolia University of Applied Sciences,1.0,1
+58,Hochschule für Technik und Wirtschaft Berlin,1.0,1
+59,Indian Institute of Technology Madras,1.0,1
+60,Instituto Tecnológico de Buenos Aires,1.0,1
+61,Kanagawa Institute of Technology,1.0,1
+62,Kettering University,1.0,1
+63,Kobe University,1.0,1
+64,Luleå University of Technology,1.0,1
+65,Manipal Academy of Higher Education,1.0,1
+66,McGill University,1.0,1
+67,Michigan State University,1.0,1
+68,Nagoya University,1.0,1
+69,Nippon Institute of Technology,1.0,1
+70,Oregon State University,1.0,1
+71,Ostbayerische Technische Hochschule Regensburg,1.0,1
+72,Ostfalia University of Applied Sciences,1.0,1
+73,Politecnico di Torino,1.0,1
+74,Queen's University Belfast,1.0,1
+75,Shizuoka University,1.0,1
+76,Slovak University of Technology in Bratislava,1.0,1
+77,Swinburne University of Technology,1.0,1
+78,Tallinn TU UAS,1.0,1
+79,Technical University of Munich,1.0,1
+80,Technische Hochschule Mittelhessen,1.0,1
+81,Technische Universität Bergakademie Freiberg,1.0,1
+82,Technische Universität Berlin,1.0,1
+83,Technische Universität Braunschweig,1.0,1
+84,Texas A&amp;M University,1.0,1
+85,The Ohio State University,1.0,1
+86,The University of Akron,1.0,1
+87,University of Aberdeen,1.0,1
+88,University of Adelaide,1.0,1
+89,University of Alberta,1.0,1
+90,University of Applied Sciences Ravensburg-Weingarten,1.0,1
+91,University of California Berkeley,1.0,1
+92,University Of Hertfordshire,1.0,1
+93,University of Illinois at Urbana-Champaign,1.0,1
+94,University of Leeds,1.0,1
+95,University of Liverpool,1.0,1
+96,University of Malaga,1.0,1
+97,University of Michigan - Ann Arbor,1.0,1
+98,University of Queensland,1.0,1
+99,University of Sussex,1.0,1
+100,University of Sydney,1.0,1
+101,University of Texas at Arlington,1.0,1
+102,University of the West of England,1.0,1
+103,University of Thessaly,1.0,1
+104,University of Wales Trinity Saint David,1.0,1
+105,University of Washington,1.0,1
+106,University of Western Australia,1.0,1
+107,University of Wollongong,1.0,1
+108,Università degli Studi di Firenze,1.0,1
+109,Università degli Studi di Roma La Sapienza,1.0,1
+110,Universität Kassel,1.0,1
+111,Universität Paderborn,1.0,1
+112,Westsächsische Hochschule Zwickau,1.0,1
+113,Worcester Polytechnic Institute,1.0,1
+114,Yokohama National University,1.0,1
+115,École Polytechnique de Montréal,1.0,1
+116,Ain Shams University,2.0,3
+117,Missouri University of Science and Technology,2.0,3
+118,University of Toronto,2.0,3
+119,Budapest University of Technology and Economics,2.0,2
+120,California State Polytechnic University Pomona,2.0,2
+121,Kanazawa University,2.0,2
+122,Loughborough University,2.0,2
+123,Politecnico di Milano,2.0,2
+124,R.V.College of Engineering,2.0,2
+125,Technische Universiteit Eindhoven,2.0,2
+126,Universidade Federal do Rio Grande do Sul,2.0,2
+127,University of Canterbury,2.0,2
+128,University of Saskatchewan,2.0,2
+129,AGH University of Science and Technology,2.0,1
+130,Aristotle University of Thessaloniki,2.0,1
+131,Brunel University London,2.0,1
+132,Centro integrado de Manufatura e Tecnologia - SENAICIMATEC,2.0,1
+133,Coventry University,2.0,1
+134,Dartmouth College,2.0,1
+135,Florida Atlantic University,2.0,1
+136,Friedrich-Alexander-Universität Erlangen-Nürnberg,2.0,1
+137,Hochschule Mannheim,2.0,1
+138,Indian Institute of Technology Kharagpur,2.0,1
+139,Kanazawa Institute of Technology,2.0,1
+140,Kinki University,2.0,1
+141,Kyoto University,2.0,1
+142,National Technical University of Athens,2.0,1
+143,Osaka University,2.0,1
+144,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2.0,1
+145,Purdue University - West Lafayette,2.0,1
+146,Queen's University,2.0,1
+147,Ryerson University,2.0,1
+148,Shibaura Institute of Technology,2.0,1
+149,SRM Institute of Science and Technology - Kattankulathur,2.0,1
+150,Technische Universität Wien,2.0,1
+151,Universidade Estadual Paulista - Guaratinguetá,2.0,1
+152,Universitat Politécnica de Valéncia,2.0,1
+153,Universitatea Transilvania din Braşov,2.0,1
+154,University of Arizona,2.0,1
+155,University of Glasgow,2.0,1
+156,University of Manitoba,2.0,1
+157,University of Maryland,2.0,1
+158,University of Melbourne,2.0,1
+159,University of New South Wales - Australian Defence Force Academy,2.0,1
+160,University of Ottawa,2.0,1
+161,University of South Florida,2.0,1
+162,University of Warwick,2.0,1
+163,Università della Calabria,2.0,1
+164,Yıldız Technical University,2.0,1
+165,Auburn University,3.0,3
+166,Hochschule für Angewandte Wissenschaften Hamburg,3.0,3
+167,University of Maribor,3.0,3
+168,Lawrence Technological University,3.0,2
+169,Universidade Federal de Minas Gerais,3.0,2
+170,Białystok University of Technology,3.0,1
+171,Birla Institute of Science and Technology Pilani - Dubai,3.0,1
+172,College of Science and Technology Nihon University,3.0,1
+173,Czech Technical University in Prague,3.0,1
+174,Delhi Technological University,3.0,1
+175,Fachhochschule Aachen,3.0,1
+176,Griffith University,3.0,1
+177,Heriot-Watt University,3.0,1
+178,Hochschule Pforzheim,3.0,1
+179,Iowa State University,3.0,1
+180,Karlstad University,3.0,1
+181,Kyoto Institute of Technology,3.0,1
+182,Meijo University,3.0,1
+183,Otto-von-Guericke-Universität Magdeburg,3.0,1
+184,Rensselaer Polytechnic Institute,3.0,1
+185,Rheinisch-Westfälische Technische Hochschule Aachen,3.0,1
+186,Ritsumeikan University,3.0,1
+187,Rose-Hulman Institute of Technology,3.0,1
+188,Rzeszów University of Technology,3.0,1
+189,Saginaw Valley State University,3.0,1
+190,Santa Clara University,3.0,1
+191,South Dakota School of Mines and Technology,3.0,1
+192,Taylor's University,3.0,1
+193,Technion - Israel Institute of Technology,3.0,1
+194,Technische Universität Darmstadt,3.0,1
+195,TECNUN - University of Navarra,3.0,1
+196,Thapar Institute of Engineering and Technology,3.0,1
+197,Tongji University,3.0,1
+198,Universidad de Vigo,3.0,1
+199,Universidade Federal de Santa Maria,3.0,1
+200,Universidade Federal de Sergipe,3.0,1
+201,University of Birmingham,3.0,1
+202,University of Florida,3.0,1
+203,University of Illinois at Chicago,3.0,1
+204,University of Kansas,3.0,1
+205,University of Kentucky,3.0,1
+206,University of New South Wales,3.0,1
+207,University of Texas at Austin,3.0,1
+208,Université Laval,3.0,1
+209,Instituto Mauá de Tecnologia,4.0,2
+210,Nihon Automobile College,4.0,2
+211,Toyohashi University of Technology,4.0,2
+212,Ulm University of Applied Sciences,4.0,2
+213,University of Southampton,4.0,2
+214,California State University Los Angeles,4.0,1
+215,Carleton University,4.0,1
+216,Chiba University,4.0,1
+217,Duale Hochschule Baden-Württemberg Ravensburg,4.0,1
+218,K. J. Somaiya College of Engineering,4.0,1
+219,Keio University,4.0,1
+220,Lancaster  University,4.0,1
+221,Louisiana State University,4.0,1
+222,Osaka Institute of Technology,4.0,1
+223,PES University,4.0,1
+224,Ruhr-Universität Bochum,4.0,1
+225,Rutgers The State University of New Jersey,4.0,1
+226,San Diego State University,4.0,1
+227,Shri G.S. Institute of Technology and Science Indore,4.0,1
+228,State University of New York at Buffalo,4.0,1
+229,Swansea University,4.0,1
+230,Széchenyi István University,4.0,1
+231,Tennessee Technological University,4.0,1
+232,Tokai University,4.0,1
+233,Tokyo Denki University,4.0,1
+234,UAS Würzburg-Schweinfurt,4.0,1
+235,United States Naval Academy,4.0,1
+236,Universidad Politécnica de Cartagena,4.0,1
+237,Universidad Politécnica de Madrid (UPM),4.0,1
+238,University of Brescia,4.0,1
+239,University of Cadiz,4.0,1
+240,University of Connecticut,4.0,1
+241,University of Huddersfield,4.0,1
+242,University of New Mexico,4.0,1
+243,University of Oklahoma,4.0,1
+244,University of Tasmania,4.0,1
+245,University of Toledo,4.0,1
+246,University of Waterloo,4.0,1
+247,Utsunomiya University,4.0,1
+248,École Centrale de Lyon,4.0,1
+249,University of Cincinnati,5.0,3
+250,Fachhochschule Hannover,5.0,2
+251,Universidade Federal do Rio de Janeiro,5.0,2
+252,Australian National University,5.0,1
+253,California State University Northridge,5.0,1
+254,Deakin University,5.0,1
+255,Escola de Engenharia de Lorena da Universidade de São Paulo,5.0,1
+256,Kansas State University,5.0,1
+257,Kogakuin University,5.0,1
+258,Kokushikan University,5.0,1
+259,Lehigh University,5.0,1
+260,NED University of Engineering and Technology,5.0,1
+261,Newcastle University,5.0,1
+262,Old Dominion University,5.0,1
+263,Poznan University of Technology,5.0,1
+264,Sardar Patel College of Engineering Mumbai,5.0,1
+265,Sinhgad College of Engineering Vadgaon,5.0,1
+266,Smt. Kashibai Navale College of Engineering,5.0,1
+267,Universidade de Lisboa - Instituto Superior Técnico,5.0,1
+268,Universidade Federal de Itajubá - Itajubá,5.0,1
+269,Universidade Federal de Santa Catarina,5.0,1
+270,Universidade Federal de São João del Rei,5.0,1
+271,University of Belgrade (Универзитет у Београду),5.0,1
+272,University of Colorado at Boulder,5.0,1
+273,University of Delaware,5.0,1
+274,University of Sheffield,5.0,1
+275,University of Split,5.0,1
+276,University of Technology Sydney,5.0,1
+277,Universität Bayreuth,5.0,1
+278,Université du Québec à Trois-Rivières,5.0,1
+279,Vishwakarma Institute of Information Technology,5.0,1
+280,West Virginia University,5.0,1
+281,Marche Polytechnic University,6.0,3
+282,TAMK University of Applied Sciences,6.0,3
+283,Escola Politècnica Superior d'Enginyeria de Manresa,6.0,2
+284,Okayama University,6.0,2
+285,Queensland University of Technology,6.0,2
+286,Shizuoka Institute of Science and Technology,6.0,2
+287,Universidade Paulista,6.0,2
+288,Cooper Union,6.0,1
+289,Czech University of Life Sciences Prague,6.0,1
+290,Gujarat Technological University,6.0,1
+291,Hochschule für Technik und Wirtschaft Mittweida,6.0,1
+292,Hochschule RheinMain,6.0,1
+293,Hokkaido University,6.0,1
+294,Indian Institute of Technology Kanpur,6.0,1
+295,KLE Technological University,6.0,1
+296,Kyushu Institute of Technology,6.0,1
+297,Lund University,6.0,1
+298,MIT World Peace University,6.0,1
+299,Osaka City University,6.0,1
+300,San José State University,6.0,1
+301,Sheffield Hallam University,6.0,1
+302,The University of Michigan-Dearborn,6.0,1
+303,Tokyo University of Agriculture and Technology,6.0,1
+304,Tokyo University of Science,6.0,1
+305,Universidade Federal Fluminense - Niterói,6.0,1
+306,University of Alabama,6.0,1
+307,University of Minnesota Twin Cities,6.0,1
+308,University of Southern California,6.0,1
+309,University of Strathclyde,6.0,1
+310,Xiamen University of Technology,6.0,1
+311,Western Washington University,7.0,4
+312,Technische Hochschule Lübeck,7.0,2
+313,BITS Pilani KK Birla Goa Campus,7.0,1
+314,Brigham Young University,7.0,1
+315,Colorado School of Mines,7.0,1
+316,Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,7.0,1
+317,Fachhochschule für Wirtschaft und Technik,7.0,1
+318,Fachhochschule Kiel,7.0,1
+319,Graphic Era University,7.0,1
+320,Michigan Technological University,7.0,1
+321,Moscow Polytechnic University,7.0,1
+322,North Carolina State University,7.0,1
+323,Oakland University,7.0,1
+324,Ramaiah Institute of Technology,7.0,1
+325,Tokyo City University,7.0,1
+326,UNESP - Campus de Ilha Solteira,7.0,1
+327,Universidade Estadual do Oeste do Paraná,7.0,1
+328,Universidade Federal do Ceará,7.0,1
+329,University of Calgary,7.0,1
+330,University of Louisville,7.0,1
+331,University of Modena and Reggio Emilia,7.0,1
+332,University of Pennsylvania,7.0,1
+333,University of Puerto Rico,7.0,1
+334,University of South Australia,7.0,1
+335,University of Ulsan,7.0,1
+336,University of Waikato,7.0,1
+337,University of West Bohemia,7.0,1
+338,University Politehnica Of Bucharest,7.0,1
+339,Università degli Studi di Napoli Federico II,7.0,1
+340,Università del Salento,7.0,1
+341,Universität der Bundeswehr München,7.0,1
+342,VIT University - Vellore,7.0,1
+343,Universidad Europea de Madrid,8.0,2
+344,Aston University,8.0,1
+345,Bangalore Institute of Technology,8.0,1
+346,California State University Chico,8.0,1
+347,Columbia University,8.0,1
+348,Dwarkadas. J. Sanghvi College of Engineering,8.0,1
+349,Gunma University,8.0,1
+350,Hochschule Niederrhein,8.0,1
+351,McMaster University,8.0,1
+352,Montana State University - Bozeman,8.0,1
+353,Oklahoma State University - Stillwater,8.0,1
+354,Politecnico di Bari,8.0,1
+355,Polo Universitario de Volta Redonda - Universidade Federal Fluminense,8.0,1
+356,Universidad LaSalle,8.0,1
+357,Universidade de Brasília,8.0,1
+358,Universidade Tecnológica Federal do Paraná,8.0,1
+359,University College Dublin,8.0,1
+360,University of California Los Angeles,8.0,1
+361,University of Edinburgh,8.0,1
+362,VIT University - Chennai,8.0,1
+363,Wichita State University,8.0,1
+364,Ecole Nationale d'Ingénieurs de Metz,9.0,1
+365,Escola Universitària Salesiana de Sarrià (UAB),9.0,1
+366,ETH Zürich,9.0,1
+367,Honda Technical College Kanto,9.0,1
+368,Indian Institute of Technology Bombay,9.0,1
+369,Indian Institute of Technology Dhanbad,9.0,1
+370,Marquette University,9.0,1
+371,Nirma University,9.0,1
+372,Peoples' Friendship University of Russia,9.0,1
+373,Universidad Central de Venezuela,9.0,1
+374,Universidade Federal da Bahia,9.0,1
+375,University of California San Diego,9.0,1
+376,University of Perugia,9.0,1
+377,University of the Basque Country,9.0,1
+378,University of Victoria,9.0,1
+379,Università degli Studi di Parma,9.0,1
+380,Victoria University Australia,9.0,1
+381,Warsaw University of Technology,9.0,1
+382,Wayne State University,9.0,1
+383,Western Michigan University,9.0,1
+384,University of Manchester,10.0,2
+385,University of Portsmouth,10.0,2
+386,AISSMS (All India Shri Shivaji Memorial Society's) College of Engineering,10.0,1
+387,Bauman Moscow State Technical University,10.0,1
+388,California State Polytechnic University - San Luis Obispo,10.0,1
+389,Democritus University of Thrace,10.0,1
+390,Drexel University,10.0,1
+391,Flinders University,10.0,1
+392,Jilin University,10.0,1
+393,Kumaraguru College of Technology,10.0,1
+394,LeTourneau University,10.0,1
+395,Liverpool John Moores University,10.0,1
+396,Nagoya Institute of Technology,10.0,1
+397,National Institute of Technology - Calicut,10.0,1
+398,National Institute of Technology - Karnataka,10.0,1
+399,National University of Sciences and Technology - Karachi,10.0,1
+400,Norwegian University of Science and Technology,10.0,1
+401,Sepuluh Nopember Institute of Technology,10.0,1
+402,Silesian University of Technology,10.0,1
+403,Technische Hochschule Ostwestfalen-Lippe,10.0,1
+404,Togliatti State University,10.0,1
+405,Universidad Rey Juan Carlos,10.0,1
+406,Universidade Federal de Itajubá - Itabira,10.0,1
+407,Universidade Federal de Santa Catarina - Joinville,10.0,1
+408,University of British Columbia - Vancouver,10.0,1
+409,University of Fukui,10.0,1
+410,University of Hawaii at Manoa,10.0,1
+411,University of North Texas,10.0,1
+412,University of Ulster,10.0,1
+413,University of Zagreb,10.0,1
+414,Universität Siegen,10.0,1
+415,Villanova University,10.0,1
+416,Waseda University,10.0,1
+417,Western Sydney University,10.0,1
+418,Kookmin University,11.0,2
+419,Northern Illinois University,11.0,2
+420,Ural State University of Railway Transport,11.0,2
+421,Birmingham City University,11.0,1
+422,Gdańsk University of Technology,11.0,1
+423,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,11.0,1
+424,Hindustan Institute of Technology and Science,11.0,1
+425,John von Neumann University,11.0,1
+426,Kasetsart University,11.0,1
+427,Koblenz University of Applied Science,11.0,1
+428,KTH Royal Institute of Technology,11.0,1
+429,National Taipei University of Technology,11.0,1
+430,National Tsing Hua University,11.0,1
+431,Okayama University of Science,11.0,1
+432,Pennsylvania State University,11.0,1
+433,Saitama University,11.0,1
+434,Seikei University,11.0,1
+435,Symbiosis Institute of Technology,11.0,1
+436,Thakur College of Engineering and Technology,11.0,1
+437,The National Institute of Engineering Mysore,11.0,1
+438,The University of Newcastle,11.0,1
+439,Tokyo Metropolitan College of Industrial Technology,11.0,1
+440,Universidad Nacional Autónoma de México,11.0,1
+441,Universidad Simón Bolívar,11.0,1
+442,University of Exeter,11.0,1
+443,University of Malta,11.0,1
+444,University of Rijeka,11.0,1
+445,Universidade Federal do Paraná,12.0,2
+446,Central Piedmont Community College,12.0,1
+447,COEP Technological University ,12.0,1
+448,Deggendorf Institute of Technology,12.0,1
+449,ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),12.0,1
+450,Hacettepe University,12.0,1
+451,Honda Technical College Kansai,12.0,1
+452,Instituto Tecnológico de Chihuahua,12.0,1
+453,King Mongkut's Institute of Technology Ladkrabang,12.0,1
+454,Marathwada Mitra Mandal's College of Engineering,12.0,1
+455,Northwestern University,12.0,1
+456,Odessa Polytechnic National State University,12.0,1
+457,São Paulo State University - UNESP - Bauru,12.0,1
+458,Technische Universität Dresden,12.0,1
+459,University Carlos III of Madrid,12.0,1
+460,University of Agder,12.0,1
+461,University of Hartford,12.0,1
+462,University of Nebraska–Lincoln,12.0,1
+463,University of Patras,12.0,1
+464,Università degli Studi della Tuscia,12.0,1
+465,Università degli Studi di Roma Tor Vergata,13.0,3
+466,Gifu University,13.0,2
+467,Birla Institute of Technology &amp; Science  Pilani,13.0,1
+468,Colorado State University,13.0,1
+469,Fachhochschule Dortmund,13.0,1
+470,Gheorghe Asachi Technical University of Iaşi,13.0,1
+471,King Mongkut's University of Technology Thonburi,13.0,1
+472,Netaji Subhas Institute of Technology,13.0,1
+473,Portland State University,13.0,1
+474,SRM Institute of Science and Technology NCR Campus,13.0,1
+475,United States Air Force Academy,13.0,1
+476,Universitas Negeri Yogyakarta,13.0,1
+477,University of North Carolina at Charlotte,13.0,1
+478,University of Surrey,13.0,1
+479,University of Yamanashi,13.0,1
+480,Università degli Studi di Catania,13.0,1
+481,York College of Pennsylvania,13.0,1
+482,Ben-Gurion University of the Negev,14.0,2
+483,Amrita School of Engineering Coimbatore,14.0,1
+484,Arizona State University,14.0,1
+485,Beijing Institute of Technology,14.0,1
+486,Berlin School of Economics,14.0,1
+487,Bradley University,14.0,1
+488,Brown University,14.0,1
+489,City University London,14.0,1
+490,Dalhousie University,14.0,1
+491,Duke University,14.0,1
+492,Grand Valley State University,14.0,1
+493,J.C. Bose University of Science and Technology YMCA,14.0,1
+494,Technische Universität Ilmenau,14.0,1
+495,Toyota Technical College Nagoya,14.0,1
+496,Universidad de Castilla-La Mancha,14.0,1
+497,Universitat Jaume I,14.0,1
+498,University of Ljubljana,14.0,1
+499,University of Ontario Institute of Technology,14.0,1
+500,Università degli Studi di Ferrara,14.0,1
+501,Université de Sherbrooke,14.0,1
+502,Aalborg University,15.0,2
+503,FH Campus Wien,15.0,2
+504,Tel Aviv University,15.0,2
+505,Amity School of Engineering and Technology,15.0,1
+506,California State University Fresno,15.0,1
+507,Carnegie Mellon University,15.0,1
+508,DHA Suffa University,15.0,1
+509,Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú UPC,15.0,1
+510,G.V.Acharya Institute of Engineering &amp; Technology,15.0,1
+511,Kakatiya Institute of Technology and Science Warangal,15.0,1
+512,Oregon Institute of Technology,15.0,1
+513,Sanyo-Onoda City University at Tokyo University of Science,15.0,1
+514,Southern Methodist University,15.0,1
+515,Technological University Dublin,15.0,1
+516,Universidad Francisco de Vitoria,15.0,1
+517,University of Guelph,15.0,1
+518,University of Idaho,15.0,1
+519,Ataturk University,16.0,1
+520,Cedarville University,16.0,1
+521,Lafayette College,16.0,1
+522,Monroe County Community College,16.0,1
+523,Niigata University,16.0,1
+524,Osaka Sangyo University,16.0,1
+525,Saarland University,16.0,1
+526,Sinhgad Academy Of Engineering,16.0,1
+527,Technische Hochschule Köln,16.0,1
+528,Temple University,16.0,1
+529,The University of Texas at Dallas,16.0,1
+530,Universidade Federal de São Carlos,16.0,1
+531,University of Kocaeli,16.0,1
+532,University of Miskolc,16.0,1
+533,University of North Florida,16.0,1
+534,Hochschule Heilbronn,17.0,2
+535,CESI École d’ingénieurs - Nanterre,17.0,1
+536,Chitkara University Punjab,17.0,1
+537,Federal University of Paraíba,17.0,1
+538,Haldia Institute of Technology,17.0,1
+539,HAN University of Applied Sciences,17.0,1
+540,Imperial College London,17.0,1
+541,James Cook University,17.0,1
+542,Technical University of Sofia,17.0,1
+543,Union College,17.0,1
+544,University of California Irvine,17.0,1
+545,University of Cambridge,17.0,1
+546,University of Central Florida,17.0,1
+547,University of Southern Queensland,17.0,1
+548,Università degli Studi di Cagliari,17.0,1
+549,Vidyavardhini's College of Engineering and Technology,17.0,1
+550,Yeungnam University College,17.0,1
+551,Bergische Universität Wuppertal,18.0,1
+552,Cégep du Vieux Montréal,18.0,1
+553,Faculty of Textile Science &amp; Technology. Shinshu University,18.0,1
+554,Kennesaw State University,18.0,1
+555,Lakehead University,18.0,1
+556,Pimpri Chinchwad College Of Engineering,18.0,1
+557,PSG College of Technology,18.0,1
+558,Sojo University,18.0,1
+559,Syracuse University,18.0,1
+560,Technical University of Liberec,18.0,1
+561,De Montfort University,19.0,1
+562,Federation University Australia,19.0,1
+563,Indian Institute of Technology Roorkee,19.0,1
+564,Mississippi State University,19.0,1
+565,Sri Venkateswara College of Engineering,19.0,1
+566,University of Oulu,19.0,1
+567,Vishwakarma Institute of Technology,19.0,1
+568,Aichi Institute of Technology,20.0,1
+569,Cherepovets State University,20.0,1
+570,Clarkson University,20.0,1
+571,College of Industrial Technology Nihon University,20.0,1
+572,Concordia University,20.0,1
+573,Galgotias University,20.0,1
+574,Iran University of Science and Technology - Arak,20.0,1
+575,Istanbul Technical University,20.0,1
+576,MCT's Rajiv Gandhi Institute of Technology,20.0,1
+577,Minnesota State University Mankato,20.0,1
+578,North Carolina Agricultural and Technical State University,20.0,1
+579,Polytechnic Institute of Leiria,20.0,1
+580,Southern Taiwan University of Technology,20.0,1
+581,Technische Universität Dortmund,20.0,1
+582,The University of Kitakyushu,20.0,1
+583,Universidade Federal de Viçosa,20.0,1
+584,University of Burgundy - ISAT,20.0,1
+585,University of Massachusetts Lowell,20.0,1
+586,University of Salford,20.0,1
+587,University of the West of Scotland,20.0,1
+588,University of North Dakota,21.0,2
+589,Belgorod state technological university named after V. G. Shukhov,21.0,1
+590,Daido Institute of Technology,21.0,1
+591,Ferdowsi University of Mashad,21.0,1
+592,Instituto Superior de Engenharia de Lisboa,21.0,1
+593,National Institute of Technology - Jamshedpur,21.0,1
+594,National Technical University of Ukraine Kyiv Polytechnic Institute,21.0,1
+595,PES Institute of Technology,21.0,1
+596,Rajarambapu Institute of Technology,21.0,1
+597,Southern Illinois University Carbondale,21.0,1
+598,Staffordshire University,21.0,1
+599,Universidade Comunitária Regional de Chapecó,21.0,1
+600,Universidade Federal De Lavras,21.0,1
+601,Dr. Mahalingam College of Engineering and Technology,22.0,1
+602,Fr Conceicao Rodrigues College of Engineering,22.0,1
+603,Frederick University,22.0,1
+604,Harbin Institute of Technology at Weihai,22.0,1
+605,Kurume Institute of Technology,22.0,1
+606,Linköping University,22.0,1
+607,Madras Institute of Technology,22.0,1
+608,National Institute of Technology - Kurukshetra,22.0,1
+609,National Institute of Technology - Rourkela,22.0,1
+610,Tokyo Metropolitan University,22.0,1
+611,Universidad Panamericana Sede México,22.0,1
+612,University of Louisiana at Lafayette,22.0,1
+613,University of Mostar,22.0,1
+614,University of Wyoming,22.0,1
+615,Cairo University,23.0,1
+616,Fukui University of Technology,23.0,1
+617,Hokkaido Automotive Engineering College,23.0,1
+618,Hope College,23.0,1
+619,IMT Nord Europe - Douai,23.0,1
+620,M.H. Saboo Siddik College of Engineering,23.0,1
+621,Universidad Tecnológica de Pereira,23.0,1
+622,University of New Hampshire,23.0,1
+623,University of Windsor,23.0,1
+624,Université du Québec à Chicoutimi,23.0,1
+625,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,24.0,1
+626,Chiba Institute of Technology,24.0,1
+627,Guru Gobind Singh Indraprastha University,24.0,1
+628,Indian Institute of Technology Delhi,24.0,1
+629,Lokmanya Tilak College of Engineering,24.0,1
+630,Manchester Metropolitan University,24.0,1
+631,Penn State Harrisburg,24.0,1
+632,Pittsburg State University,24.0,1
+633,RMD Sinhgad School of Engineering,24.0,1
+634,University College London,24.0,1
+635,University of Georgia,24.0,1
+636,University of Texas at San Antonio,24.0,1
+637,Institute of Technologists,25.0,2
+638,Meisei University,25.0,2
+639,Brandenburgische Technische Universität Cottbus,25.0,1
+640,California Baptist University,25.0,1
+641,Chulalongkorn University,25.0,1
+642,Hunan University,25.0,1
+643,Korea University of Technology and Education,25.0,1
+644,Saitama Institute of Technology,25.0,1
+645,Technische Universität Kaiserslautern,25.0,1
+646,Tsinghua University,25.0,1
+647,Tyumen Industrial University,25.0,1
+648,University of Hull,25.0,1
+649,University of Sunderland,25.0,1
+650,University of Valladolid,25.0,1
+651,California State University Sacramento,26.0,1
+652,Fachhochschule Osnabrück,26.0,1
+653,Kingston University,26.0,1
+654,Kumoh National Institute of Technology,26.0,1
+655,Maejo University,26.0,1
+656,Purdue University - Northwest,26.0,1
+657,Rajendra Mane College of Engineering and Technology,26.0,1
+658,Southern Illinois University Edwardsville,26.0,1
+659,Ufa State Aviation Technical University,26.0,1
+660,Universidade Federal de Mato Grosso,26.0,1
+661,Universiti Teknologi Petronas,26.0,1
+662,University of Wisconsin-Platteville,26.0,1
+663,Chungbuk National University,27.0,1
+664,Indira Gandhi Delhi Technical University for Women,27.0,1
+665,Middle East Technical University,27.0,1
+666,Nizhny Novgorod State Technical University,27.0,1
+667,Universidade Federal de Campina Grande,27.0,1
+668,University of Delhi,27.0,1
+669,University of Wolverhampton,27.0,1
+670,Hochschule Offenburg,28.0,1
+671,Lovely Professional University,28.0,1
+672,Moscow State Automobile &amp; Road Technical University - MADI,28.0,1
+673,Pune Vidyarti Griha's college of Engineering and Technology,28.0,1
+674,Sardar Vallabhbhai National Institute of Technology,28.0,1
+675,Universiti Teknologi MARA,28.0,1
+676,University of Central Lancashire,28.0,1
+677,University of Evansville,28.0,1
+678,Embry-Riddle Aeronautical University,29.0,1
+679,Queen Mary University of London,29.0,1
+680,University of Messina,29.0,1
+681,Massachusetts Institute of Technology,30.0,2
+682,Ajou University,30.0,1
+683,Hanze University of Applied Sciences Groningen,30.0,1
+684,Universidade Federal do Pará - Campus Tucuruí - UFPA,30.0,1
+685,University of Colorado Denver,30.0,1
+686,University Putra Malaysia,30.0,1
+687,Binghamton University,31.0,1
+688,D.Y. Patil School of Engineering Academy Ambi,31.0,1
+689,Milwaukee School of Engineering,31.0,1
+690,St. Cloud State University,31.0,1
+691,UniSALESIANO Araçatuba,31.0,1
+692,Universidade Federal de Uberlândia - UFU,31.0,1
+693,University of Regina,31.0,1
+694,Acharya Institute of Technology,32.0,1
+695,SRM Institute of Science and Technology - Ramapuram,32.0,1
+696,Universidad Autónoma del Estado de México,32.0,1
+697,Universidade Independente,32.0,1
+698,Bhartiya Institute of Engineering and Technology,33.0,1
+699,California State University Fullerton,33.0,1
+700,HMR Institute of Technology &amp; Management,33.0,1
+701,Shanghai Jiao Tong University,33.0,1
+702,Universitatea Politehnica Timișoara,33.0,1
+703,University of Southern Denmark,33.0,1
+704,University of Virginia,33.0,1
+705,Vasavi College of Engineering,33.0,1
+706,Georgia Southern University,34.0,1
+707,South Dakota State University,34.0,1
+708,St. Vincent Pallotti College of Engineering and Technology,34.0,1
+709,University of Toyama,34.0,1
+710,Università degli Studi di Salerno,34.0,1
+711,Arab Academy for Science Technology &amp; Maritime Transport (AASTMT),35.0,1
+712,DIT University,35.0,1
+713,Escuela Superior de Ingeniería Mecánica y Electrica Unidad Politécnica Ticomán,35.0,1
+714,K L University,35.0,1
+715,Kalinga Institute of Industrial Technology,35.0,1
+716,Nagesh Karajagi Orchid College Of Engineering &amp; Technology,35.0,1
+717,Pellissippi State Community College,35.0,1
+718,Siam University,35.0,1
+719,Thai-Nichi Institute of Technology,35.0,1
+720,Tokyo Institute of Technology,35.0,1
+721,Universidad Metropolitana,35.0,1
+722,Universitat de Girona,35.0,1
+723,University of California Davis,35.0,1
+724,University of Nottingham,35.0,1
+725,Université de Versailles-Saint-Quentin-en-Yvelines,35.0,1
+726,Hiroshima Institute of Technology,36.0,1
+727,Texas Tech University,36.0,1
+728,TKM  College of Engineering,36.0,1
+729,Universidad de Oriente Venezuela,36.0,1
+730,University of Houston,36.0,1
+731,University of South Carolina,36.0,1
+732,University of Utah,36.0,1
+733,Chaitanya Bharathi Institute of Technology,37.0,1
+734,Dr. D. Y. Patil Institute Of Engineering and Technology,37.0,1
+735,Escuela Superior de Ingeniería Automotriz (ESIA) Tlalnepa,37.0,1
+736,FAMU-FSU College of Engineering,37.0,1
+737,Kochi University of Technology,37.0,1
+738,Pillai College Of Engineering,37.0,1
+739,Prince of Songkla University,37.0,1
+740,Saraswati College of Engineering,37.0,1
+741,Uludağ University,37.0,1
+742,Universidad Iberoamericana,37.0,1
+743,Akita Prefectural University,38.0,1
+744,Hiroshima University,38.0,1
+745,Isfahan University of Technology,38.0,1
+746,Osaka Prefecture University,38.0,1
+747,Rayat Institute of Engineering and Information Technology,38.0,1
+748,Amrutvahini College Of Engineering Sangamner,39.0,1
+749,Central Michigan University,39.0,1
+750,Charotar University of Science and Technology,39.0,1
+751,Ferris State University,39.0,1
+752,Kunsan National University,39.0,1
+753,Kyushu Sangyo University,39.0,1
+754,Laxmi Devi Institute of Engineering &amp; Technology,39.0,1
+755,Reykjavík University,39.0,1
+756,Aso College of Automotive Engineering and Technology,40.0,1
+757,Chandigarh University,40.0,1
+758,Setsunan University,40.0,1
+759,University of Alabama in Huntsville,40.0,1
+760,D. Y. Patil College of Engineering &amp; Technology Kasaba Bawada Kolhapur ,41.0,1
+761,MGM's Jawaharlal Nehru Engineering College,41.0,1
+762,Polytechnic University of Puerto Rico,41.0,1
+763,Shizuoka Professional College of Automobile Technology,41.0,1
+764,Technological Educational Institute of Western Macedonia,41.0,1
+765,Tottori University,41.0,1
+766,University of British Columbia - Okanagan,41.0,1
+767,Washington State University,41.0,1
+768,Washington University in St. Louis,41.0,1
+769,Cape Peninsula University of Technology,42.0,1
+770,University of Alabama at Birmingham,42.0,1
+771,Indiana University – Purdue University Indianapolis,43.0,1
+772,University Institute of Technology RGPV Bhopal,43.0,1
+773,London South Bank University,44.0,1
+774,Bharati Vidyapeeth College of Engineering,45.0,1
+775,Ceylon-German Technical Training Institute,45.0,1
+776,Kyushu University,45.0,1
+777,Middle Tennessee State University,45.0,1
+778,NBN Sinhgad School Of Engineering,45.0,1
+779,Nicholls State University,45.0,1
+780,Shonan Institute of Technology,45.0,1
+781,Universidad Nacional Experimental Politécnica,45.0,1
+782,University of California Riverside,46.0,2
+783,Çukurova University,46.0,1
+784,Cleveland State University,47.0,1
+785,Trinity College University of Dublin,47.0,1
+786,Universidad del Zulia,47.0,1
+787,Veer Surendra Sai University of Technology,47.0,1
+788,Aoyama Gakuin University,48.0,1
+789,New Jersey Institute of Technology,48.0,1
+790,Sebelas Maret University,48.0,1
+791,University of California Santa Barbara,48.0,1
+792,University of Indonesia,48.0,1
+793,California State University Long Beach,49.0,1
+794,Nitte Meenakshi Institute of Technology,49.0,1
+795,Stevens Institute of Technology,49.0,1
+796,Alexandria University,50.0,1
+797,Instituto Politécnico Nacional,50.0,1
+798,P.E.S. Modern College of Engineering,50.0,1
+799,Colorado Mesa University,51.0,1
+800,Manav Rachna International University,51.0,1
+801,Memorial University of Newfoundland,51.0,1
+802,Saint Louis University,51.0,1
+803,TSSM’s Bhivarabai Sawant College of Engineering &amp; Research,51.0,1
+804,Florida Institute of Technology,52.0,1
+805,Helwan University (‏جامعة حلوان),52.0,1
+806,Rajarshi Shahu College Of Engineering,52.0,1
+807,Instituto Superior de Engenharia de Coimbra,53.0,1
+808,Nelson Mandela Metropolitan University,53.0,1
+809,University of Minnesota Duluth,53.0,1
+810,University of Moratuwa,53.0,1
+811,Hubei University of Automotive Technology,54.0,1
+812,Polytechnic Institute of New York University,54.0,1
+813,Guangxi University of Science and Technology,55.0,1
+814,Hoseo University,55.0,1
+815,Mansoura University,55.0,1
+816,ESIA San Luis Potosi,56.0,1
+817,Universidad Interamericana de Puerto Rico,56.0,1
+818,Leibniz Universität Hannover,57.0,2
+819,Yamagata University,58.0,2
+820,Hanyang University,58.0,1
+821,Peter the Great St. Petersburg Polytechnic University,58.0,1
+822,Recinto Universitario de Mayagüez,59.0,2
+823,University of Dundee,59.0,1
+824,University of St. Thomas,59.0,1
+825,Hochschule Bonn-Rhein-Sieg,60.0,1
+826,Institute of Technology Bandung,60.0,1
+827,North Dakota State University,60.0,1
+828,Teikyo University,60.0,1
+829,WIZ International College of Information and Technology,60.0,1
+830,Case Western Reserve University,61.0,1
+831,Fachhochschule Frankfurt am Main,61.0,1
+832,North East Wales Institute of Higher Education,62.0,1
+833,University of New Brunswick,63.0,1
+834,Florida International University,64.0,1
+835,Universidad de las Fuerzas Armadas - ESPE,67.0,1
+836,Thomas More Mechelen - De Nayer,68.0,1
+837,Loyola Marymount University,69.0,1
+838,University of Maine,69.0,1
+839,Virginia Commonwealth University,69.0,1
+840,University of Northampton,71.0,1
+841,Karel de Grote University College,72.0,1
+842,University of Stavanger,73.0,1
+843,École Centrale Paris,74.0,1
+844,University of the Pacific,75.0,1
+845,University of Iowa,76.0,1
+846,University of Portland,76.0,1
+847,Ana G. Méndez University - Gurabo,77.0,1
+848,University of Derby,77.0,1
+849,Universidad Politecnica Salesiana,78.0,1
+850,Zhejiang University City College,79.0,1
+851,Miami University,82.0,1
+852,Philadelphia University,83.0,1
+853,Midwestern State University,84.0,1
+854,Jordan University of Science and Technology,88.0,1
+855,Seoul National University of Science and Technology,90.0,1
+856,Østfold University College,90.0,1
+857,Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas or UPIITA,91.0,1
+858,J.S.S. Academy of Technical Education Noida,94.0,1
+859,Alabama A&amp;M University,99.0,1
+860,Universidad Católica Andrés Bello,104.0,1
+861,Texas State University,107.0,1
+862,Fanshawe College,111.0,1
+863,École nationale d'aérotechnique,122.0,1
+864,City College of The City University of New York,inf,0
+865,Düzce University,inf,0
+866,Grand Canyon University,inf,0
+867,Liaoning University of Technology,inf,0
+868,PEC University of Technology,inf,0
+869,Tokyo Tech Car College Setagaya,inf,0
+870,Universidade Paulista - Campinas - Campus II,inf,0
+871,Universidade Paulista - Sorocaba,inf,0
+872,University of Brighton,inf,0
+873,University of Leicester,inf,0
+874,University of Massachusetts Dartmouth,inf,0
+875,Vaughn College of Aeronautics and Technology,inf,0
