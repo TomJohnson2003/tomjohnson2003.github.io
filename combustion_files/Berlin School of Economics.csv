@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2010,Italy,0.94,41,31.,3.,14.,26.,-,-,-,-,-,-15,228,298.
-2008,Germany,0.94,77,71.,69.,53.,44.,-,-,-,-,-,0,159,323.
-2007,Germany,0.95,53,45.,32.,38.,37.,-,-,-,-,-,0,154,284.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2010.09,Italy,0.94,41,31.,3.,90.54,14.,53.57,26.,99.0,-,0,-,0,-,0,-,0,-,0,-15,228,298.
+2008.08,Germany,0.94,77,71.,69.,46.19,53.,47.66,44.,65.0,-,0,-,0,-,0,-,0,-,0,0,159,323.
+2007.08,Germany,0.95,53,45.,32.,69.4,38.,44.38,37.,40.0,-,0,-,0,-,0,-,0,-,0,0,154,284.

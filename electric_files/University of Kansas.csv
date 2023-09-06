@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2017,Lincoln,0.85,21,10.,15.,7.,6.,-,-,-,-,-,0,226,72.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2017.06,Lincoln,0.85,21,10.,15.,60.1,7.,65.6,6.,100.0,-,0,-,0,-,0,-,0,-,0,0,226,72.

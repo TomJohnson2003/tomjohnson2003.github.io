@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2017,Brasil,0.85,40,2.,26.,1.,4.,3.,9.,11.,3.,2.,0,646,71.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2017.12,Brasil,0.85,40,2.,26.,48.7,1.,75.0,4.,102.0,3.,86.6,9.,41.8,11.,74.7,3.,134.7,2.,82.1,0,646,71.

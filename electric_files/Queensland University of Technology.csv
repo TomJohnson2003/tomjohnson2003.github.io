@@ -1,5 +1,5 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2022,Australia,0.90,20,20.,-,-,19.,-,-,-,-,-,0,4,255.
-2019,Australia,0.85,16,12.,5.,2.,9.,-,-,-,-,-,0,217,101.
-2016,Australia,0.90,32,28.,28.,26.,23.,-,-,-,-,-,0,191,89.
-2015,Australia,0.92,29,29.,26.,-,-,-,-,-,-,-,0,18,100.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2022.12,Australia,0.90,20,20.,-,0,-,0,19.,4.0,-,0,-,0,-,0,-,0,-,0,0,4,255.
+2019.12,Australia,0.85,16,12.,5.,56.0,2.,69.3,9.,91.3,-,0,-,0,-,0,-,0,-,0,0,217,101.
+2016.12,Australia,0.90,32,28.,28.,43.2,26.,48.2,23.,99.9,-,0,-,0,-,0,-,0,-,0,0,191,89.
+2015.12,Australia,0.92,29,29.,26.,18.5,-,0,-,0,-,0,-,0,-,0,-,0,-,0,0,18,100.

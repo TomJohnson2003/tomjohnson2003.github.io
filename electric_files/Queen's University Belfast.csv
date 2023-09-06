@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2022,United Kingdom,0.85,51,25.,29.,14.,23.,-,-,-,-,-,16,216,123.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2022.07,United Kingdom,0.85,51,25.,29.,46.0,14.,85.9,23.,69.0,-,0,-,0,-,0,-,0,-,0,16,216,123.

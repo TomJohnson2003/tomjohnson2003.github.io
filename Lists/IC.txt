@@ -6,16 +6,16 @@ Aichi Institute of Technology
 Ain Shams University
 Ajou University
 Akita Prefectural University
-Alabama A&amp;M University
+Alabama A&M University
 Alexandria University
 Aligarh Muslim University
 Alma Mater Studiorum - Università di Bologna
 Amity School of Engineering and Technology
-Amrita School of Engineering, Coimbatore
-Amrutvahini College Of Engineering, Sangamner
+Amrita School of Engineering Coimbatore
+Amrutvahini College Of Engineering Sangamner
 Ana G. Méndez University - Gurabo
 Aoyama Gakuin University
-Arab Academy for Science, Technology &amp; Maritime Transport (AASTMT)
+Arab Academy for Science Technology & Maritime Transport (AASTMT)
 Aristotle University of Thessaloniki
 Arizona State University
 Aso College of Automotive Engineering and Technology
@@ -36,8 +36,8 @@ Bhartiya Institute of Engineering and Technology
 Białystok University of Technology
 Binghamton University
 Birla Institute of Science and Technology Pilani - Dubai
-Birla Institute of Technology &amp; Science , Pilani
-Birla Institute of Technology, Mesra
+Birla Institute of Technology & Science  Pilani
+Birla Institute of Technology Mesra
 Birmingham City University
 Bradley University
 Brandenburgische Technische Universität Cottbus
@@ -51,16 +51,16 @@ COEP Technological University
 Cairo University
 California Baptist University
 California State Polytechnic University - San Luis Obispo
-California State Polytechnic University, Pomona
-California State University, Chico
-California State University, Fresno
-California State University, Fullerton
-California State University, Long Beach
-California State University, Los Angeles
-California State University, Northridge
-California State University, Sacramento
+California State Polytechnic University Pomona
+California State University Chico
+California State University Fresno
+California State University Fullerton
+California State University Long Beach
+California State University Los Angeles
+California State University Northridge
+California State University Sacramento
 Cape Peninsula University of Technology
-Cardiff University, Wales
+Cardiff University Wales
 Carleton University
 Carnegie Mellon University
 Case Western Reserve University
@@ -80,7 +80,7 @@ Charotar University of Science and Technology
 Cherepovets State University
 Chiba Institute of Technology
 Chiba University
-Chitkara University, Punjab
+Chitkara University Punjab
 Chulalongkorn University
 Chungbuk National University
 City College of The City University of New York
@@ -88,8 +88,8 @@ City University London
 Clarkson University
 Clemson University
 Cleveland State University
-College of Industrial Technology, Nihon University
-College of Science and Technology, Nihon University
+College of Industrial Technology Nihon University
+College of Science and Technology Nihon University
 Colorado Mesa University
 Colorado School of Mines
 Colorado State University
@@ -102,8 +102,8 @@ Curtin University
 Czech Technical University in Prague
 Czech University of Life Sciences Prague
 Cégep du Vieux Montréal
-D. Y. Patil College of Engineering &amp; Technology, Kasaba Bawada, Kolhapur 
-D.Y. Patil School of Engineering Academy, Ambi
+D. Y. Patil College of Engineering & Technology Kasaba Bawada Kolhapur 
+D.Y. Patil School of Engineering Academy Ambi
 DHA Suffa University
 DIT University
 Daido Institute of Technology
@@ -152,7 +152,7 @@ Fachhochschule München
 Fachhochschule Osnabrück
 Fachhochschule Stralsund
 Fachhochschule für Wirtschaft und Technik
-Faculty of Textile Science &amp; Technology. Shinshu University
+Faculty of Textile Science & Technology. Shinshu University
 Fanshawe College
 Federal University of Paraíba
 Federation University Australia
@@ -166,8 +166,8 @@ Fr Conceicao Rodrigues College of Engineering
 Frederick University
 Friedrich-Alexander-Universität Erlangen-Nürnberg
 Fukui University of Technology
-G.V.Acharya Institute of Engineering &amp; Technology
-GFR DHBW Ravensburg &amp; Oregon State University
+G.V.Acharya Institute of Engineering & Technology
+GFR DHBW Ravensburg & Oregon State University
 Gadjah Mada University
 Galgotias University
 Gdańsk University of Technology
@@ -184,7 +184,7 @@ Gujarat Technological University
 Gunma University
 Guru Gobind Singh Indraprastha University
 HAN University of Applied Sciences
-HMR Institute of Technology &amp; Management
+HMR Institute of Technology & Management
 Hacettepe University
 Haldia Institute of Technology
 Hanyang University
@@ -198,7 +198,7 @@ Hindustan Institute of Technology and Science
 Hiroshima Institute of Technology
 Hiroshima University
 Hochschule Bonn-Rhein-Sieg
-Hochschule Darmstadt, UAS
+Hochschule Darmstadt UAS
 Hochschule Esslingen
 Hochschule Heilbronn
 Hochschule Karlsruhe - Technik und Wirtschaft
@@ -242,8 +242,8 @@ Iowa State University
 Iran University of Science and Technology - Arak
 Isfahan University of Technology
 Istanbul Technical University
-J.C. Bose University of Science and Technology, YMCA
-J.S.S. Academy of Technical Education, Noida
+J.C. Bose University of Science and Technology YMCA
+J.S.S. Academy of Technical Education Noida
 James Cook University
 Jilin University
 John von Neumann University
@@ -252,7 +252,7 @@ K L University
 K. J. Somaiya College of Engineering
 KLE Technological University
 KTH Royal Institute of Technology
-Kakatiya Institute of Technology and Science, Warangal
+Kakatiya Institute of Technology and Science Warangal
 Kalinga Institute of Industrial Technology
 Kanagawa Institute of Technology
 Kanazawa Institute of Technology
@@ -289,7 +289,7 @@ Lafayette College
 Lakehead University
 Lancaster  University
 Lawrence Technological University
-Laxmi Devi Institute of Engineering &amp; Technology
+Laxmi Devi Institute of Engineering & Technology
 LeTourneau University
 Lehigh University
 Leibniz Universität Hannover
@@ -330,17 +330,17 @@ Middle East Technical University
 Middle Tennessee State University
 Midwestern State University
 Milwaukee School of Engineering
-Minnesota State University, Mankato
+Minnesota State University Mankato
 Mississippi State University
 Missouri University of Science and Technology
 Monash University
 Monroe County Community College
 Montana State University - Bozeman
 Moscow Polytechnic University
-Moscow State Automobile &amp; Road Technical University - MADI
+Moscow State Automobile & Road Technical University - MADI
 NBN Sinhgad School Of Engineering
 NED University of Engineering and Technology
-Nagesh Karajagi Orchid College Of Engineering &amp; Technology
+Nagesh Karajagi Orchid College Of Engineering & Technology
 Nagoya Institute of Technology
 Nagoya University
 National Institute of Technology - Calicut
@@ -437,12 +437,12 @@ Ritsumeikan University
 Rochester Institute of Technology
 Rose-Hulman Institute of Technology
 Ruhr-Universität Bochum
-Rutgers, The State University of New Jersey
+Rutgers The State University of New Jersey
 Ryerson University
 Rzeszów University of Technology
 SRM Institute of Science and Technology - Kattankulathur
 SRM Institute of Science and Technology - Ramapuram
-SRM Institute of Science and Technology, NCR Campus
+SRM Institute of Science and Technology NCR Campus
 Saarland University
 Saginaw Valley State University
 Saint Louis University
@@ -453,7 +453,7 @@ San José State University
 Santa Clara University
 Sanyo-Onoda City University at Tokyo University of Science
 Saraswati College of Engineering
-Sardar Patel College of Engineering, Mumbai
+Sardar Patel College of Engineering Mumbai
 Sardar Vallabhbhai National Institute of Technology
 Sebelas Maret University
 Seikei University
@@ -471,7 +471,7 @@ Shri G.S. Institute of Technology and Science Indore
 Siam University
 Silesian University of Technology
 Sinhgad Academy Of Engineering
-Sinhgad College of Engineering, Vadgaon
+Sinhgad College of Engineering Vadgaon
 Slovak University of Technology in Bratislava
 Smt. Kashibai Navale College of Engineering
 Sojo University
@@ -497,7 +497,7 @@ São Paulo State University - UNESP - Bauru
 TAMK University of Applied Sciences
 TECNUN - University of Navarra
 TKM  College of Engineering
-TSSM’s Bhivarabai Sawant College of Engineering &amp; Research
+TSSM’s Bhivarabai Sawant College of Engineering & Research
 TU Delft
 Tallinn TU UAS
 Taylor's University
@@ -526,13 +526,13 @@ Teikyo University
 Tel Aviv University
 Temple University
 Tennessee Technological University
-Texas A&amp;M University
+Texas A&M University
 Texas State University
 Texas Tech University
 Thai-Nichi Institute of Technology
 Thakur College of Engineering and Technology
 Thapar Institute of Engineering and Technology
-The National Institute of Engineering, Mysore
+The National Institute of Engineering Mysore
 The Ohio State University
 The University of Akron
 The University of Kitakyushu
@@ -555,7 +555,7 @@ Tongji University
 Tottori University
 Toyohashi University of Technology
 Toyota Technical College Nagoya
-Trinity College, University of Dublin
+Trinity College University of Dublin
 Tsinghua University
 Tyumen Industrial University
 UAS Kempten
@@ -659,13 +659,13 @@ University of British Columbia - Vancouver
 University of Burgundy - ISAT
 University of Cadiz
 University of Calgary
+University of California Berkeley
 University of California Davis
 University of California Irvine
+University of California Los Angeles
+University of California Riverside
 University of California San Diego
 University of California Santa Barbara
-University of California, Berkeley
-University of California, Los Angeles
-University of California, Riverside
 University of Cambridge
 University of Canterbury
 University of Central Florida
@@ -770,7 +770,7 @@ University of Surrey
 University of Sussex
 University of Sydney
 University of Tasmania
-University of Technology, Sydney
+University of Technology Sydney
 University of Texas at Arlington
 University of Texas at Austin
 University of Texas at San Antonio
@@ -836,7 +836,7 @@ Vanderbilt University
 Vasavi College of Engineering
 Vaughn College of Aeronautics and Technology
 Veer Surendra Sai University of Technology
-Victoria University, Australia
+Victoria University Australia
 Vidyavardhini's College of Engineering and Technology
 Villanova University
 Virginia Commonwealth University

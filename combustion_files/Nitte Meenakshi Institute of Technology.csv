@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2019,India,0.85,54,45.,51.,49.,36.,-,-,-,-,-,-10,73,578.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2019.01,India,0.85,54,45.,51.,11.0,49.,30.27,36.,42.0,-,0,-,0,-,0,-,0,-,0,-10,73,578.

@@ -1,0 +1,876 @@
+Rank,University,#,Points
+1,Shri G.S. Institute of Technology and Science Indore,1,91.56
+2,Marathwada Mitra Mandal's College of Engineering,1,89.84
+3,Arab Academy for Science Technology & Maritime Transport (AASTMT),1,87.45
+4,Dwarkadas. J. Sanghvi College of Engineering,7,86.86142857142856
+5,Smt. Kashibai Navale College of Engineering,6,85.86833333333334
+6,Università degli Studi di Ferrara,3,83.66666666666667
+7,Chungbuk National University,2,82.315
+8,Università degli Studi di Firenze,13,81.97153846153847
+9,Tsinghua University,1,81.2
+10,MIT World Peace University,3,81.16000000000001
+11,Universidad Simón Bolívar,19,80.98
+12,Kookmin University,16,80.04374999999999
+13,Széchenyi István University,20,78.887
+14,Universität Stuttgart,67,78.61641791044777
+15,COEP Technological University ,2,78.5
+16,R.V.College of Engineering,17,78.43470588235293
+17,Indian Institute of Technology Bombay,2,78.25
+18,Universidad Central de Venezuela,10,78.09
+19,Università di Pisa,24,77.83208333333333
+20,University of Pennsylvania,7,77.72571428571429
+21,PES University,3,77.66666666666667
+22,Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,9,77.61333333333334
+23,Karlsruhe Institute of Technology,47,77.42255319148936
+24,Centro Universitário da FEI,19,77.15263157894736
+25,University of Toronto,36,76.86888888888889
+26,Northern Illinois University,17,76.78588235294119
+27,Central Piedmont Community College,2,76.6
+28,Hochschule Esslingen,45,76.43711111111111
+29,University of Strathclyde,29,76.07068965517242
+30,University of Bath,41,76.00756097560976
+31,University of Wollongong,22,75.95000000000002
+32,Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas or UPIITA,1,75.9
+33,Universidad del Zulia,3,75.85666666666667
+34,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),24,75.76083333333334
+35,Università della Calabria,11,75.44272727272727
+36,Fachhochschule Stralsund,35,75.39571428571428
+37,National Technical University of Athens,9,75.26777777777778
+38,Bhartiya Institute of Engineering and Technology,1,75.21
+39,Tennessee Technological University,13,75.11692307692309
+40,University of Applied Sciences Ravensburg-Weingarten,32,74.93875
+41,Vishwakarma Institute of Technology,2,74.85499999999999
+42,University of Louisiana at Lafayette,4,74.6625
+43,Monash University,32,74.6028125
+44,University of Thessaly,13,74.59153846153846
+45,University of Sheffield,12,74.41666666666667
+46,Universidade Federal do Ceará,1,74.4
+47,Università degli studi di Padova,29,74.2503448275862
+48,Villanova University,12,74.19166666666666
+49,Deggendorf Institute of Technology,4,73.945
+50,Osaka University,17,73.75294117647059
+51,Brno University of Technology,29,73.70206896551723
+52,Politecnico di Torino,19,73.68
+53,Indian Institute of Technology Roorkee,1,73.5
+54,Friedrich-Alexander-Universität Erlangen-Nürnberg,39,73.1317948717949
+55,Fachhochschule Coburg,48,73.118125
+56,GFR DHBW Ravensburg & Oregon State University,36,73.09527777777777
+57,École Centrale de Lyon,12,73.07416666666667
+58,Cedarville University,7,72.98
+59,Westsächsische Hochschule Zwickau,11,72.90636363636365
+60,Universidade Estadual de Campinas,14,72.90500000000002
+61,Manipal Academy of Higher Education,12,72.85166666666667
+62,Alma Mater Studiorum - Università di Bologna,25,72.8224
+63,TU Delft,16,72.78812500000001
+64,Universitat Politécnica de Valéncia,22,72.72318181818181
+65,Ostbayerische Technische Hochschule Regensburg,32,72.69093749999999
+66,University of North Dakota,13,72.61076923076924
+67,Oxford Brookes University,41,72.60878048780488
+68,Wayne State University,21,72.41476190476193
+69,RMD Sinhgad School of Engineering,1,72.32
+70,University Of Hertfordshire,34,72.29794117647059
+71,St. Cloud State University,8,72.0075
+72,University of California Los Angeles,6,71.8
+73,University of Brescia,6,71.78333333333335
+74,University of Idaho,7,71.63142857142857
+75,University of Cincinnati,32,71.38499999999999
+76,University of Modena and Reggio Emilia,32,71.34375
+77,University of Messina,1,71.0
+78,Fachhochschule Joanneum Graz,59,70.98627118644067
+79,Technische Universität Berlin,33,70.95
+80,Isfahan University of Technology,1,70.93
+81,Centro Universitário Facens,19,70.8021052631579
+82,Lafayette College,7,70.77714285714286
+83,University of Ontario Institute of Technology,7,70.68571428571428
+84,Kanagawa Institute of Technology,15,70.45933333333332
+85,University of Toledo,39,70.25230769230768
+86,University of Alberta,24,70.16541666666667
+87,Columbia University,16,70.1025
+88,Massachusetts Institute of Technology,9,70.0788888888889
+89,University of Malta,6,70.03333333333335
+90,KLE Technological University,1,70.0
+91,Technische Universität Darmstadt,17,69.94882352941177
+92,University of New Hampshire,16,69.935625
+93,Technische Hochschule Lübeck,6,69.905
+94,École de Technologie Superieure,40,69.833
+95,Technische Universität Braunschweig,16,69.821875
+96,University of Liverpool,21,69.78619047619047
+97,University Carlos III of Madrid,11,69.67090909090909
+98,SRM Institute of Science and Technology - Kattankulathur,5,69.66
+99,Technion - Israel Institute of Technology,12,69.54666666666667
+100,Heriot-Watt University,8,69.5375
+101,University of Manitoba,25,69.4712
+102,University of Illinois at Chicago,16,69.394375
+103,Hochschule Karlsruhe - Technik und Wirtschaft,35,69.37685714285715
+104,Indian Institute of Technology Madras,9,69.28
+105,Saginaw Valley State University,21,69.25142857142858
+106,University of Western Australia,21,69.24333333333333
+107,Duale Hochschule Baden-Württemberg Stuttgart,3,69.23666666666668
+108,Georgia Southern University,13,69.22384615384615
+109,University of New South Wales,20,69.19699999999999
+110,Binghamton University,3,69.15666666666667
+111,Czech Technical University in Prague,36,69.12305555555557
+112,Gujarat Technological University,5,69.054
+113,Central Michigan University,5,68.78
+114,The University of Akron,49,68.76959183673469
+115,Universidad Panamericana Sede México,6,68.755
+116,Edith Cowan University,12,68.75083333333332
+117,Berlin School of Economics,3,68.71000000000001
+118,Escola de Engenharia de São Carlos da Universidade de São Paulo,15,68.59133333333334
+119,Minnesota State University Mankato,17,68.57117647058824
+120,Universidad Nacional Experimental Politécnica,3,68.55333333333333
+121,University of Portland,1,68.4
+122,Kumoh National Institute of Technology,10,68.355
+123,K. J. Somaiya College of Engineering,13,68.30615384615386
+124,Georgia Institute of Technology,29,68.29827586206896
+125,Chalmers University of Technology,22,68.295
+126,Ostfalia University of Applied Sciences,13,68.23
+127,Dartmouth College,17,68.21941176470588
+128,Hunan University,4,68.215
+129,Universidade de Lisboa - Instituto Superior Técnico,5,68.138
+130,Democritus University of Thrace,2,68.12
+131,Fachhochschule München,34,68.0614705882353
+132,Carleton University,25,68.04480000000001
+133,Togliatti State University,4,68.005
+134,Technische Universität Bergakademie Freiberg,10,67.995
+135,Hochschule für Technik und Wirtschaft Mittweida,10,67.78600000000002
+136,Technische Universität Graz,66,67.73151515151515
+137,Technical University of Munich,46,67.72760869565218
+138,National University of Singapore,16,67.71
+139,Meijo University,17,67.66529411764706
+140,University of Wisconsin-Madison,36,67.66333333333333
+141,University of South Florida,21,67.62904761904763
+142,University of Illinois at Urbana-Champaign,40,67.42224999999999
+143,Missouri University of Science and Technology,43,67.38627906976744
+144,Rochester Institute of Technology,51,67.33196078431374
+145,University of Guelph,16,67.2175
+146,PES Institute of Technology,2,67.2
+147,Universidad Autónoma del Estado de México,12,67.18916666666667
+148,Duale Hochschule Baden-Württemberg Ravensburg,8,67.16624999999999
+149,LeTourneau University,6,67.045
+150,RMIT University,26,66.95384615384616
+151,Politecnico di Milano,24,66.95375
+152,Brown University,25,66.9532
+153,Carnegie Mellon University,11,66.93545454545455
+154,Australian National University,6,66.90333333333332
+155,Tokyo Denki University,28,66.8625
+156,Fachhochschule Kiel,12,66.82083333333333
+157,Kennesaw State University,18,66.78666666666666
+158,Brigham Young University,3,66.75
+159,Miami University,3,66.66
+160,Hochschule für Angewandte Wissenschaften Hamburg,48,66.63375
+161,University of British Columbia - Vancouver,23,66.54086956521739
+162,National Institute of Technology - Karnataka,3,66.46333333333332
+163,Saint Louis University,7,66.40857142857142
+164,Università del Salento,10,66.402
+165,Aristotle University of Thessaloniki,22,66.37636363636364
+166,ETH Zürich,8,66.36125
+167,VIT University - Vellore,11,66.34363636363638
+168,Moscow Polytechnic University,17,66.28470588235294
+169,Technische Universität Wien,15,66.27133333333333
+170,Oklahoma State University - Stillwater,17,66.16764705882352
+171,Universität Kassel,21,66.1204761904762
+172,Purdue University - Northwest,5,66.06
+173,San José State University,21,66.0095238095238
+174,Helsinki Metropolia University of Applied Sciences,24,65.97333333333334
+175,University of New Mexico,19,65.94736842105263
+176,University of Maryland,21,65.85809523809525
+177,University of Saskatchewan,19,65.8563157894737
+178,Ain Shams University,6,65.85
+179,Cardiff University Wales,24,65.84291666666667
+180,Recinto Universitario de Mayagüez,3,65.83333333333333
+181,Fachhochschule für Wirtschaft und Technik,3,65.82666666666667
+182,Tallinn TU UAS,10,65.789
+183,Luleå University of Technology,5,65.764
+184,University of Florida,27,65.73074074074073
+185,Victoria University Australia,5,65.7
+186,Universidad Católica Andrés Bello,2,65.68
+187,Hochschule Offenburg,5,65.64399999999999
+188,Hochschule Niederrhein,17,65.60352941176471
+189,University of Wisconsin-Platteville,14,65.58999999999999
+190,Marche Polytechnic University,11,65.44727272727272
+191,University of Oklahoma,31,65.43935483870968
+192,Universität Siegen,3,65.43666666666667
+193,Cairo University,6,65.405
+194,University of Victoria,18,65.3872222222222
+195,University of California Berkeley,15,65.34333333333333
+196,California Baptist University,4,65.325
+197,University of Windsor,14,65.32428571428572
+198,University of Seville,20,65.288
+199,University of Auckland,13,65.26692307692308
+200,University of Birmingham,34,65.22735294117648
+201,KTH Royal Institute of Technology,10,65.155
+202,Cooper Union,13,65.13000000000001
+203,Università degli Studi di Roma La Sapienza,21,65.10619047619048
+204,Southern Illinois University Edwardsville,6,65.07166666666667
+205,University of Louisville,12,65.0125
+206,Koblenz University of Applied Science,1,65.0
+207,California State Polytechnic University Pomona,31,64.93677419354839
+208,UAS Würzburg-Schweinfurt,20,64.915
+209,University of Evansville,13,64.80153846153846
+210,Norwegian University of Science and Technology,4,64.7525
+211,Clemson University,26,64.74115384615385
+212,University of North Texas,8,64.6875
+213,University of Colorado Denver,7,64.64428571428572
+214,North Dakota State University,9,64.52
+215,Vanderbilt University,11,64.52
+216,TECNUN - University of Navarra,15,64.49466666666666
+217,Iowa State University,29,64.45689655172414
+218,University of New South Wales - Australian Defence Force Academy,14,64.41928571428572
+219,Loughborough University,35,64.38057142857143
+220,Ferdowsi University of Mashad,1,64.37
+221,Rose-Hulman Institute of Technology,12,64.36666666666666
+222,Texas A&M University,20,64.342
+223,Oakland University,28,64.31749999999998
+224,University of Missouri,37,64.28702702702702
+225,University College Dublin,4,64.25
+226,Rutgers The State University of New Jersey,32,64.19375000000001
+227,Budapest University of Technology and Economics,17,64.17529411764706
+228,University of Patras,6,64.14500000000001
+229,Universität Paderborn,35,63.90371428571429
+230,University of Sydney,18,63.87611111111111
+231,Daido Institute of Technology,8,63.825
+232,Universidad de Oriente Venezuela,4,63.775
+233,Escola Politècnica Superior d'Enginyeria de Manresa,10,63.771
+234,Middle East Technical University,3,63.72666666666667
+235,Lakehead University,12,63.71666666666667
+236,DHA Suffa University,1,63.7
+237,Technische Universiteit Eindhoven,12,63.67416666666666
+238,Keio University,13,63.639230769230764
+239,École Polytechnique de Montréal,30,63.60833333333334
+240,Rensselaer Polytechnic Institute,32,63.45343749999999
+241,University of Adelaide,17,63.444705882352935
+242,Xiamen University of Technology,3,63.43000000000001
+243,Universidad Nacional Autónoma de México,12,63.41
+244,McGill University,26,63.38653846153847
+245,Michigan State University,35,63.38028571428571
+246,Technische Hochschule Ostwestfalen-Lippe,15,63.35666666666667
+247,Colorado Mesa University,6,63.349999999999994
+248,University of Nebraska–Lincoln,15,63.31333333333335
+249,Cornell University,27,63.177037037037046
+250,Swinburne University of Technology,11,63.07363636363636
+251,Ferris State University,11,62.93090909090909
+252,Università degli Studi di Napoli Federico II,7,62.92714285714286
+253,University of Michigan - Ann Arbor,43,62.873720930232565
+254,Poznan University of Technology,11,62.58545454545455
+255,University of Melbourne,18,62.57777777777777
+256,Instituto Tecnológico de Chihuahua,16,62.5375
+257,VŠB - Technical University of Ostrava,11,62.52454545454545
+258,Universität Bayreuth,11,62.4
+259,Hochschule RheinMain,16,62.396249999999995
+260,Western University,34,62.39029411764706
+261,Universidade Federal de Minas Gerais,7,62.36142857142857
+262,University of the Pacific,1,62.3
+263,Brunel University London,31,62.16806451612903
+264,Hope College,5,62.14000000000001
+265,Fachhochschule Osnabrück,5,62.032
+266,École nationale d'aérotechnique,1,61.97
+267,Universidad Iberoamericana,2,61.845
+268,University of North Florida,9,61.78888888888889
+269,Fachhochschule Konstanz,33,61.78636363636363
+270,The University of Michigan-Dearborn,25,61.7604
+271,Kanazawa University,18,61.74333333333334
+272,Wroclaw University of Technology,31,61.73903225806452
+273,Auburn University,38,61.643947368421045
+274,University of West Bohemia,10,61.515
+275,Birla Institute of Technology Mesra,4,61.5
+276,Universidad Politécnica de Madrid (UPM),17,61.47647058823529
+277,Western Washington University,18,61.46111111111111
+278,Western Michigan University,15,61.45133333333334
+279,Virginia Polytechnic Institute and State University,31,61.3641935483871
+280,Texas Tech University,10,61.35799999999999
+281,National Institute of Technology - Kurukshetra,2,61.25
+282,Hochschule für Technik und Wirtschaft Berlin,17,61.16705882352941
+283,University of Aberdeen,12,61.13333333333333
+284,Dalhousie University,11,61.09090909090909
+285,Università degli Studi di Parma,10,61.06600000000001
+286,University of Calgary,21,61.04714285714286
+287,Swansea University,17,61.02529411764705
+288,University of Waterloo,33,60.99454545454545
+289,University of Virginia,1,60.9
+290,University of Belgrade (Универзитет у Београду),17,60.79058823529412
+291,Kettering University,33,60.75666666666666
+292,Centro Federal de Educação Tecnológica de Minas Gerais,13,60.74615384615385
+293,North Carolina Agricultural and Technical State University,3,60.73666666666667
+294,Universidade Federal do Rio de Janeiro,12,60.69916666666666
+295,Delhi Technological University,10,60.523
+296,University of Zagreb,8,60.48375
+297,California State University Chico,7,60.44285714285714
+298,Embry-Riddle Aeronautical University,5,60.424
+299,University of British Columbia - Okanagan,5,60.339999999999996
+300,University of Hawaii at Manoa,7,60.25714285714285
+301,Lancaster  University,17,60.22470588235295
+302,Escola Politécnica da Universidade de São Paulo,9,60.11555555555555
+303,G.V.Acharya Institute of Engineering & Technology,1,60.0
+304,University of South Australia,11,60.0
+305,University of Delaware,16,59.990625
+306,University of Cambridge,18,59.95666666666667
+307,Ana G. Méndez University - Gurabo,2,59.900000000000006
+308,Kansas State University,24,59.88625
+309,Rheinisch-Westfälische Technische Hochschule Aachen,20,59.8485
+310,Technische Hochschule Köln,5,59.82000000000001
+311,Otto-von-Guericke-Universität Magdeburg,13,59.70384615384616
+312,University of Texas at Arlington,29,59.65206896551724
+313,Washington University in St. Louis,15,59.647999999999996
+314,VIT University - Chennai,6,59.61333333333334
+315,Ryerson University,27,59.519259259259265
+316,Thapar Institute of Engineering and Technology,12,59.44
+317,Concordia University,18,59.41666666666666
+318,Purdue University - West Lafayette,29,59.37206896551722
+319,Pennsylvania State University,27,59.329629629629636
+320,Białystok University of Technology,25,59.314400000000006
+321,Kyoto Institute of Technology,13,59.31307692307692
+322,North Carolina State University,25,59.29920000000001
+323,Ben-Gurion University of the Negev,7,59.15428571428571
+324,National University of Sciences and Technology - Karachi,5,59.11
+325,Indiana University – Purdue University Indianapolis,4,59.1
+326,Memorial University of Newfoundland,4,59.09
+327,Northwestern University,13,59.06923076923078
+328,University of Leeds,27,59.065185185185186
+329,Nagoya University,13,59.05307692307691
+330,Cégep du Vieux Montréal,8,59.03
+331,Sinhgad Academy Of Engineering,1,59.0
+332,United States Naval Academy,20,58.979499999999994
+333,Queen's University,32,58.931875
+334,Queen's University Belfast,15,58.894
+335,FH Campus Wien,12,58.885
+336,University of Arizona,18,58.88055555555556
+337,Université du Québec à Chicoutimi,18,58.75111111111111
+338,University of Warwick,16,58.72
+339,University of Houston,4,58.675
+340,Université de Sherbrooke,19,58.64473684210525
+341,Université Laval,19,58.606842105263155
+342,Florida Atlantic University,12,58.583333333333336
+343,Çukurova University,1,58.53
+344,University of North Carolina at Charlotte,17,58.527647058823526
+345,University of Delhi,3,58.416666666666664
+346,Bradley University,22,58.3540909090909
+347,Polo Universitario de Volta Redonda - Universidade Federal Fluminense,5,58.318000000000005
+348,UAS Kempten,29,58.29724137931035
+349,Université du Québec à Trois-Rivières,23,58.27565217391305
+350,Ramaiah Institute of Technology,5,58.217999999999996
+351,University of Tasmania,5,58.138
+352,Thakur College of Engineering and Technology,1,58.1
+353,Technological Educational Institute of Western Macedonia,2,58.09
+354,University of Glasgow,10,58.07000000000001
+355,Curtin University,15,58.062
+356,McMaster University,13,58.05615384615385
+357,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,13,58.00153846153846
+358,Monroe County Community College,9,57.85111111111112
+359,Deakin University,11,57.84818181818182
+360,Flinders University,4,57.825
+361,Duke University,24,57.649166666666666
+362,Technological University Dublin,6,57.61666666666667
+363,Kakatiya Institute of Technology and Science Warangal,1,57.61
+364,Tokyo Metropolitan College of Industrial Technology,1,57.6
+365,Oregon State University,14,57.542142857142856
+366,Università degli Studi di Roma Tor Vergata,17,57.43000000000001
+367,Karlstad University,12,57.35
+368,Florida Institute of Technology,12,57.27916666666666
+369,University of Alabama,15,57.272
+370,Universidade Federal do Paraná,2,57.224999999999994
+371,Università degli Studi di Catania,2,57.035
+372,Pittsburg State University,4,57.025
+373,Ulm University of Applied Sciences,26,56.847692307692306
+374,University of Southern Denmark,5,56.784000000000006
+375,York College of Pennsylvania,13,56.75692307692307
+376,University of Ulsan,3,56.676666666666655
+377,University of the West of England,10,56.648
+378,Rzeszów University of Technology,12,56.482499999999995
+379,Coventry University,19,56.47684210526315
+380,California State University Los Angeles,6,56.38333333333333
+381,Università degli Studi di Cagliari,4,56.335
+382,Universiti Teknologi MARA,1,56.2
+383,University of Central Florida,20,56.197500000000005
+384,Grand Valley State University,5,56.160000000000004
+385,Instituto Superior de Engenharia de Coimbra,1,56.0
+386,Pimpri Chinchwad College Of Engineering,1,56.0
+387,Universidad Interamericana de Puerto Rico,1,56.0
+388,Saarland University,15,55.97799999999999
+389,United States Air Force Academy,19,55.95473684210527
+390,California State University Northridge,22,55.876363636363635
+391,University of Surrey,7,55.871428571428574
+392,State University of New York at Buffalo,13,55.77615384615384
+393,University of Manchester,11,55.76545454545454
+394,The Ohio State University,34,55.738529411764716
+395,University of Washington,31,55.69612903225807
+396,University of Maine,2,55.650000000000006
+397,Polytechnic University of Puerto Rico,6,55.58666666666667
+398,Yeungnam University College,22,55.50818181818181
+399,Universidade Tecnológica Federal do Paraná,5,55.5
+400,University of Puerto Rico,10,55.46999999999999
+401,Tokyo City University,17,55.28411764705882
+402,Liverpool John Moores University,11,55.15272727272727
+403,University of Waikato,10,55.03000000000001
+404,University of Huddersfield,31,54.935483870967744
+405,The University of Texas at Dallas,3,54.93333333333334
+406,Nagoya Institute of Technology,17,54.8435294117647
+407,South Dakota State University,18,54.80555555555556
+408,Tokyo University of Agriculture and Technology,14,54.75357142857143
+409,University of Split,5,54.748000000000005
+410,University of Wales Trinity Saint David,10,54.708000000000006
+411,Hochschule Darmstadt UAS,31,54.70161290322581
+412,Southern Illinois University Carbondale,11,54.68727272727272
+413,California State University Sacramento,17,54.63352941176471
+414,Fr Conceicao Rodrigues College of Engineering,3,54.629999999999995
+415,Texas State University,1,54.6
+416,The University of Newcastle,14,54.597857142857144
+417,Politecnico di Bari,10,54.511
+418,University of Kansas,42,54.46142857142858
+419,Amrita School of Engineering Coimbatore,3,54.45666666666667
+420,Colorado State University,17,54.35588235294117
+421,California State University Fullerton,11,54.33636363636364
+422,Jilin University,1,54.29
+423,University of Pittsburgh,34,54.28764705882353
+424,Kyoto University,16,54.285625
+425,San Diego State University,16,54.1875
+426,Università degli Studi della Tuscia,10,54.097
+427,Niigata University,11,54.09
+428,Birmingham City University,8,54.087500000000006
+429,University of Queensland,18,54.022222222222226
+430,PEC University of Technology,1,54.0
+431,University of Burgundy - ISAT,26,53.998461538461534
+432,Griffith University,5,53.94
+433,Technische Hochschule Mittelhessen,16,53.929375
+434,Worcester Polytechnic Institute,16,53.771249999999995
+435,Escola Universitària Salesiana de Sarrià (UAB),5,53.678
+436,Universidade Federal De Lavras,1,53.6
+437,City College of The City University of New York,1,53.59
+438,University of Southampton,14,53.56642857142857
+439,DIT University,3,53.56333333333333
+440,Lund University,16,53.498125
+441,University of Minnesota Twin Cities,22,53.47181818181818
+442,Sinhgad College of Engineering Vadgaon,8,53.30125
+443,Indian Institute of Technology Kharagpur,4,53.1625
+444,Universidade de Brasília,7,53.055714285714295
+445,Drexel University,20,53.0055
+446,Case Western Reserve University,2,52.935
+447,Hochschule Heilbronn,17,52.90882352941177
+448,Universidade Federal de São João del Rei,5,52.879999999999995
+449,University of Colorado at Boulder,16,52.85124999999999
+450,Vidyavardhini's College of Engineering and Technology,2,52.75
+451,Universidade Federal de Santa Catarina,7,52.644285714285715
+452,Silesian University of Technology,6,52.62833333333333
+453,Kyushu Sangyo University,1,52.52
+454,South Dakota School of Mines and Technology,23,52.465652173913035
+455,Universidade Federal do Rio Grande do Sul,6,52.39333333333334
+456,Symbiosis Institute of Technology,2,52.239999999999995
+457,Yıldız Technical University,15,52.208666666666666
+458,Louisiana State University,21,52.20285714285716
+459,Queensland University of Technology,10,52.11800000000001
+460,University of Leicester,1,52.0
+461,Washington State University,10,51.968
+462,Tel Aviv University,5,51.876
+463,Michigan Technological University,23,51.84000000000001
+464,Lehigh University,21,51.838571428571434
+465,Montana State University - Bozeman,6,51.788333333333334
+466,Technische Universität Dortmund,15,51.715333333333334
+467,Florida International University,7,51.68571428571429
+468,Sardar Patel College of Engineering Mumbai,3,51.666666666666664
+469,Vaughn College of Aeronautics and Technology,1,51.6
+470,Kalinga Institute of Industrial Technology,2,51.485
+471,TAMK University of Applied Sciences,22,51.45772727272727
+472,Technical University of Liberec,7,51.35142857142857
+473,Wichita State University,12,51.25833333333333
+474,Universidad Rey Juan Carlos,7,51.205714285714286
+475,University of Southern California,17,51.20411764705882
+476,University of Salford,3,51.166666666666664
+477,University of Hartford,20,51.165000000000006
+478,UNESP - Campus de Ilha Solteira,7,51.097142857142856
+479,University of California Davis,9,51.03555555555556
+480,University of St. Thomas,4,51.0
+481,Fachhochschule Aachen,23,50.98565217391304
+482,Doshisha University,16,50.984375
+483,University of Technology Sydney,11,50.75818181818182
+484,Clarkson University,19,50.66894736842105
+485,Universidade Federal de Santa Maria,10,50.665
+486,Hochschule Pforzheim,15,50.316
+487,Helwan University (‏جامعة حلوان),1,50.3
+488,Birla Institute of Technology & Science  Pilani,5,50.199999999999996
+489,University of Perugia,5,50.193999999999996
+490,Indian Institute of Technology Kanpur,2,50.15
+491,University of the Basque Country,6,50.0
+492,California State Polytechnic University - San Luis Obispo,21,49.83142857142856
+493,Milwaukee School of Engineering,9,49.796666666666674
+494,Slovak University of Technology in Bratislava,10,49.786
+495,Escola de Engenharia de Lorena da Universidade de São Paulo,4,49.760000000000005
+496,Universidad Politécnica de Cartagena,4,49.725
+497,Universidade Paulista,11,49.723636363636366
+498,Technische Universität Ilmenau,2,49.68
+499,Aalborg University,13,49.59307692307693
+500,Bauman Moscow State Technical University,10,49.504
+501,Universidad Politecnica Salesiana,1,49.3
+502,Taylor's University,2,49.25
+503,University of Minnesota Duluth,6,49.1
+504,Old Dominion University,13,49.04384615384616
+505,Vasavi College of Engineering,1,49.03
+506,Aligarh Muslim University,4,48.8925
+507,Universidade Federal Fluminense - Niterói,11,48.74363636363637
+508,Instituto Tecnológico de Buenos Aires,1,48.7
+509,PSG College of Technology,4,48.5975
+510,The University of Tokyo,14,48.54357142857143
+511,Stevens Institute of Technology,9,48.47222222222222
+512,Ecole Nationale d'Ingénieurs de Metz,20,48.4535
+513,Sheffield Hallam University,15,48.32533333333333
+514,Sri Venkateswara College of Engineering,4,48.2
+515,Aston University,18,48.17444444444445
+516,University of Texas at Austin,21,47.93857142857143
+517,Osaka City University,10,47.804
+518,AGH University of Science and Technology,17,47.64764705882353
+519,Galgotias University,3,47.64666666666667
+520,Leibniz Universität Hannover,4,47.545
+521,Kobe University,15,47.118000000000016
+522,Portland State University,12,47.048333333333325
+523,Technische Universität Kaiserslautern,9,47.013333333333335
+524,Grand Canyon University,1,47.0
+525,NBN Sinhgad School Of Engineering,1,47.0
+526,Sophia University,28,46.98964285714286
+527,Birla Institute of Science and Technology Pilani - Dubai,3,46.71333333333333
+528,University of the West of Scotland,3,46.666666666666664
+529,Sardar Vallabhbhai National Institute of Technology,1,46.58
+530,University of Sussex,13,46.56615384615384
+531,Vishwakarma Institute of Information Technology,4,46.4775
+532,University of Dundee,6,46.38333333333333
+533,Ruhr-Universität Bochum,18,46.367222222222225
+534,J.C. Bose University of Science and Technology YMCA,2,46.32
+535,Dr. D. Y. Patil Institute Of Engineering and Technology,2,46.21
+536,Imperial College London,6,46.20666666666667
+537,Iran University of Science and Technology - Arak,1,46.18
+538,MCT's Rajiv Gandhi Institute of Technology,3,46.13333333333333
+539,Middle Tennessee State University,4,46.115
+540,Oregon Institute of Technology,9,46.06666666666667
+541,University of Alabama at Birmingham,1,46.0
+542,University of Central Lancashire,15,45.948
+543,Southern Methodist University,3,45.9
+544,Universidade Federal de São Carlos,6,45.79833333333334
+545,Honda Technical College Kansai,22,45.70045454545454
+546,Instituto Mauá de Tecnologia,11,45.57272727272727
+547,Peter the Great St. Petersburg Polytechnic University,1,45.56
+548,King Mongkut's Institute of Technology Ladkrabang,7,45.51714285714286
+549,Nihon Automobile College,10,45.508
+550,Universidade Federal de Itajubá - Itajubá,6,45.458333333333336
+551,California State University Long Beach,8,45.435
+552,Penn State Harrisburg,4,45.375
+553,Hoseo University,3,45.27
+554,Shibaura Institute of Technology,20,45.178999999999995
+555,University of Canterbury,4,45.025
+556,Yokohama National University,15,44.89333333333333
+557,Universidad Tecnológica de Pereira,1,44.8
+558,Guru Gobind Singh Indraprastha University,2,44.75
+559,Indira Gandhi Delhi Technical University for Women,2,44.644999999999996
+560,Lovely Professional University,2,44.644999999999996
+561,M.H. Saboo Siddik College of Engineering,2,44.55
+562,University of Cadiz,6,44.51666666666667
+563,University of Ottawa,5,44.48
+564,Gdańsk University of Technology,8,44.269999999999996
+565,Tokyo University of Science,15,44.26066666666667
+566,Manchester Metropolitan University,13,44.19384615384615
+567,University of Edinburgh,6,44.133333333333326
+568,TKM  College of Engineering,1,44.13
+569,University of Maribor,30,44.12466666666667
+570,Cape Peninsula University of Technology,2,44.05
+571,Nirma University,1,43.85
+572,Amity School of Engineering and Technology,3,43.843333333333334
+573,Universidade Federal de Campina Grande,2,43.71
+574,University of Rijeka,10,43.67
+575,Lawrence Technological University,30,43.66833333333332
+576,ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),3,43.589999999999996
+577,Virginia Commonwealth University,1,43.5
+578,Pellissippi State Community College,2,43.45
+579,Polytechnic Institute of Leiria,5,43.4
+580,University of Kentucky,6,43.349999999999994
+581,University of Portsmouth,15,43.25866666666666
+582,Federation University Australia,3,43.06666666666666
+583,Rajarshi Shahu College Of Engineering,1,43.0
+584,Rayat Institute of Engineering and Information Technology,1,43.0
+585,Universidade Estadual Paulista - Guaratinguetá,9,42.96333333333334
+586,Universidade Comunitária Regional de Chapecó,3,42.93333333333334
+587,Indian Institute of Technology Delhi,4,42.9
+588,Temple University,21,42.87666666666666
+589,University of California San Diego,14,42.78857142857142
+590,Kanazawa Institute of Technology,14,42.62
+591,Shizuoka University,16,42.611875
+592,Kokushikan University,20,42.54700000000001
+593,Rajendra Mane College of Engineering and Technology,2,42.465
+594,Ibaraki University,14,42.34571428571429
+595,Warsaw University of Technology,13,42.317692307692305
+596,Utsunomiya University,17,42.28176470588235
+597,Universitatea Transilvania din Braşov,23,42.185652173913056
+598,Indian Institute of Technology Dhanbad,1,42.0
+599,City University London,14,41.824999999999996
+600,Seikei University,11,41.79545454545455
+601,Kogakuin University,13,41.658461538461545
+602,Ural State University of Railway Transport,8,41.321250000000006
+603,De Montfort University,7,41.1
+604,Universidad Metropolitana,7,41.05142857142857
+605,Mississippi State University,13,40.94769230769229
+606,Escuela Superior de Ingeniería Mecánica y Electrica Unidad Politécnica Ticomán,3,40.9
+607,Universidad de Vigo,13,40.87384615384615
+608,University of California Irvine,16,40.81625
+609,Chitkara University Punjab,8,40.79625
+610,Universidad Europea de Madrid,19,40.79473684210526
+611,Hacettepe University,4,40.7775
+612,University of Connecticut,20,40.7595
+613,Marquette University,11,40.72363636363636
+614,Honda Technical College Kanto,12,40.6425
+615,University of Ulster,15,40.62133333333334
+616,Staffordshire University,4,40.525000000000006
+617,Hindustan Institute of Technology and Science,2,40.45
+618,Chiba University,15,40.344
+619,University of Texas at San Antonio,15,40.32133333333333
+620,John von Neumann University,10,40.26199999999999
+621,Amrutvahini College Of Engineering Sangamner,1,40.0
+622,Graphic Era University,1,40.0
+623,Instituto Superior de Engenharia de Lisboa,1,40.0
+624,Universidade Independente,1,40.0
+625,Newcastle University,3,39.79666666666667
+626,Fachhochschule Hannover,18,39.52055555555555
+627,University of Miskolc,5,39.464
+628,College of Science and Technology Nihon University,17,39.26235294117647
+629,Okayama University,15,39.17133333333334
+630,University of Wolverhampton,6,38.86666666666667
+631,Technische Universität Dresden,6,38.82333333333334
+632,Polytechnic Institute of New York University,5,38.652
+633,Toyohashi University of Technology,12,38.51083333333333
+634,University of Yamanashi,13,38.323846153846155
+635,Arizona State University,11,38.04272727272728
+636,University of Oulu,2,37.95
+637,Nippon Institute of Technology,11,37.93727272727273
+638,Universidade Federal de Santa Catarina - Joinville,5,37.838
+639,Aichi Institute of Technology,9,37.77333333333333
+640,Cherepovets State University,1,37.34
+641,University of Brighton,1,37.1
+642,Istanbul Technical University,3,37.06
+643,Universitat Jaume I,7,37.0
+644,Rajarambapu Institute of Technology,2,36.5
+645,University of Agder,2,36.5
+646,Universidad de Castilla-La Mancha,3,36.44
+647,Escuela Superior de Ingeniería Automotriz (ESIA) Tlalnepa,3,36.333333333333336
+648,K L University,3,36.333333333333336
+649,Colorado School of Mines,17,36.300000000000004
+650,AISSMS (All India Shri Shivaji Memorial Society's) College of Engineering,2,36.25
+651,BITS Pilani KK Birla Goa Campus,2,36.25
+652,University of Iowa,2,36.185
+653,National Institute of Technology - Rourkela,2,36.0
+654,Nizhny Novgorod State Technical University,1,36.0
+655,Odessa Polytechnic National State University,7,35.69285714285714
+656,Kinki University,16,35.579375
+657,Sepuluh Nopember Institute of Technology,6,35.43666666666667
+658,Universidad de las Fuerzas Armadas - ESPE,3,35.32
+659,Kyushu Institute of Technology,15,35.284
+660,Hokkaido University,12,35.281666666666666
+661,Università degli Studi di Salerno,1,35.25
+662,Veer Surendra Sai University of Technology,2,35.25
+663,São Paulo State University - UNESP - Bauru,4,35.1375
+664,Hochschule Mannheim,10,35.114999999999995
+665,Madras Institute of Technology,1,35.0
+666,Queen Mary University of London,2,34.9
+667,Netaji Subhas Institute of Technology,1,34.54
+668,Tokyo Institute of Technology,2,34.5
+669,University of Fukui,14,34.45428571428571
+670,Pune Vidyarti Griha's college of Engineering and Technology,1,34.32
+671,Federal University of Paraíba,6,34.3
+672,Universidade Federal da Bahia,6,34.15333333333333
+673,National Institute of Technology - Jamshedpur,3,33.96666666666667
+674,University of Ljubljana,2,33.67
+675,University College London,7,33.628571428571426
+676,Tyumen Industrial University,4,33.3
+677,Linköping University,9,32.91222222222222
+678,Yamagata University,3,32.9
+679,Osaka Prefecture University,5,32.894
+680,Faculty of Textile Science & Technology. Shinshu University,5,32.736000000000004
+681,West Virginia University,15,32.50266666666668
+682,University of Utah,14,32.152142857142856
+683,NED University of Engineering and Technology,3,31.19
+684,Nagesh Karajagi Orchid College Of Engineering & Technology,1,31.0
+685,Thomas More Mechelen - De Nayer,1,31.0
+686,Frederick University,1,30.97
+687,Syracuse University,8,30.7475
+688,Sanyo-Onoda City University at Tokyo University of Science,8,30.53625
+689,University of Nottingham,6,30.06
+690,Lokmanya Tilak College of Engineering,1,30.0
+691,TSSM’s Bhivarabai Sawant College of Engineering & Research,1,30.0
+692,Chaitanya Bharathi Institute of Technology,2,29.655
+693,Universität der Bundeswehr München,5,29.642000000000003
+694,Gheorghe Asachi Technical University of Iaşi,9,29.603333333333335
+695,University of Exeter,7,29.514285714285712
+696,New Jersey Institute of Technology,3,29.47666666666667
+697,University of Sunderland,14,29.464285714285715
+698,Tongji University,12,29.421666666666667
+699,Universidad LaSalle,1,29.33
+700,Peoples' Friendship University of Russia,8,29.240000000000002
+701,Shanghai Jiao Tong University,1,29.0
+702,Laxmi Devi Institute of Engineering & Technology,1,28.97
+703,University of Massachusetts Lowell,8,28.88875
+704,Tokai University,20,28.782500000000006
+705,University of Regina,3,28.706666666666667
+706,Gifu University,14,28.33357142857142
+707,Moscow State Automobile & Road Technical University - MADI,10,28.326999999999998
+708,University of Malaga,5,28.284
+709,The National Institute of Engineering Mysore,3,28.159999999999997
+710,Hiroshima Institute of Technology,6,28.016666666666666
+711,MGM's Jawaharlal Nehru Engineering College,1,28.0
+712,Universidade Federal de Sergipe,3,27.99
+713,Nicholls State University,1,27.85
+714,Thai-Nichi Institute of Technology,3,27.563333333333333
+715,Universitas Negeri Yogyakarta,5,27.468
+716,Kunsan National University,2,27.435
+717,HMR Institute of Technology & Management,1,27.28
+718,Shizuoka Institute of Science and Technology,14,27.10714285714286
+719,Bergische Universität Wuppertal,11,26.45454545454546
+720,Tokyo Metropolitan University,4,26.4125
+721,North East Wales Institute of Higher Education,2,26.325
+722,National Tsing Hua University,3,26.293333333333333
+723,Centro integrado de Manufatura e Tecnologia - SENAICIMATEC,8,26.12
+724,Waseda University,11,26.065454545454546
+725,WIZ International College of Information and Technology,1,26.0
+726,Fachhochschule Dortmund,14,25.965714285714284
+727,Kochi University of Technology,4,25.965
+728,Universitatea Politehnica Timișoara,2,25.895
+729,SRM Institute of Science and Technology NCR Campus,2,25.75
+730,University Politehnica Of Bucharest,2,25.0
+731,University of Moratuwa,2,24.8
+732,Tottori University,9,24.61111111111111
+733,Belgorod state technological university named after V. G. Shukhov,3,24.436666666666667
+734,Harbin Institute of Technology at Weihai,7,24.34142857142857
+735,HAN University of Applied Sciences,4,24.317500000000003
+736,Kyushu University,4,24.165000000000003
+737,Saraswati College of Engineering,1,24.0
+738,Kingston University,2,23.95
+739,University of South Carolina,2,23.845000000000002
+740,Brandenburgische Technische Universität Cottbus,7,23.43
+741,École Centrale Paris,1,23.3
+742,St. Vincent Pallotti College of Engineering and Technology,1,23.29
+743,Charotar University of Science and Technology,2,23.195
+744,Universidade Federal de Viçosa,1,23.0
+745,University Institute of Technology RGPV Bhopal,1,23.0
+746,University of Derby,1,22.9
+747,Sojo University,11,22.835454545454546
+748,Meisei University,14,22.625714285714285
+749,CESI École d’ingénieurs - Nanterre,1,22.53
+750,D. Y. Patil College of Engineering & Technology Kasaba Bawada Kolhapur ,2,22.5
+751,Czech University of Life Sciences Prague,15,22.228666666666662
+752,Technical University of Sofia,4,21.975
+753,Setsunan University,10,21.523000000000003
+754,P.E.S. Modern College of Engineering,1,21.5
+755,Ritsumeikan University,15,21.28066666666667
+756,Düzce University,1,21.16
+757,Hiroshima University,8,21.02375
+758,Maejo University,1,20.95
+759,Teikyo University,3,20.76
+760,SRM Institute of Science and Technology - Ramapuram,1,20.65
+761,Nelson Mandela Metropolitan University,1,20.43
+762,Guangxi University of Science and Technology,1,20.36
+763,Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú UPC,7,20.312857142857144
+764,Saitama University,3,20.113333333333333
+765,Aso College of Automotive Engineering and Technology,5,19.619999999999997
+766,University of Hull,8,19.55
+767,Gadjah Mada University,8,19.5225
+768,The University of Kitakyushu,5,19.462
+769,Seoul National University of Science and Technology,1,19.2
+770,Kumaraguru College of Technology,3,19.076666666666664
+771,Gunma University,2,19.045
+772,London South Bank University,1,19.0
+773,University of Georgia,2,19.0
+774,Université de Versailles-Saint-Quentin-en-Yvelines,3,18.513333333333332
+775,Osaka Sangyo University,13,18.21923076923077
+776,Hochschule Bonn-Rhein-Sieg,3,17.37
+777,UniSALESIANO Araçatuba,2,17.0
+778,Shonan Institute of Technology,1,16.9
+779,Universidade Federal de Itajubá - Itabira,4,16.65
+780,Alexandria University,3,16.533333333333335
+781,Hanyang University,1,16.36
+782,Chandigarh University,2,15.5
+783,D.Y. Patil School of Engineering Academy Ambi,2,15.5
+784,Sebelas Maret University,2,15.395
+785,University of Kocaeli,2,14.97
+786,Kurume Institute of Technology,13,14.797692307692309
+787,Chiba Institute of Technology,8,14.6125
+788,Union College,3,14.456666666666665
+789,Bharati Vidyapeeth College of Engineering,4,14.375
+790,Universitat de Girona,3,14.333333333333334
+791,King Mongkut's University of Technology Thonburi,8,14.322499999999998
+792,University of Southern Queensland,5,14.179999999999996
+793,Zhejiang University City College,1,14.08
+794,Haldia Institute of Technology,2,14.0
+795,College of Industrial Technology Nihon University,11,13.998181818181818
+796,University of Mostar,2,13.5
+797,Fukui University of Technology,7,13.06142857142857
+798,Osaka Institute of Technology,11,13.06
+799,Manav Rachna International University,2,13.0
+800,Dr. Mahalingam College of Engineering and Technology,1,12.67
+801,Philadelphia University,1,12.5
+802,Uludağ University,2,12.5
+803,Toyota Technical College Nagoya,11,12.024545454545454
+804,IMT Nord Europe - Douai,3,12.0
+805,University of Toyama,5,11.785999999999998
+806,Nitte Meenakshi Institute of Technology,1,11.0
+807,Western Sydney University,2,10.75
+808,Institute of Technologists,13,10.296923076923076
+809,Fachhochschule Frankfurt am Main,2,9.8
+810,Jordan University of Science and Technology,1,9.7
+811,Chulalongkorn University,2,9.635
+812,California State University Fresno,9,9.155555555555557
+813,University of Indonesia,1,8.57
+814,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,4,8.55
+815,Institute of Technology Bandung,1,8.45
+816,University of Northampton,2,7.95
+817,University Putra Malaysia,1,7.85
+818,Karel de Grote University College,5,7.4399999999999995
+819,University of Alabama in Huntsville,2,6.829999999999998
+820,Universidad Francisco de Vitoria,3,6.536666666666666
+821,Hanze University of Applied Sciences Groningen,3,6.343333333333334
+822,Shizuoka Professional College of Automobile Technology,6,6.296666666666667
+823,National Technical University of Ukraine Kyiv Polytechnic Institute,2,5.515
+824,Instituto Politécnico Nacional,2,5.15
+825,Ceylon-German Technical Training Institute,1,5.0
+826,James Cook University,2,5.0
+827,Korea University of Technology and Education,3,4.590000000000001
+828,Acharya Institute of Technology,1,4.5
+829,Universidade Federal do Pará - Campus Tucuruí - UFPA,1,3.9
+830,University of Massachusetts Dartmouth,1,2.9
+831,Ataturk University,1,2.5
+832,Aoyama Gakuin University,6,1.8300000000000007
+833,Mansoura University,2,1.6999999999999993
+834,University of California Riverside,3,1.6999999999999982
+835,ESIA San Luis Potosi,1,0.0
+836,J.S.S. Academy of Technical Education Noida,1,0.0
+837,Midwestern State University,1,0.0
+838,Pillai College Of Engineering,2,0.0
+839,Tokyo Tech Car College Setagaya,1,0.0
+840,Ufa State Aviation Technical University,1,0.0
+841,Universidade Estadual do Oeste do Paraná,1,0.0
+842,Universidade Federal de Mato Grosso,1,0.0
+843,Universidade Federal de Uberlândia - UFU,1,0.0
+844,Universidade Paulista - Campinas - Campus II,1,0.0
+845,Universidade Paulista - Sorocaba,2,0.0
+846,University of Valladolid,1,0.0
+847,Østfold University College,1,0.0
+848,National Institute of Technology - Calicut,2,-0.75
+849,University of California Santa Barbara,2,-1.2449999999999992
+850,Hubei University of Automotive Technology,5,-1.3540000000000005
+851,Akita Prefectural University,2,-1.950000000000001
+852,FAMU-FSU College of Engineering,6,-3.2899999999999943
+853,University of Stavanger,2,-3.5
+854,Prince of Songkla University,5,-4.0779999999999985
+855,Cleveland State University,2,-4.204999999999998
+856,Loyola Marymount University,3,-4.5200000000000005
+857,Trinity College University of Dublin,1,-5.0
+858,Reykjavík University,4,-5.425000000000001
+859,Okayama University of Science,8,-8.24125
+860,Bangalore Institute of Technology,2,-9.555
+861,Saitama Institute of Technology,7,-11.348571428571427
+862,Siam University,3,-16.793333333333333
+863,National Taipei University of Technology,3,-22.703333333333333
+864,Beijing Institute of Technology,2,-26.17
+865,Southern Taiwan University of Technology,6,-29.84166666666667
+866,Universiti Teknologi Petronas,1,-31.6
+867,Kasetsart University,5,-32.806
+868,Alabama A&M University,1,-40.4
+869,University of New Brunswick,1,-43.4
+870,University of Wyoming,4,-84.905
+871,Ajou University,1,-100.0
+872,Fanshawe College,1,-100.0
+873,Hokkaido Automotive Engineering College,1,-100.0
+874,Liaoning University of Technology,1,-100.0
+875,Santa Clara University,1,-286.5

@@ -18,23 +18,27 @@
             margin: 0;
             display: flex;
             flex-direction: column;
-            align-items: center;
-            justify-content: center;
+            align-items: left;
+            justify-content: top;
             min-height: 100vh;
         }
         h1 {
             text-align: center;
-            margin-top: 0;
+            margin-top: 80px;
             color: white;
         }
         h2 {
-            text-align: center;
+            text-align: left;
             margin-top: 0;
+            margin-left: 100px;
             color: white;
         }
         p {
-            text-align: center;
+            text-align: left;
+            font-weight: bold; /* Make text bold */
             margin-top: 0;
+            margin-left: 100px;
+            margin-right: 100px;
             color: white;
         }
         .navbar {
@@ -76,9 +80,18 @@
         <a href="search_electric.html">Electric</a>
         <a href="about.html">About</a>
     </div>
-    <h1>Formula Student Statistics</h1>
-    <h2>Changelog</h2>
-    <p>V0.0.1 - I've compiled all the surface-level data from fs-world.org to create some lists and visuals.</p>
+    <h1>Formula Student Statistics v1.0.2</h1>
+    <h2>What?</h2>
+    <p>Formula Student Statistics is my attempt at taking the data from fs-world.org and compiling it into useful statistics and graphs. While fs-world.org is an excellent resource and a great collection of data, it isn't necessarily the most user-friendly when it comes to summing up data from each team.</p>
+    <h2>Why?</h2>
+    <p>Well... I was bored. I took it on as a bit of a passion project over the summer of 2023, originally only for my own curiousity. However, I thought the data was so interesting that I would make it avaliable for others. That led me here!</p>
+    <h2>How?</h2>
+    <p>While I do have some coding experience, around 95% of this site was actually coded by ChatGPT! My work came in the data-handling side of things, taking the raw data and creating all the tables and graphs for you to see!</p>
+    <h2>What Now?</h2>
+    <p>Formula Student Statistics is by no means a finished project. I'm always looking for new features to add, so if you have any ideas, let me know! My current focus is on cleaning up the site and making things easier to read, interact with and understand.</p>
+    
+    
+    
     <script>
         function setActiveTab() {
             var navbar = document.querySelector('.navbar');

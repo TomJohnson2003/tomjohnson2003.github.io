@@ -1,3 +1,3 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2019,Lincoln,0.86,25,21.,24.,13.,21.,-,-,-,-,-,0,162,126.
-2017,Lincoln,0.85,21,21.,21.,16.,21.,-,-,-,-,-,0,119,116.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2019.06,Lincoln,0.86,25,21.,24.,51.3,13.,60.5,21.,50.0,-,0,-,0,-,0,-,0,-,0,0,162,126.
+2017.06,Lincoln,0.85,21,21.,21.,46.8,16.,42.5,21.,30.0,-,0,-,0,-,0,-,0,-,0,0,119,116.

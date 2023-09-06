@@ -34,7 +34,7 @@ Dwarkadas. J. Sanghvi College of Engineering
 ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile)
 ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile)
 ETH Zürich
-Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)
+Escola Superior d'Enginyeries Industrial Aeroespacial i Audiovisual de Terrassa (UPC)
 Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya
 Escola d'Enginyeria de Barcelona Est. EEBE
 Fachhochschule Joanneum Graz
@@ -44,7 +44,7 @@ Fachhochschule München
 Fachhochschule Osnabrück
 Fachhochschule für Wirtschaft und Technik
 Friedrich-Alexander-Universität Erlangen-Nürnberg
-GFR DHBW Ravensburg &amp; Oregon State University
+GFR DHBW Ravensburg & Oregon State University
 Gadjah Mada University
 Georg-Simon-Ohm-Hochschule Nürnberg
 Georgia Institute of Technology
@@ -58,7 +58,7 @@ Helsinki Metropolia University of Applied Sciences
 Heriot-Watt University
 Hochschule Aalen - Technik und Wirtschaft
 Hochschule Bonn-Rhein-Sieg
-Hochschule Darmstadt, UAS
+Hochschule Darmstadt UAS
 Hochschule Düsseldorf
 Hochschule Esslingen
 Hochschule Karlsruhe - Technik und Wirtschaft
@@ -111,7 +111,7 @@ McGill University
 McMaster University
 Missouri University of Science and Technology
 Monash University
-Moscow State Automobile &amp; Road Technical University - MADI
+Moscow State Automobile & Road Technical University - MADI
 Nagoya University
 National Cheng Kung University
 National Taipei University of Technology
@@ -129,7 +129,7 @@ Ostfalia University of Applied Sciences
 Otto-von-Guericke-Universität Magdeburg
 Oxford Brookes University
 PSG Institute of Technology and Applied Research
-Pakistan Institute of Engineering &amp; Applied Sciences
+Pakistan Institute of Engineering & Applied Sciences
 Pimpri Chinchwad College Of Engineering
 Politecnico di Milano
 Politecnico di Torino
@@ -140,18 +140,18 @@ Queen's University Belfast
 Queensland University of Technology
 R.V.College of Engineering
 RMIT University
-Rajshahi University of Engineering &amp; Technology
+Rajshahi University of Engineering & Technology
 Ramaiah Institute of Technology
 Rhein-Waal University of Applied Sciences
 Rheinisch-Westfälische Technische Hochschule Aachen
 Ruhr-Universität Bochum
-Rutgers, The State University of New Jersey
+Rutgers The State University of New Jersey
 Ryerson University
 SRM Institute of Science and Technology - Kattankulathur
 Saarland University
 San Diego State University
 San José State University
-Sardar Patel College of Engineering, Mumbai
+Sardar Patel College of Engineering Mumbai
 Seikei University
 Sepuluh Nopember Institute of Technology
 Shizuoka Institute of Science and Technology
@@ -182,7 +182,7 @@ Technische Universität Hamburg
 Technische Universität Ilmenau
 Technische Universität Kaiserslautern
 Technische Universität Wien
-Texas A&amp;M University
+Texas A&M University
 The Hague University of Applied Sciences
 The University of Akron
 The University of Michigan-Dearborn
@@ -218,10 +218,10 @@ University of Bristol
 University of British Columbia - Vancouver
 University of Burgundy - ISAT
 University of California - Santa Cruz
+University of California Berkeley
 University of California Davis
 University of California Irvine
-University of California, Berkeley
-University of California, Riverside
+University of California Riverside
 University of Canterbury
 University of Cincinnati
 University of Colorado - Colorado Springs
@@ -257,7 +257,7 @@ University of Strathclyde
 University of Surrey
 University of Sussex
 University of Tasmania
-University of Technology, Sydney
+University of Technology Sydney
 University of Texas at Austin
 University of Texas at San Antonio
 University of Toronto

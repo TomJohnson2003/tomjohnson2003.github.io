@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2011,California,0.95,60,56.,52.,48.,53.,-,-,-,-,-,0,93,424.
-2010,Michigan,0.96,101,100.,99.,100.,92.,-,-,-,-,-,0,93,417.
-2000,Michigan,0.99,94,89.,92.,-,-,51.,-,-,-,-,0,52,115.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2011.06,California,0.95,60,56.,52.,24.0,48.,31.2,53.,38.0,-,0,-,0,-,0,-,0,-,0,0,93,424.
+2010.05,Michigan,0.96,101,100.,99.,42.9,100.,9.7,92.,40.0,-,0,-,0,-,0,-,0,-,0,0,93,417.
+2000.05,Michigan,0.99,94,89.,92.,21.53,-,0,-,0,51.,30.23,-,0,-,0,-,0,-,0,0,52,115.

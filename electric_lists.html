@@ -51,6 +51,7 @@
             text-align: center;
             padding: 14px 16px;
             text-decoration: none;
+
         }
         .navbar a:hover {
             background-color: #ddd;
@@ -87,7 +88,7 @@
             display: grid;
             grid-template-columns: repeat(3, 1fr); /* Three items wide */
             gap: 10px; /* Gap between buttons */
-            margin-top: 120px; /* Adjust margin */
+            margin-top: 40px; /* Adjust margin */
             justify-items: center; /* Center horizontally */
         }
         .button-grid a {
@@ -104,6 +105,28 @@
         .button-grid a:hover {
             background-color: #555;
         }
+        .toolbar-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .toolbar-button {
+            margin-bottom: 10px; /* Add spacing between the label and dropdown */
+        }
+
+        #Dropdown {
+            margin-top: 60px; /* Adjust the margin as needed */
+        }
+
+        .dropdown-menu {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 60px; /* Adjust the margin as needed */
+        }
+
+
     </style>
 </head>
 <body>
@@ -117,8 +140,18 @@
     
     <!-- Centered toolbar just below the navbar -->
     <div class="center-toolbar">
-        <a href="combustion_lists.html" class="toolbar-button" id="combustion">Combustion</a>
-        <a href="electric_lists.html" class="toolbar-button active" id="electric">Electric</a>
+        <div class="toolbar-item">
+            <a href="combustion_lists.html" class="toolbar-button" id="combustion">Combustion</a>
+        </div>
+        <div class="toolbar-item">
+            <a href="electric_lists.html" class="toolbar-button active" id="electric">Electric</a>
+        </div>
+    </div>
+
+    <div class="dropdown-menu">
+        <div class="toolbar-item">
+            <div class="dropdown" id="Dropdown"></div>
+        </div>
     </div>
 
     <!-- Element to display file content as buttons in a centered grid -->
@@ -170,6 +203,56 @@
             xhr.send();
         }
 
+        // Function to load dropdown contents and add an event listener
+        function loadDropdownContents(filePath, targetElementId) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", filePath, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4) {
+                    if (xhr.status === 200) {
+                        var fileContent = xhr.responseText;
+                        var targetDropdown = document.getElementById(targetElementId);
+
+                        var select = document.createElement("select");
+                        select.id = "countryDropdown"; // Add an id to the select element
+
+                        var lines = fileContent.split("\n");
+                        for (var i = 0; i < lines.length; i++) {
+                            var line = lines[i].trim();
+                            if (line !== "") {
+                                var option = document.createElement("option");
+                                option.value = line;
+                                option.textContent = line;
+                                select.appendChild(option);
+                            }
+                        }
+
+                        // Add an event listener to update the link when the selection changes
+                        select.addEventListener("change", function () {
+                            updateLink(select.value);
+                        });
+
+                        targetDropdown.appendChild(select);
+
+                        // Call updateLink initially with the default selected country
+                        updateLink(select.value);
+                    } else {
+                        console.error("Failed to load " + filePath + ". Status code: " + xhr.status);
+                    }
+                }
+            };
+            xhr.send();
+        }
+
+        // Function to update the link with the selected country
+        function updateLink(selectedCountry) {
+            var buttons = document.querySelectorAll(".button-grid a");
+            buttons.forEach(function (button) {
+                var category = button.textContent;
+                button.href = "list_display.html?category=" + encodeURIComponent(category) + "&type=electric&country=" + encodeURIComponent(selectedCountry);
+            });
+        }
+
         // Initial setup on window load
         window.onload = function () {
             setActiveTab();
@@ -177,6 +260,8 @@
             // Load and display text file content as buttons in a grid
             loadTextFileAsButtons("Lists/Categories.txt", "button-container", "electric");
 
+            // Load dropdown contents for electric
+            loadDropdownContents("Lists/electric Countries.txt", "Dropdown");
         };
     </script>
 </body>

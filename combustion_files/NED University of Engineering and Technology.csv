@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2018,Canada,0.91,23,23.,-,20.,-,-,-,-,-,-,0,46,582.
-2017,Australia,0.88,16,16.,15.,14.,16.,-,-,-,-,-,0,81,517.
-2016,Italy,0.88,38,34.,21.,5.,36.,-,-,-,-,-,-50,104,471.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2018.06,Canada,0.91,23,23.,-,0,20.,46.32,-,0,-,0,-,0,-,0,-,0,-,0,0,46,582.
+2017.12,Australia,0.88,16,16.,15.,27.2,14.,44.5,16.,9.0,-,0,-,0,-,0,-,0,-,0,0,81,517.
+2016.07,Italy,0.88,38,34.,21.,66.37,5.,67.11,36.,20.61,-,0,-,0,-,0,-,0,-,0,-50,104,471.

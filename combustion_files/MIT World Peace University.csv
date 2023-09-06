@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2020,India,0.85,41,12.,8.,6.,8.,-,-,-,-,-,0,250,311.
-2019,India,0.85,54,9.,10.,7.,5.,10.,2.,-,-,-,0,328,243.
-2018,United Kingdom,0.88,70,19.,12.,18.,35.,28.,24.,29.,20.,10.,-8,413,174.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2020.01,India,0.85,41,12.,8.,89.48,6.,70.0,8.,91.0,-,0,-,0,-,0,-,0,-,0,0,250,311.
+2019.01,India,0.85,54,9.,10.,72.0,7.,66.01,5.,116.0,10.,3.5,2.,70.48,-,0,-,0,-,0,0,328,243.
+2018.07,United Kingdom,0.88,70,19.,12.,82.0,18.,54.3,35.,80.0,28.,17.4,24.,8.1,29.,37.5,20.,77.8,10.,63.6,-8,413,174.

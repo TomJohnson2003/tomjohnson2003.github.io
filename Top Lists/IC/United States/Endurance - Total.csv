@@ -1,0 +1,200 @@
+Rank,University,Points
+1,Rochester Institute of Technology,8906.76
+2,The University of Akron,7316.62
+3,University of Michigan - Ann Arbor,7152.89
+4,Missouri University of Science and Technology,5961.39
+5,Auburn University,5426.81
+6,University of Kansas,5283.18
+7,Cornell University,5224.04
+8,University of Wisconsin-Madison,4951.01
+9,University of Toledo,4674.13
+10,University of Texas at Arlington,4527.67
+11,University of Illinois at Urbana-Champaign,4383.23
+12,University of Missouri,4367.6
+13,University of Washington,4298.42
+14,Clemson University,4296.31
+15,Michigan State University,4118.89
+16,California State Polytechnic University Pomona,3965.76
+17,The Ohio State University,3839.64
+18,University of Florida,3783.18
+19,University of Oklahoma,3541.31
+20,Georgia Institute of Technology,3440.2
+21,University of Cincinnati,3381.29
+22,Texas A&M University,3367.75
+23,Dartmouth College,2994.74
+24,Rutgers The State University of New Jersey,2736.25
+25,Virginia Polytechnic Institute and State University,2715.78
+26,Rensselaer Polytechnic Institute,2701.77
+27,North Carolina State University,2688.71
+28,Kettering University,2583.58
+29,Brown University,2555.52
+30,Iowa State University,2496.32
+31,Pennsylvania State University,2407.48
+32,Purdue University - West Lafayette,2363.2
+33,California State University Northridge,2355.22
+34,University of Pittsburgh,2334.46
+35,The University of Michigan-Dearborn,2330.25
+36,San José State University,2146.8
+37,University of Connecticut,2142.98
+38,University of Minnesota Twin Cities,2110.88
+39,Oakland University,2088.22
+40,Western Washington University,2060.18
+41,Drexel University,1975.62
+42,California State Polytechnic University - San Luis Obispo,1925.44
+43,University of Maryland,1880.45
+44,University of South Florida,1879.39
+45,Duke University,1718.84
+46,Saginaw Valley State University,1693.4
+47,University of Texas at Austin,1685.35
+48,Kennesaw State University,1599.96
+49,Oregon State University,1565.67
+50,California State University Sacramento,1556.31
+51,Michigan Technological University,1477.08
+52,Louisiana State University,1430.17
+53,University of North Carolina at Charlotte,1272.61
+54,University of New Mexico,1260.82
+55,Clarkson University,1258.31
+56,South Dakota School of Mines and Technology,1207.54
+57,Villanova University,1156.7
+58,Lawrence Technological University,1155.36
+59,Worcester Polytechnic Institute,1070.02
+60,Florida Atlantic University,1010.8
+61,Rose-Hulman Institute of Technology,1000.6
+62,Massachusetts Institute of Technology,981.12
+63,University of Central Florida,915.38
+64,Minnesota State University Mankato,915.29
+65,Wayne State University,894.6
+66,Georgia Southern University,891.0
+67,Kansas State University,887.53
+68,University of Southern California,874.58
+69,State University of New York at Buffalo,865.36
+70,University of Alabama,862.11
+71,University of Nebraska–Lincoln,811.65
+72,University of California Berkeley,799.0
+73,University of California San Diego,775.9
+74,Milwaukee School of Engineering,698.48
+75,Colorado State University,688.4
+76,University of Hartford,682.52
+77,University of Delaware,682.12
+78,University of Colorado at Boulder,665.31
+79,University of New Hampshire,604.07
+80,University of Evansville,592.5
+81,West Virginia University,585.41
+82,South Dakota State University,578.8
+83,Portland State University,565.8
+84,Bradley University,565.59
+85,California State University Fullerton,527.7
+86,Vanderbilt University,525.61
+87,Colorado School of Mines,520.94
+88,Oklahoma State University - Stillwater,519.02
+89,University of North Texas,518.7
+90,Carnegie Mellon University,516.28
+91,Oregon Institute of Technology,513.6
+92,University of California Irvine,505.39
+93,Southern Illinois University Carbondale,471.48
+94,Washington University in St. Louis,458.36
+95,Hope College,456.9
+96,University of North Dakota,453.92
+97,University of Idaho,447.2
+98,University of Wisconsin-Platteville,447.01
+99,Lafayette College,440.19
+100,University of Pennsylvania,424.7
+101,University of Louisville,409.46
+102,University of North Florida,390.7
+103,Temple University,386.48
+104,California State University Chico,349.5
+105,Indiana University – Purdue University Indianapolis,336.8
+106,Northern Illinois University,325.73
+107,Western Michigan University,322.3
+108,Lehigh University,319.1
+109,Wichita State University,315.8
+110,Stevens Institute of Technology,314.72
+111,Tennessee Technological University,309.99
+112,Mississippi State University,307.66
+113,University of Wyoming,305.83
+114,Old Dominion University,294.12
+115,Columbia University,290.0
+116,Cedarville University,288.25
+117,United States Naval Academy,286.58
+118,University of California Davis,279.69
+119,Cooper Union,270.7
+120,University of Arizona,269.9
+121,Northwestern University,269.0
+122,Florida Institute of Technology,268.8
+123,Union College,255.65
+124,North Carolina Agricultural and Technical State University,252.21
+125,University of Texas at San Antonio,242.0
+126,LeTourneau University,235.3
+127,Montana State University - Bozeman,233.24
+128,Texas Tech University,225.0
+129,Arizona State University,217.6
+130,University of Utah,217.16
+131,University of California Los Angeles,210.8
+132,St. Cloud State University,201.61
+133,Central Michigan University,197.0
+134,California State University Fresno,185.93
+135,California Baptist University,175.4
+136,Monroe County Community College,170.05
+137,North Dakota State University,167.43
+138,Syracuse University,164.91
+139,Santa Clara University,162.74
+140,University of Minnesota Duluth,159.0
+141,University of California Riverside,158.9
+142,San Diego State University,151.4
+143,University of Colorado Denver,151.1
+144,University of Hawaii at Manoa,143.4
+145,University of Houston,141.0
+146,Marquette University,137.41
+147,United States Air Force Academy,133.1
+148,Florida International University,133.0
+149,California State University Los Angeles,131.1
+150,University of Kentucky,127.0
+151,Washington State University,111.78
+152,Penn State Harrisburg,109.2
+153,York College of Pennsylvania,105.0
+154,Case Western Reserve University,103.88
+155,Southern Methodist University,101.0
+156,FAMU-FSU College of Engineering,100.81
+157,California State University Long Beach,95.2
+158,Grand Valley State University,94.4
+159,University of the Pacific,92.8
+160,University of Illinois at Chicago,84.0
+161,Middle Tennessee State University,81.61
+162,Ferris State University,75.0
+163,University of Virginia,72.5
+164,University of Louisiana at Lafayette,64.0
+165,University of St. Thomas,61.8
+166,Purdue University - Northwest,53.0
+167,Colorado Mesa University,42.0
+168,Embry-Riddle Aeronautical University,41.0
+169,University of Maine,26.0
+170,The University of Texas at Dallas,25.0
+171,Virginia Commonwealth University,25.0
+172,Pellissippi State Community College,22.0
+173,Saint Louis University,14.0
+174,University of Georgia,11.0
+175,Binghamton University,1.0
+176,Alabama A&M University,0.0
+177,Brigham Young University,0.0
+178,Central Piedmont Community College,0.0
+179,City College of The City University of New York,0.0
+180,Grand Canyon University,0.0
+181,Loyola Marymount University,0.0
+182,Miami University,0.0
+183,Midwestern State University,0.0
+184,New Jersey Institute of Technology,0.0
+185,Nicholls State University,0.0
+186,Philadelphia University,0.0
+187,Pittsburg State University,0.0
+188,Polytechnic Institute of New York University,0.0
+189,Southern Illinois University Edwardsville,0.0
+190,Texas State University,0.0
+191,University of Alabama at Birmingham,0.0
+192,University of Alabama in Huntsville,0.0
+193,University of California Santa Barbara,0.0
+194,University of Iowa,0.0
+195,University of Massachusetts Dartmouth,0.0
+196,University of Massachusetts Lowell,0.0
+197,University of Portland,0.0
+198,University of South Carolina,0.0
+199,Vaughn College of Aeronautics and Technology,0.0

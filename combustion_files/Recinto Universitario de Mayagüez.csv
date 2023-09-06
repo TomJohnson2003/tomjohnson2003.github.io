@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2019,Michigan,0.97,108,34.,8.,85.,45.,39.,38.,46.,36.,25.,0,486,131.
-2017,Michigan,0.98,109,62.,104.,59.,39.,75.,74.,57.,68.,39.,0,353,188.
-2014,Michigan,0.97,107,98.,31.,59.,74.,-,-,-,-,-,-50,134,427.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2019.05,Michigan,0.97,108,34.,8.,71.6,85.,40.6,45.,70.0,39.,65.8,38.,36.3,46.,61.3,36.,85.9,25.,54.2,0,486,131.
+2017.05,Michigan,0.98,109,62.,104.,53.7,59.,45.2,39.,85.0,75.,40.3,74.,10.8,57.,47.2,68.,12.0,39.,58.6,0,353,188.
+2014.05,Michigan,0.97,107,98.,31.,72.2,59.,51.5,74.,60.0,-,0,-,0,-,0,-,0,-,0,-50,134,427.

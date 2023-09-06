@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2011,Japan,0.95,65,49.,63.,23.,50.,46.,43.,45.,30.,1.,0,198,334.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2011.09,Japan,0.95,65,49.,63.,-100.0,23.,41.25,50.,45.0,46.,3.5,43.,2.5,45.,7.5,30.,98.61,1.,100.0,0,198,334.
