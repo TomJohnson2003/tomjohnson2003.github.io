@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2012.07,United Kingdom,0.95,97,33.,-,0,90.,23.1,31.,89.5,44.,6.1,34.,22.4,29.,7.5,21.,127.2,24.,18.1,0,294,241.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2012,United Kingdom,0.95,97,33.,-,90.,31.,44.,34.,29.,21.,24.,0,294,241.

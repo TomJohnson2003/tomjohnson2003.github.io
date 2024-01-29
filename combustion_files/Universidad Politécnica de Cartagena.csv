@@ -1,5 +1,5 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2019.08,Spain,0.94,28,27.,23.,27.0,24.,37.0,28.,8.0,-,0,-,0,-,0,-,0,-,0,0,72,574.
-2013.09,Spain,0.85,15,14.,14.,53.8,4.,72.0,14.,51.0,-,0,-,0,-,0,-,0,-,0,0,177,408.
-2012.07,United Kingdom,0.95,97,74.,47.,57.1,28.,52.7,85.,34.0,-,0,-,0,-,0,-,0,-,0,0,144,406.
-2010.07,United Kingdom,0.97,72,63.,25.,61.0,17.,61.5,-,0,-,0,-,0,-,0,-,0,-,0,-10,112,404.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2019,Spain,0.94,28,27.,23.,24.,28.,-,-,-,-,-,0,72,574.
+2013,Spain,0.85,15,14.,14.,4.,14.,-,-,-,-,-,0,177,408.
+2012,United Kingdom,0.95,97,74.,47.,28.,85.,-,-,-,-,-,0,144,406.
+2010,United Kingdom,0.97,72,63.,25.,17.,-,-,-,-,-,-,-10,112,404.

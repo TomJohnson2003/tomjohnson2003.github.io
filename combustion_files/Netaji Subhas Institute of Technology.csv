@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2022.01,India,0.85,15,15.,14.,34.54,13.,56.39,15.,22.07,-,0,-,0,-,0,-,0,-,0,0,113,477.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2022,India,0.85,15,15.,14.,13.,15.,-,-,-,-,-,0,113,477.

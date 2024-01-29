@@ -1,45 +1,45 @@
 Rank,University,Points
-1,Carnegie Mellon University,285.0
-2,University of Pennsylvania,281.6
-3,University of Washington,278.8
-4,University of Wisconsin-Madison,255.9
-5,California State Polytechnic University - San Luis Obispo,247.4
-6,Purdue University - West Lafayette,219.4
-7,Massachusetts Institute of Technology,200.9
-8,University of Texas at Austin,195.5
-9,University of Michigan - Ann Arbor,194.1
-10,University of Illinois at Urbana-Champaign,191.5
-11,San José State University,184.5
-12,Olin College of Engineering,183.7
-13,Missouri University of Science and Technology,137.7
-14,Georgia Institute of Technology,125.8
-15,San Diego State University,120.8
-16,The University of Michigan-Dearborn,110.2
-17,California Institute of Technology,108.5
-18,Virginia Polytechnic Institute and State University,107.9
-19,University of California Davis,107.7
-20,University of Utah,103.0
-21,The University of Akron,78.4
-22,University of New Mexico,70.5
-23,University of California Riverside,67.7
-24,Rutgers The State University of New Jersey,67.5
-25,Kennesaw State University,67.3
-26,University of Colorado - Colorado Springs,67.3
-27,University of Kansas,65.6
-28,Cornell University,65.2
-29,California Baptist University,63.5
-30,Western Washington University,60.6
-31,Drexel University,59.9
-32,North Carolina State University,59.3
-33,University of Maryland,59.0
-34,University of North Carolina at Asheville,57.0
-35,Texas A&M University,54.5
-36,University of Southern California,52.0
-37,University of Iowa,51.1
-38,University of Cincinnati,50.6
-39,Portland State University,47.9
-40,University of California Berkeley,47.4
-41,University of Minnesota Twin Cities,46.2
+1,University of Washington,353.5
+2,Carnegie Mellon University,334.5
+3,University of Pennsylvania,331.8
+4,University of Wisconsin-Madison,304.0
+5,California State Polytechnic University - San Luis Obispo,285.7
+6,Purdue University - West Lafayette,276.0
+7,Massachusetts Institute of Technology,258.9
+8,University of Illinois at Urbana-Champaign,257.6
+9,San José State University,253.7
+10,University of Texas at Austin,252.0
+11,University of Michigan - Ann Arbor,245.3
+12,Missouri University of Science and Technology,185.1
+13,Olin College of Engineering,183.7
+14,Georgia Institute of Technology,180.5
+15,San Diego State University,173.1
+16,Virginia Polytechnic Institute and State University,153.6
+17,Kennesaw State University,140.8
+18,University of California Davis,135.5
+19,Western Washington University,126.0
+20,University of Southern California,121.3
+21,California Baptist University,120.3
+22,University of New Mexico,118.7
+23,University of Maryland,117.4
+24,Cornell University,111.2
+25,The University of Michigan-Dearborn,110.2
+26,California Institute of Technology,108.5
+27,The University of Akron,108.1
+28,Rutgers The State University of New Jersey,105.6
+29,Drexel University,104.8
+30,University of North Carolina at Asheville,104.7
+31,University of Utah,103.0
+32,University of Minnesota Twin Cities,86.6
+33,University of California Riverside,84.7
+34,University of California Berkeley,83.0
+35,University of Cincinnati,79.7
+36,University of Colorado - Colorado Springs,67.3
+37,University of Kansas,65.6
+38,North Carolina State University,59.3
+39,Texas A&M University,54.5
+40,University of Iowa,51.1
+41,Portland State University,47.9
 42,University of California Irvine,43.6
 43,University of California - Santa Cruz,0.0
 44,University of Texas at San Antonio,0.0

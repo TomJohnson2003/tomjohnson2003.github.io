@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2010.08,Germany,0.97,75,67.,33.,70.93,38.,55.01,57.,50.0,-,0,-,0,-,0,-,0,-,0,0,176,324.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2010,Germany,0.97,75,67.,33.,38.,57.,-,-,-,-,-,0,176,324.

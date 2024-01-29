@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2002.05,Michigan,0.99,121,100.,50.,72.96,96.,32.4,101.,40.0,74.,11.45,-,0,-,0,-,0,-,0,0,157,124.
-2001.05,Michigan,1.00,108,64.,51.,75.67,69.,44.2,63.,60.0,-,0,-,0,39.,55.43,-,0,-,0,0,235,98.
-1999.05,Michigan,1.00,89,89.,89.,-162.19,71.,32.0,67.,60.0,13.,60.38,-,0,63.,13.37,-,0,-,0,0,4,109.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2002,Michigan,0.99,121,100.,50.,96.,101.,74.,-,-,-,-,0,157,124.
+2001,Michigan,1.00,108,64.,51.,69.,63.,-,-,39.,-,-,0,235,98.
+1999,Michigan,1.00,89,89.,89.,71.,67.,13.,-,63.,-,-,0,4,109.

@@ -1,5 +1,5 @@
 Rank,University,Lowest Place,#
-1,Universität Stuttgart,1st,18
+1,Universität Stuttgart,1st,20
 2,Hochschule Esslingen,1st,8
 3,Technical University of Munich,1st,7
 4,Fachhochschule Coburg,1st,4
@@ -12,11 +12,11 @@ Rank,University,Lowest Place,#
 11,Friedrich-Alexander-Universität Erlangen-Nürnberg,2nd,2
 12,Technische Universität Berlin,2nd,2
 13,University of Applied Sciences Ravensburg-Weingarten,2nd,2
-14,Fachhochschule München,2nd,1
-15,UAS Kempten,2nd,1
-16,Hochschule Karlsruhe - Technik und Wirtschaft,3rd,2
-17,Westsächsische Hochschule Zwickau,3rd,2
-18,Fachhochschule Aachen,3rd,1
+14,Fachhochschule Aachen,2nd,1
+15,Fachhochschule München,2nd,1
+16,UAS Kempten,2nd,1
+17,Hochschule Karlsruhe - Technik und Wirtschaft,3rd,2
+18,Westsächsische Hochschule Zwickau,3rd,2
 19,Fachhochschule Hannover,3rd,1
 20,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),3rd,1
 21,UAS Würzburg-Schweinfurt,3rd,1
@@ -30,22 +30,22 @@ Rank,University,Lowest Place,#
 29,Hochschule Heilbronn,7th,1
 30,Technische Hochschule Ostwestfalen-Lippe,7th,1
 31,Hochschule RheinMain,8th,2
-32,Rheinisch-Westfälische Technische Hochschule Aachen,8th,1
-33,Hochschule Niederrhein,9th,1
-34,Hochschule Pforzheim,9th,1
-35,Ruhr-Universität Bochum,9th,1
-36,Ulm University of Applied Sciences,9th,1
-37,Universität Bayreuth,9th,1
-38,Hochschule Mannheim,10th,1
-39,Technische Hochschule Köln,11th,1
-40,Technische Universität Dresden,11th,1
-41,Ostfalia University of Applied Sciences,12th,1
-42,Technische Hochschule Lübeck,12th,1
-43,Fachhochschule Kiel,13th,1
-44,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,13th,1
-45,Technische Universität Dortmund,13th,1
-46,Hochschule für Technik und Wirtschaft Berlin,14th,2
-47,Fachhochschule Dortmund,14th,1
+32,Fachhochschule Dortmund,8th,1
+33,Rheinisch-Westfälische Technische Hochschule Aachen,8th,1
+34,Hochschule Niederrhein,9th,1
+35,Hochschule Pforzheim,9th,1
+36,Ruhr-Universität Bochum,9th,1
+37,Ulm University of Applied Sciences,9th,1
+38,Universität Bayreuth,9th,1
+39,Hochschule Mannheim,10th,1
+40,Technische Hochschule Köln,11th,1
+41,Technische Universität Dresden,11th,1
+42,Technische Hochschule Lübeck,12th,2
+43,Ostfalia University of Applied Sciences,12th,1
+44,Fachhochschule Kiel,13th,1
+45,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,13th,1
+46,Technische Universität Dortmund,13th,1
+47,Hochschule für Technik und Wirtschaft Berlin,14th,2
 48,Duale Hochschule Baden-Württemberg Stuttgart,15th,1
 49,Otto-von-Guericke-Universität Magdeburg,15th,1
 50,Universität Siegen,16th,1

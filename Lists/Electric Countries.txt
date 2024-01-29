@@ -17,6 +17,7 @@ France
 Germany
 Germany / United States
 Greece
+Hong Kong SAR of China
 Hungary
 Iceland
 India
@@ -33,9 +34,11 @@ Norway
 Pakistan
 Poland
 Portugal
+Qatar
 Romania
 Russia
 Serbia
+Singapore
 Slovakia
 Slovenia
 South Korea

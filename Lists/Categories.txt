@@ -1,26 +1,15 @@
-Acceleration - Average Points
-Acceleration - Best Result
-Acceleration - Total
-AutoX - Average Points
-AutoX - Best Result
-AutoX - Total
-Business Presentation - Average Points
-Business Presentation - Best Result
-Business Presentation - Total
-Cost - Average Points
-Cost - Best Result
-Cost - Total
-Endurance - Average Points
-Endurance - Best Result
-Endurance - Total
-Engineering Design - Average Points
-Engineering Design - Best Result
-Engineering Design - Total
-Fuel - Average Points
-Fuel - Best Result
-Fuel - Total
-Points - Average Points
-Points - Total
-Skidpad - Average Points
-Skidpad - Best Result
-Skidpad - Total
+Most Points Scored
+Overall Wins
+Most Points At Competition
+Event Wins
+Average Position
+Average Points
+Design Wins
+Costing Wins
+Business Wins
+Acceleration Wins
+AutoX Wins
+Endurance Wins
+Fuel Wins
+Most Penalty Points
+Most Successful Year

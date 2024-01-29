@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2013.09,Italy,0.95,24,24.,22.,35.1,22.,23.4,24.,29.0,-,0,-,0,-,0,-,0,-,0,-50,38,75.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2013,Italy,0.95,24,24.,22.,22.,24.,-,-,-,-,-,-50,38,75.

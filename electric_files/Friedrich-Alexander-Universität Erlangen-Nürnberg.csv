@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2022.09,Spain,0.85,38,15.,15.,78.4,16.,62.5,22.,94.0,13.,20.8,17.,3.5,6.,22.9,-,0,-,0,0,282,133.
-2022.08,Germany,0.93,63,52.,23.,79.0,61.,38.33,33.,70.0,-,0,-,0,-,0,-,0,-,0,-10,177,185.
-2022.07,Italy,0.85,26,23.,16.,65.8,21.,34.86,-,0,-,0,-,0,-,0,-,0,-,0,10,91,213.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2022,Spain,0.85,38,15.,15.,16.,22.,13.,17.,6.,-,-,0,282,133.
+2022,Germany,0.93,63,52.,23.,61.,33.,-,-,-,-,-,-10,177,185.
+2022,Italy,0.85,26,23.,16.,21.,-,-,-,-,-,-,10,91,213.

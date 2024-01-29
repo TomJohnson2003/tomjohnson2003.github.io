@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2015.09,Japan,0.95,75,32.,64.,-100.0,25.,43.42,67.,30.0,33.,24.69,26.,23.37,1.,90.95,19.,157.59,21.,61.98,0,332,211.
-2009.06,California,0.93,45,37.,17.,60.0,29.,42.8,33.,35.0,-,0,-,0,-,0,-,0,-,0,-10,128,269.
-2006.09,Japan,0.90,50,19.,26.,53.77,48.,19.5,36.,85.37,20.,19.76,-,0,17.,76.69,17.,178.87,-,0,0,434,111.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2015,Japan,0.95,75,32.,64.,25.,67.,33.,26.,1.,19.,21.,0,332,211.
+2009,California,0.93,45,37.,17.,29.,33.,-,-,-,-,-,-10,128,269.
+2006,Japan,0.90,50,19.,26.,48.,36.,20.,-,17.,17.,-,0,434,111.

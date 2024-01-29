@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2022.12,Australia,0.90,20,10.,8.,43.75,9.,55.47,8.,104.0,-,0,8.,39.18,3.,107.51,11.,11.0,-,0,0,361,57.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2022,Australia,0.90,20,10.,8.,9.,8.,-,8.,3.,11.,-,0,361,57.

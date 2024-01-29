@@ -1,6 +1,6 @@
 Rank,University,Lowest Place,#
 1,Sophia University,1st,7
-2,Kyoto Institute of Technology,1st,4
+2,Kyoto Institute of Technology,1st,5
 3,Nagoya Institute of Technology,1st,2
 4,Osaka University,1st,2
 5,Tokai University,1st,2
@@ -58,27 +58,27 @@ Rank,University,Lowest Place,#
 57,Honda Technical College Kansai,10th,1
 58,Kinki University,10th,1
 59,Hokkaido University,11th,1
-60,Honda Technical College Kanto,12th,1
-61,Keio University,12th,1
-62,College of Industrial Technology Nihon University,15th,1
-63,Meisei University,15th,1
-64,Daido Institute of Technology,16th,1
-65,Saitama University,22nd,1
-66,Faculty of Textile Science & Technology. Shinshu University,24th,1
-67,Tokyo Metropolitan University,29th,1
-68,Kochi University of Technology,33rd,1
-69,Gunma University,34th,1
-70,Chiba Institute of Technology,35th,1
-71,Fukui University of Technology,39th,1
-72,Hiroshima Institute of Technology,41st,1
-73,Teikyo University,41st,1
-74,Aso College of Automotive Engineering and Technology,45th,2
-75,Osaka Prefecture University,45th,2
-76,Hokkaido Automotive Engineering College,45th,1
-77,Tottori University,45th,1
-78,WIZ International College of Information and Technology,47th,1
-79,The University of Kitakyushu,55th,1
-80,University of Toyama,60th,1
+60,Teikyo University,11th,1
+61,Honda Technical College Kanto,12th,1
+62,Keio University,12th,1
+63,College of Industrial Technology Nihon University,15th,1
+64,Meisei University,15th,1
+65,Daido Institute of Technology,16th,1
+66,University of Toyama,20th,1
+67,Saitama University,22nd,1
+68,Tokyo Metropolitan University,23rd,1
+69,Faculty of Textile Science & Technology. Shinshu University,24th,1
+70,The University of Kitakyushu,27th,1
+71,Kochi University of Technology,33rd,1
+72,Gunma University,34th,1
+73,Chiba Institute of Technology,35th,1
+74,Fukui University of Technology,39th,1
+75,Hiroshima Institute of Technology,41st,1
+76,Aso College of Automotive Engineering and Technology,45th,2
+77,Osaka Prefecture University,45th,2
+78,Hokkaido Automotive Engineering College,45th,1
+79,Tottori University,45th,1
+80,WIZ International College of Information and Technology,47th,1
 81,Akita Prefectural University,N/A,0
 82,Aoyama Gakuin University,N/A,0
 83,Kyushu Sangyo University,N/A,0

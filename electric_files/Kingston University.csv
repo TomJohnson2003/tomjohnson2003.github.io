@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2016.07,United Kingdom,0.98,106,84.,90.,21.4,30.,54.6,82.,50.0,-,0,-,0,-,0,-,0,-,0,0,126,89.
-2015.07,United Kingdom,0.94,92,85.,-,0,21.,58.0,-,0,-,0,-,0,-,0,-,0,-,0,0,58,82.
-2014.07,United Kingdom,0.98,90,79.,81.,17.4,43.,49.6,75.,40.0,-,0,-,0,-,0,-,0,-,0,0,107,69.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2016,United Kingdom,0.98,106,84.,90.,30.,82.,-,-,-,-,-,0,126,89.
+2015,United Kingdom,0.94,92,85.,-,21.,-,-,-,-,-,-,0,58,82.
+2014,United Kingdom,0.98,90,79.,81.,43.,75.,-,-,-,-,-,0,107,69.

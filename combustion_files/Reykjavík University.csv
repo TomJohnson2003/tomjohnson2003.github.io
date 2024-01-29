@@ -1,5 +1,5 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2019.07,Netherlands,0.87,28,27.,-,0,-,0,23.,47.0,-,0,-,0,-,0,-,0,-,0,0,47,451.
-2018.07,United Kingdom,0.88,70,43.,69.,-38.0,39.,34.0,30.,90.0,35.,3.5,32.,3.5,36.,17.9,24.,26.0,16.,49.2,0,186,320.
-2017.07,United Kingdom,0.85,62,15.,55.,-3.6,53.,35.8,24.,80.0,16.,37.1,20.,15.0,17.,70.5,11.,156.2,11.,52.7,0,444,247.
-2016.07,United Kingdom,0.98,106,74.,92.,19.9,70.,38.3,50.,80.0,47.,15.8,47.,2.5,56.,7.5,69.,1.0,-,0,-10,155,395.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2019,Netherlands,0.87,28,27.,-,-,23.,-,-,-,-,-,0,47,451.
+2018,United Kingdom,0.88,70,43.,69.,39.,30.,35.,32.,36.,24.,16.,0,186,320.
+2017,United Kingdom,0.85,62,15.,55.,53.,24.,16.,20.,17.,11.,11.,0,444,247.
+2016,United Kingdom,0.98,106,74.,92.,70.,50.,47.,47.,56.,69.,-,-10,155,395.

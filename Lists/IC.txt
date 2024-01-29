@@ -67,6 +67,7 @@ Case Western Reserve University
 Cedarville University
 Central Michigan University
 Central Piedmont Community College
+CentraleSupélec - Université Paris-Saclay
 Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
 Centro Federal de Educação Tecnológica de Minas Gerais
 Centro Universitário Facens
@@ -138,13 +139,13 @@ Escola de Engenharia de Lorena da Universidade de São Paulo
 Escola de Engenharia de São Carlos da Universidade de São Paulo
 Escuela Superior de Ingeniería Automotriz (ESIA) Tlalnepa
 Escuela Superior de Ingeniería Mecánica y Electrica Unidad Politécnica Ticomán
+Eskişehir Technical University
 FAMU-FSU College of Engineering
 FH Campus Wien
 Fachhochschule Aachen
 Fachhochschule Coburg
 Fachhochschule Dortmund
 Fachhochschule Frankfurt am Main
-Fachhochschule Hannover
 Fachhochschule Joanneum Graz
 Fachhochschule Kiel
 Fachhochschule Konstanz
@@ -175,6 +176,7 @@ Georgia Institute of Technology
 Georgia Southern University
 Gheorghe Asachi Technical University of Iaşi
 Gifu University
+Glasgow Caledonian University
 Grand Canyon University
 Grand Valley State University
 Graphic Era University
@@ -200,8 +202,9 @@ Hiroshima University
 Hochschule Bonn-Rhein-Sieg
 Hochschule Darmstadt UAS
 Hochschule Esslingen
+Hochschule Hannover
 Hochschule Heilbronn
-Hochschule Karlsruhe - Technik und Wirtschaft
+Hochschule Karlsruhe
 Hochschule Mannheim
 Hochschule Niederrhein
 Hochschule Offenburg
@@ -265,6 +268,7 @@ Kasetsart University
 Keio University
 Kennesaw State University
 Kettering University
+Khulna University of Engineering & Technology
 King Mongkut's Institute of Technology Ladkrabang
 King Mongkut's University of Technology Thonburi
 Kingston University
@@ -294,6 +298,7 @@ LeTourneau University
 Lehigh University
 Leibniz Universität Hannover
 Liaoning University of Technology
+Liberty University
 Linköping University
 Liverpool John Moores University
 Lokmanya Tilak College of Engineering
@@ -332,6 +337,7 @@ Midwestern State University
 Milwaukee School of Engineering
 Minnesota State University Mankato
 Mississippi State University
+Missouri State University
 Missouri University of Science and Technology
 Monash University
 Monroe County Community College
@@ -343,6 +349,7 @@ NED University of Engineering and Technology
 Nagesh Karajagi Orchid College Of Engineering & Technology
 Nagoya Institute of Technology
 Nagoya University
+National Institute of Applied Sciences Lyon
 National Institute of Technology - Calicut
 National Institute of Technology - Jamshedpur
 National Institute of Technology - Karnataka
@@ -363,6 +370,7 @@ Nihon Automobile College
 Niigata University
 Nippon Institute of Technology
 Nirma University
+Nishinippon Institute of Technology
 Nitte Meenakshi Institute of Technology
 Nizhny Novgorod State Technical University
 North Carolina Agricultural and Technical State University
@@ -380,8 +388,8 @@ Oklahoma State University - Stillwater
 Old Dominion University
 Oregon Institute of Technology
 Oregon State University
-Osaka City University
 Osaka Institute of Technology
+Osaka Metropolitan University
 Osaka Prefecture University
 Osaka Sangyo University
 Osaka University
@@ -433,6 +441,7 @@ Recinto Universitario de Mayagüez
 Rensselaer Polytechnic Institute
 Reykjavík University
 Rheinisch-Westfälische Technische Hochschule Aachen
+Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
 Ritsumeikan University
 Rochester Institute of Technology
 Rose-Hulman Institute of Technology
@@ -501,6 +510,7 @@ TSSM’s Bhivarabai Sawant College of Engineering & Research
 TU Delft
 Tallinn TU UAS
 Taylor's University
+Technical University of Crete
 Technical University of Liberec
 Technical University of Munich
 Technical University of Sofia
@@ -518,9 +528,7 @@ Technische Universität Dortmund
 Technische Universität Dresden
 Technische Universität Graz
 Technische Universität Ilmenau
-Technische Universität Kaiserslautern
 Technische Universität Wien
-Technological Educational Institute of Western Macedonia
 Technological University Dublin
 Teikyo University
 Tel Aviv University
@@ -580,6 +588,7 @@ Universidad LaSalle
 Universidad Metropolitana
 Universidad Nacional Autónoma de México
 Universidad Nacional Experimental Politécnica
+Universidad Panamericana - Aguascalientes
 Universidad Panamericana Sede México
 Universidad Politecnica Salesiana
 Universidad Politécnica de Cartagena
@@ -652,6 +661,7 @@ University of Auckland
 University of Bath
 University of Belgrade (Универзитет у Београду)
 University of Birmingham
+University of Bolton
 University of Brescia
 University of Brighton
 University of British Columbia - Okanagan
@@ -674,6 +684,7 @@ University of Cincinnati
 University of Colorado Denver
 University of Colorado at Boulder
 University of Connecticut
+University of Cyprus
 University of Delaware
 University of Delhi
 University of Derby
@@ -789,8 +800,10 @@ University of Wales Trinity Saint David
 University of Warwick
 University of Washington
 University of Waterloo
+University of West Attica
 University of West Bohemia
 University of Western Australia
+University of Western Macedonia
 University of Windsor
 University of Wisconsin-Madison
 University of Wisconsin-Platteville
@@ -867,8 +880,8 @@ York College of Pennsylvania
 Yıldız Technical University
 Zhejiang University City College
 Çukurova University
-École Centrale Paris
 École Centrale de Lyon
+École Nationale Supérieure des Arts et Métiers de Lille
 École Polytechnique de Montréal
 École de Technologie Superieure
 École nationale d'aérotechnique

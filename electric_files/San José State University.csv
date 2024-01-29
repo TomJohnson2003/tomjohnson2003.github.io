@@ -1,5 +1,5 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2022.06,Michigan,0.91,43,8.,23.,59.4,33.,54.1,12.,90.0,-,0,-,0,-,0,4.,35.0,2.,98.6,0,337,72.
-2019.06,Lincoln,0.86,25,16.,14.,73.5,15.,59.3,16.,60.0,-,0,-,0,-,0,-,0,-,0,0,193,99.
-2018.06,Lincoln,0.85,21,15.,16.,66.0,13.,43.6,10.,80.0,-,0,-,0,-,0,-,0,-,0,0,190,93.
-2017.06,Lincoln,0.85,21,13.,14.,64.0,21.,27.5,6.,100.0,-,0,-,0,-,0,-,0,-,0,0,192,87.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2022,Michigan,0.91,43,8.,23.,33.,12.,-,-,-,4.,2.,0,337,72.
+2019,Lincoln,0.86,25,16.,14.,15.,16.,-,-,-,-,-,0,193,99.
+2018,Lincoln,0.85,21,15.,16.,13.,10.,-,-,-,-,-,0,190,93.
+2017,Lincoln,0.85,21,13.,14.,21.,6.,-,-,-,-,-,0,192,87.

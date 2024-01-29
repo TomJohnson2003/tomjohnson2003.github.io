@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2018.08,Spain,0.97,38,38.,36.,11.0,37.,33.0,37.,8.0,-,0,-,0,-,0,-,0,-,0,0,52,145.
-2016.08,Spain,0.97,29,25.,24.,45.6,25.,51.4,24.,69.0,-,0,-,0,-,0,-,0,-,0,0,166,77.
-2015.08,Spain,0.97,30,27.,13.,58.96,20.,44.8,30.,17.0,-,0,-,0,-,0,-,0,-,0,0,121,72.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2018,Spain,0.97,38,38.,36.,37.,37.,-,-,-,-,-,0,52,145.
+2016,Spain,0.97,29,25.,24.,25.,24.,-,-,-,-,-,0,166,77.
+2015,Spain,0.97,30,27.,13.,20.,30.,-,-,-,-,-,0,121,72.

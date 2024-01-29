@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2019.08,Germany,0.97,60,31.,48.,54.29,10.,66.51,40.,60.0,2.,73.18,14.,58.28,19.,51.77,-,0,-,0,0,364,187.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2019,Germany,0.97,60,31.,48.,10.,40.,2.,14.,19.,-,-,0,364,187.

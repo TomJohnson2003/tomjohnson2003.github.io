@@ -1,15 +1,15 @@
 Rank,University,Points
 1,Hochschule Esslingen,51.26
-2,Universität Stuttgart,49.9
+2,Universität Stuttgart,50.65
 3,Karlsruhe Institute of Technology,44.3
 4,Hochschule Karlsruhe - Technik und Wirtschaft,43.58
 5,Technische Universität Berlin,41.41
 6,Technische Universität Bergakademie Freiberg,40.25
 7,Technical University of Munich,40.1
 8,Westsächsische Hochschule Zwickau,39.93
-9,Fachhochschule Stralsund,38.16
-10,Technische Universität Braunschweig,37.62
-11,Fachhochschule Coburg,37.09
+9,Fachhochschule Stralsund,37.97
+10,Fachhochschule Coburg,37.72
+11,Technische Universität Braunschweig,37.62
 12,Universität Siegen,35.81
 13,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),35.68
 14,Universität Kassel,34.91
@@ -33,7 +33,7 @@ Rank,University,Points
 32,Fachhochschule Konstanz,26.07
 33,Ulm University of Applied Sciences,26.01
 34,Hochschule Darmstadt UAS,25.61
-35,Fachhochschule Aachen,25.28
+35,Fachhochschule Aachen,25.46
 36,Hochschule Pforzheim,24.3
 37,Technische Hochschule Köln,23.96
 38,Fachhochschule Hannover,23.67
@@ -44,8 +44,8 @@ Rank,University,Points
 43,Universität Bayreuth,18.25
 44,Hochschule für Technik und Wirtschaft Mittweida,17.33
 45,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,17.17
-46,Hochschule Mannheim,15.87
-47,Hochschule Niederrhein,15.05
+46,Hochschule Niederrhein,16.39
+47,Hochschule Mannheim,15.87
 48,Deggendorf Institute of Technology,14.58
 49,Fachhochschule Osnabrück,13.84
 50,Brandenburgische Technische Universität Cottbus,11.86
@@ -55,12 +55,12 @@ Rank,University,Points
 54,Saarland University,9.55
 55,Ruhr-Universität Bochum,9.23
 56,Otto-von-Guericke-Universität Magdeburg,9.08
-57,Technische Hochschule Lübeck,8.9
-58,Universität der Bundeswehr München,7.48
+57,Universität der Bundeswehr München,7.48
+58,Technische Hochschule Lübeck,6.32
 59,Bergische Universität Wuppertal,5.7
 60,Leibniz Universität Hannover,5.55
 61,Technische Universität Dortmund,5.22
-62,Fachhochschule Dortmund,4.36
+62,Fachhochschule Dortmund,4.16
 63,Fachhochschule Frankfurt am Main,1.25
 64,Hochschule Offenburg,0.7
 65,Berlin School of Economics,0.0

@@ -2,9 +2,9 @@ Rank,University,Lowest Place,#
 1,University of Texas at Arlington,1st,4
 2,University of Wisconsin-Madison,1st,4
 3,Rochester Institute of Technology,1st,3
-4,Cornell University,1st,2
-5,Georgia Institute of Technology,1st,2
-6,University of Illinois at Urbana-Champaign,1st,2
+4,University of Illinois at Urbana-Champaign,1st,3
+5,Cornell University,1st,2
+6,Georgia Institute of Technology,1st,2
 7,University of Washington,1st,2
 8,Auburn University,1st,1
 9,Michigan State University,1st,1
@@ -85,27 +85,27 @@ Rank,University,Lowest Place,#
 84,University of California Los Angeles,11th,1
 85,University of California San Diego,11th,1
 86,University of Connecticut,11th,1
-87,Minnesota State University Mankato,12th,2
-88,Rose-Hulman Institute of Technology,12th,2
-89,Carnegie Mellon University,12th,1
-90,Clarkson University,12th,1
-91,Duke University,12th,1
-92,University of Colorado at Boulder,12th,1
-93,University of Louisville,12th,1
-94,University of North Dakota,12th,1
-95,Washington University in St. Louis,12th,1
-96,Brown University,13th,1
-97,University of North Carolina at Charlotte,13th,1
-98,York College of Pennsylvania,13th,1
-99,Drexel University,14th,2
-100,California Baptist University,14th,1
-101,California State University Chico,14th,1
-102,California State University Fresno,14th,1
-103,Massachusetts Institute of Technology,14th,1
-104,Temple University,14th,1
-105,University of Arizona,14th,1
-106,University of Idaho,14th,1
-107,University of Southern California,14th,1
+87,University of Southern California,11th,1
+88,Minnesota State University Mankato,12th,2
+89,Rose-Hulman Institute of Technology,12th,2
+90,Washington University in St. Louis,12th,2
+91,Carnegie Mellon University,12th,1
+92,Clarkson University,12th,1
+93,Duke University,12th,1
+94,University of Colorado at Boulder,12th,1
+95,University of Louisville,12th,1
+96,University of North Dakota,12th,1
+97,Brown University,13th,1
+98,University of North Carolina at Charlotte,13th,1
+99,York College of Pennsylvania,13th,1
+100,Drexel University,14th,2
+101,California Baptist University,14th,1
+102,California State University Chico,14th,1
+103,California State University Fresno,14th,1
+104,Massachusetts Institute of Technology,14th,1
+105,Temple University,14th,1
+106,University of Arizona,14th,1
+107,University of Idaho,14th,1
 108,University of Evansville,15th,2
 109,University of Pennsylvania,15th,2
 110,Bradley University,15th,1
@@ -138,10 +138,10 @@ Rank,University,Lowest Place,#
 137,Lafayette College,24th,1
 138,Southern Illinois University Edwardsville,24th,1
 139,United States Air Force Academy,24th,1
-140,University of Hawaii at Manoa,25th,1
-141,University of Texas at San Antonio,26th,1
-142,Arizona State University,27th,2
-143,Embry-Riddle Aeronautical University,27th,1
+140,Arizona State University,25th,1
+141,Embry-Riddle Aeronautical University,25th,1
+142,University of Hawaii at Manoa,25th,1
+143,University of Texas at San Antonio,26th,1
 144,Georgia Southern University,27th,1
 145,Grand Valley State University,27th,1
 146,San Diego State University,27th,1

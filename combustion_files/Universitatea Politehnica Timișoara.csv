@@ -1,3 +1,3 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2018.07,Italy,0.85,46,46.,42.,51.79,33.,32.58,45.,16.33,-,0,-,0,-,0,-,0,-,0,-60,41,566.
-2016.07,Italy,0.88,38,37.,-,0,34.,22.11,32.,49.24,-,0,-,0,-,0,-,0,-,0,0,71,493.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2018,Italy,0.85,46,46.,42.,33.,45.,-,-,-,-,-,-60,41,566.
+2016,Italy,0.88,38,37.,-,34.,32.,-,-,-,-,-,0,71,493.

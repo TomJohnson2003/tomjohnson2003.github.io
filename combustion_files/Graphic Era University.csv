@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2018.01,India,0.85,54,21.,24.,40.0,7.,64.1,37.,50.0,-,0,-,0,-,0,-,0,-,0,0,154,457.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2018,India,0.85,54,21.,24.,7.,37.,-,-,-,-,-,0,154,457.

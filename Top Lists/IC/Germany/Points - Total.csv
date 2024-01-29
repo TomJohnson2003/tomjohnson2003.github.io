@@ -1,14 +1,14 @@
 Rank,University,Points
-1,Universität Stuttgart,53079
+1,Universität Stuttgart,55726
 2,Hochschule Esslingen,31534
-3,Fachhochschule Coburg,28486
+3,Fachhochschule Coburg,29867
 4,Technical University of Munich,27978
 5,Karlsruhe Institute of Technology,27408
 6,Hochschule für Angewandte Wissenschaften Hamburg,25959
 7,Friedrich-Alexander-Universität Erlangen-Nürnberg,20854
 8,Hochschule Karlsruhe - Technik und Wirtschaft,18282
-9,Technische Universität Berlin,17182
-10,Fachhochschule Stralsund,16845
+9,Fachhochschule Stralsund,17882
+10,Technische Universität Berlin,17182
 11,Fachhochschule München,16473
 12,Ostbayerische Technische Hochschule Regensburg,15863
 13,University of Applied Sciences Ravensburg-Weingarten,15680
@@ -26,13 +26,13 @@ Rank,University,Points
 25,Rheinisch-Westfälische Technische Hochschule Aachen,6423
 26,Westsächsische Hochschule Zwickau,6330
 27,Fachhochschule Kiel,6236
-28,Technische Hochschule Ostwestfalen-Lippe,5751
-29,Fachhochschule Aachen,5637
+28,Fachhochschule Aachen,6183
+29,Technische Hochschule Ostwestfalen-Lippe,5751
 30,Ostfalia University of Applied Sciences,5624
-31,Hochschule RheinMain,5557
-32,Hochschule für Technik und Wirtschaft Berlin,5446
-33,Technische Universität Bergakademie Freiberg,5303
-34,Hochschule Niederrhein,5083
+31,Hochschule Niederrhein,5562
+32,Hochschule RheinMain,5557
+33,Hochschule für Technik und Wirtschaft Berlin,5446
+34,Technische Universität Bergakademie Freiberg,5303
 35,Fachhochschule Hannover,5048
 36,Hochschule Pforzheim,4810
 37,Universität Bayreuth,3949
@@ -42,8 +42,8 @@ Rank,University,Points
 41,Saarland University,3594
 42,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,3341
 43,Duale Hochschule Baden-Württemberg Ravensburg,3187
-44,Otto-von-Guericke-Universität Magdeburg,2949
-45,Fachhochschule Dortmund,2515
+44,Fachhochschule Dortmund,3031
+45,Otto-von-Guericke-Universität Magdeburg,2949
 46,Technische Universität Dortmund,2445
 47,Hochschule Mannheim,2291
 48,Technische Universität Kaiserslautern,2126
@@ -51,10 +51,10 @@ Rank,University,Points
 50,Bergische Universität Wuppertal,1960
 51,Fachhochschule Osnabrück,1829
 52,Technische Universität Dresden,1610
-53,Universität Siegen,1447
-54,Deggendorf Institute of Technology,1215
-55,Duale Hochschule Baden-Württemberg Stuttgart,1137
-56,Technische Hochschule Lübeck,1018
+53,Technische Hochschule Lübeck,1576
+54,Universität Siegen,1447
+55,Deggendorf Institute of Technology,1215
+56,Duale Hochschule Baden-Württemberg Stuttgart,1137
 57,Fachhochschule für Wirtschaft und Technik,987
 58,Brandenburgische Technische Universität Cottbus,918
 59,Hochschule Offenburg,738

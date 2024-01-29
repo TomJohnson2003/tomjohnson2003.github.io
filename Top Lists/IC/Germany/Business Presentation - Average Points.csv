@@ -1,5 +1,5 @@
 Rank,University,Points
-1,Universität Stuttgart,67.13
+1,Universität Stuttgart,66.96
 2,Karlsruhe Institute of Technology,66.38
 3,Koblenz University of Applied Science,64.0
 4,Duale Hochschule Baden-Württemberg Stuttgart,61.68
@@ -10,10 +10,10 @@ Rank,University,Points
 9,Fachhochschule München,59.19
 10,Fachhochschule für Wirtschaft und Technik,58.2
 11,Hochschule Esslingen,58.18
-12,Fachhochschule Stralsund,58.05
-13,Ostbayerische Technische Hochschule Regensburg,57.53
-14,Universität Kassel,57.22
-15,Universität Bayreuth,57.19
+12,Ostbayerische Technische Hochschule Regensburg,57.53
+13,Universität Kassel,57.22
+14,Universität Bayreuth,57.19
+15,Fachhochschule Stralsund,57.17
 16,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),57.12
 17,Technische Universität Ilmenau,56.95
 18,Hochschule für Technik und Wirtschaft Berlin,56.3
@@ -33,18 +33,18 @@ Rank,University,Points
 32,Deggendorf Institute of Technology,51.38
 33,Ostfalia University of Applied Sciences,51.33
 34,Technische Universität Darmstadt,50.92
-35,Fachhochschule Coburg,50.69
-36,Technische Hochschule Köln,50.34
+35,Technische Hochschule Köln,50.34
+36,Fachhochschule Coburg,50.27
 37,Ulm University of Applied Sciences,50.25
 38,Hochschule Darmstadt UAS,49.56
 39,Technische Hochschule Mittelhessen,49.44
-40,Technische Hochschule Lübeck,49.24
-41,UAS Würzburg-Schweinfurt,49.18
-42,Hochschule Niederrhein,48.66
-43,Berlin School of Economics,48.54
-44,Hochschule Pforzheim,48.47
-45,Hochschule für Technik und Wirtschaft Mittweida,47.87
-46,Technische Universität Dresden,45.34
+40,UAS Würzburg-Schweinfurt,49.18
+41,Technische Hochschule Lübeck,49.1
+42,Berlin School of Economics,48.54
+43,Hochschule Pforzheim,48.47
+44,Hochschule für Technik und Wirtschaft Mittweida,47.87
+45,Technische Universität Dresden,45.34
+46,Hochschule Niederrhein,45.26
 47,Saarland University,44.36
 48,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,44.14
 49,Universität der Bundeswehr München,43.86
@@ -56,12 +56,12 @@ Rank,University,Points
 55,Fachhochschule Hannover,40.03
 56,Technische Hochschule Ostwestfalen-Lippe,38.99
 57,Technische Universität Kaiserslautern,37.99
-58,Hochschule Offenburg,36.6
-59,Fachhochschule Aachen,35.89
+58,Fachhochschule Aachen,36.67
+59,Hochschule Offenburg,36.6
 60,Brandenburgische Technische Universität Cottbus,34.53
 61,Technische Universität Dortmund,32.39
 62,Leibniz Universität Hannover,29.57
 63,Bergische Universität Wuppertal,27.91
-64,Fachhochschule Dortmund,23.22
+64,Fachhochschule Dortmund,23.81
 65,Fachhochschule Frankfurt am Main,20.92
 66,Hochschule Bonn-Rhein-Sieg,14.08

@@ -109,40 +109,28 @@
         }
         #contentDisplay {
             display: grid;
-            grid-template-columns: repeat(5, 1fr); /* Three boxes wide */
+            grid-template-columns: repeat(3, 1fr); /* Three boxes wide */
             gap: 20px;
         }
 
-        /* CSS for line boxes */
+        /* Adjusting the line-box size for the grid */
         .line-box {
-            display: flex;
-            justify-content: space-between; /* Create a two-column layout */
             font-family: Arial, sans-serif;
             background-color: #333;
-            padding: 10px;
+            padding: 5px;
             border: 1px solid #ccc;
             text-align: center;
-            font-size: 15px;
+            font-size: 16px;
             border-radius: 10px; /* Rounded corners */
+            padding: 10px; /* Adjust the padding for consistent spacing */
             margin: 5px; /* Adjust the margin for consistent spacing */
             margin-bottom: 20px;
         }
-
-        .item-left {
-            width: 48%; /* Adjust the width as needed for the left column */
-            text-align: left; /* Align text to the left in the left column */
-            color: white;
-        }
-
-        .item-right {
-            width: 48%; /* Adjust the width as needed for the right column */
-            text-align: right; /* Align text to the right in the right column */
-            font-size: 18px; /* Increase the font size for the second item on the right */
+        .item {
+            font-size: 18px; /* Adjust the font size as needed */
             font-weight: bold;
             color: white;
         }
-
-
         /* Add extending background to dropdown menu labels */
         #fileContentToggle,
         #tableHeader,
@@ -183,85 +171,6 @@
             display: none;
             margin-bottom: 10px; /* Adjust the margin between the iframes */
         }
-        .hidden {
-            display: none;
-        }
-        #headerContainer {
-            display: flex;
-            align-items: center; /* Center vertically */
-            justify-content: center; /* Center horizontally */
-            color: white; /* Set text color to white */
-            margin-top: 80px;
-        }
-
-        #flagImage {
-            height: 1.5em; /* Set a fixed height for the flag (adjust as needed) */
-            margin-right: 10px; /* Add some spacing between flag and title */
-        }
-
-        #selectedItem {
-            font-size: 1.5em; /* Set a fixed font size for the title (adjust as needed) */
-            margin: 0; /* Remove any margin or padding that may affect the height */
-        }
-        /* Style for the button container */
-        .power-button {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background-color: #333;
-            color: white;
-            border: none;
-            padding: 5px;
-            cursor: pointer;
-            width: 200px; /* Adjust the width as needed */
-            height: 50px;
-            border-radius: 25px;
-            position: relative;
-            overflow: hidden;
-            margin: 0 auto; /* Center horizontally */
-            margin-bottom: 10px;
-        }
-
-        /* Style for the slider inside the button */
-        .slider {
-            width: 50%;
-            height: 100%;
-            background-color: #ddd;
-            position: absolute;
-            top: 0;
-            left: 0;
-            transition: left 0.3s; /* Use 'left' property for smooth sliding */
-        }
-
-        /* Style for the labels */
-        .label {
-            flex: 1;
-            text-align: center;
-            position: relative;
-            z-index: 1; /* Ensure text is on top of the slider */
-            transition: color 0.3s;
-            color: white; /* Initial text color */
-        }
-
-        /* Style for the left label */
-        #labelLeft {
-            color: black; /* Contrasting color for left label */
-        }
-
-        /* Initially, set 'Nationwide' to the right */
-        #labelRight {
-            order: 2;
-        }
-
-        /* Add a rule for the hidden class */
-        .hidden {
-            display: none;
-        }
-
-
-        
-
-        
 
             </style>
 </head>
@@ -273,28 +182,13 @@
         <a href="search_electric.html">Electric</a>
         <a href="about.html">About</a>
     </div>
-    <div id="headerContainer">
-        <img id="flagImage" alt="Flag" />
-        <h1 id="selectedItem"></h1>
-    </div>
-    <div id="universityName" class="hidden"></div>
-    <div id="class" class="hidden"></div>
-    <div id="filePath" class="hidden"></div>
-
+    <h1 id="selectedItem"></h1>
     <h2 id="fileContentToggle" class="toggle-heading">
-        <span id="toggleButton" class="toggle-button" onclick="toggleContent()">Statistics</span>
+        Team Statistics
         <span id="toggleContent" class="triangle"></span>
     </h2>
-    <div id="toggleDirectionButton" class="power-button" onclick="toggleDirection()">
-        <div id="labelLeft" class="label">Worldwide</div>
-        <div id="labelRight" class="label">Nationwide</div>
-        <div class="slider"></div>
-    </div>
-    
-    
     <div id="contentDisplay" class="visible"> <!-- Change 'pre' to 'div' and add 'class' -->
         <!-- Content for the first dropdown here -->
-        
     </div>
     
     <h2 id="thirdToggle">
@@ -325,45 +219,45 @@
         var encodedFilename = urlParams.get('file');
         var classValue = urlParams.get('class'); // Retrieve class value
         var filename = decodeURIComponent(encodedFilename);
-    
+
         var selectedItemHeading = document.getElementById('selectedItem');
         var capitalizedClass = classValue.charAt(0).toUpperCase() + classValue.slice(1); // Capitalize class name
         selectedItemHeading.textContent = filename + " - " + capitalizedClass; // Add class to heading
         document.title = filename + " - " + capitalizedClass; // Add class to title
-    
+
         var directory = (classValue === 'electric') ? 'electric_files' : 'combustion_files';
-    
+
         var tableHeader = document.getElementById('tableHeader');
         var tableWrapper = document.getElementById('tableWrapper');
-    
+
         function sortTable(n) {
             var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
             table = document.querySelector('#tableWrapper table');
             switching = true;
             dir = "asc";
-    
+
             while (switching) {
                 switching = false;
                 rows = table.rows;
-    
+
                 for (i = 1; i < (rows.length - 1); i++) {
                     shouldSwitch = false;
                     x = rows[i].getElementsByTagName("TD")[n];
                     y = rows[i + 1].getElementsByTagName("TD")[n];
-    
+
                     var xValue = x.textContent || x.innerText;
                     var yValue = y.textContent || y.innerText;
-    
+
                     if (xValue === "-") {
                         xValue = Number.POSITIVE_INFINITY;
                     }
                     if (yValue === "-") {
                         yValue = Number.POSITIVE_INFINITY;
                     }
-    
+
                     xValue = parseFloat(xValue); // Convert to number if possible
                     yValue = parseFloat(yValue);
-    
+
                     if (isNaN(xValue) && !isNaN(yValue)) {
                         // If x is non-numeric and y is numeric, x should come after y
                         shouldSwitch = true;
@@ -403,12 +297,12 @@
                 }
             }
         }
-    
+
         function isNumeric(value) {
             return /^-?\d+(\.\d+)?$/.test(value);
         }
-    
-        tableHeader.addEventListener('click', function () {
+
+        tableHeader.addEventListener('click', function() {
             if (tableWrapper.classList.contains('hidden')) {
                 tableWrapper.classList.remove('hidden');
                 tableHeader.querySelector('.triangle').classList.remove('triangle-rotate');
@@ -417,15 +311,16 @@
                 tableHeader.querySelector('.triangle').classList.add('triangle-rotate');
             }
         });
-    
+
+
         fetch(directory + '/' + filename + '.csv')
             .then(response => response.text())
             .then(content => {
                 var csvContentDiv = document.getElementById('csvContent');
                 var rows = content.split('\n');
                 var tableHTML = '<table>';
-    
-                for (var i = 0; i < rows.length - 1; i++) {
+
+                for (var i = 0; i < rows.length-1; i++) {
                     tableHTML += '<tr>';
                     var cells = rows[i].split(',');
                     for (var j = 0; j < cells.length; j++) {
@@ -437,71 +332,79 @@
                     }
                     tableHTML += '</tr>';
                 }
-    
+
                 tableHTML += '</table>';
                 tableWrapper.innerHTML = tableHTML;
             })
             .catch(error => console.error('Error fetching CSV content:', error));
         fetchFileContent(directory, filename);
-    
+
         var fileContentToggle = document.getElementById('fileContentToggle');
         var toggleContent = document.getElementById('toggleContent');
         var contentDisplay = document.getElementById('contentDisplay');
-        var toggleButton = document.getElementById('toggleDirectionButton');
-    
-        fileContentToggle.addEventListener('click', function () {
+
+        fileContentToggle.addEventListener('click', function() {
             if (contentDisplay.classList.contains('hidden')) {
                 contentDisplay.classList.remove('hidden');
-                toggleButton.classList.remove('hidden'); // Fix the typo here
                 toggleContent.classList.add('triangle-rotate');
             } else {
                 contentDisplay.classList.add('hidden');
-                toggleButton.classList.add('hidden'); // Fix the typo here
                 toggleContent.classList.remove('triangle-rotate');
             }
         });
 
-    
+
+
         function fetchFileContent(directory, filename) {
             var filePath = (classValue === 'electric')
-                ? `Lists/Electric Teams Worldwide/${filename}.csv`
-                : `Lists/IC Teams Worldwide/${filename}.csv`;
-    
+                ? `Lists/Electric Teams/${filename}.csv`
+                : `Lists/IC Teams/${filename}.csv`;
+
             var htmlPath = (classValue === 'electric')
                 ? `Graphs/Points/Electric/${filename}.html`
                 : `Graphs/Points/Combustion/${filename}.html`; // Update the path to your HTML files
-    
+            
             var htmlPath2 = (classValue === 'electric')
                 ? `Graphs/Average Points/Electric/${filename}.html`
                 : `Graphs/Average Points/Combustion/${filename}.html`; // Update the path to your HTML files
             var htmlPath3 = (classValue === 'electric')
                 ? `Graphs/WRL/Electric/${filename}.html`
                 : `Graphs/WRL/Combustion/${filename}.html`; // Update the path to your HTML files
-    
-            fetch(filePath)
-                .then(response => response.text())
-                .then(content => {
-                    var lines = content.split('\n');
-                    var linesHTML = '';
-    
-                    for (var i = 0; i < lines.length - 1; i++) {
-                        var line = lines[i];
-                        var items = line.split(',');
-                        var modifiedLine = '';
-    
-                        var item1 = items[0].trim();
-                        var item2 = (items.length > 1) ? items[1].trim() : '';
-                        var item3 = (items.length > 2) ? items[2].trim() : '';
-                        var item4 = (items.length > 3) ? items[3].trim() : '';
-    
-                        modifiedLine += '<div class="item-left">' + item1 + '<br> <br>' + item3 + ' ' + item4 + '</div>';
-                        modifiedLine += '<div class="item-right">' + item2 + '</div>';
-    
+
+                fetch(filePath)
+                    .then(response => response.text())
+                    .then(content => {
+                        var lines = content.split('\n');
+                        var linesHTML = '';
+
+                        for (var i = 0; i < lines.length - 1; i++) {
+                            var line = lines[i];
+                            var items = line.split(',');
+                            var modifiedLine = '';
+
+                        for (var j = 0; j < items.length; j += 2) {
+                            var item1 = items[j].trim();
+                            var item2 = (j + 1 < items.length) ? items[j + 1].trim() : '';
+
+                            var textColor = '';
+
+                            if (item1 === '1st') {
+                                textColor = 'color: gold;';
+                            } else if (item1 === '2nd') {
+                                textColor = 'color: silver;';
+                            } else if (item1 === '3rd') {
+                                textColor = 'color: #cd7f32;';
+                            }
+
+                            modifiedLine += `<span class="item" style="${textColor}">${item1} ${item2}</span><br>`;
+                        }
+
                         linesHTML += '<div class="line-box">' + modifiedLine + '</div>';
                     }
-    
+
                     contentDisplay.innerHTML = linesHTML;
-    
+
+
                     // Fetch and display HTML content in the first iframe
                     fetch(htmlPath)
                         .then(response => response.text())
@@ -515,7 +418,7 @@
                             iframeElement.style.display = 'block';
                             iframeElement.innerHTML = '<div class="line-box">Error loading HTML content: ' + error.message + '</div>';
                         });
-    
+
                     // Fetch and display HTML content in the second iframe
                     fetch(htmlPath2) // Use the same or a different HTML path as needed
                         .then(response => response.text())
@@ -529,7 +432,7 @@
                             secondIframeElement.style.display = 'block';
                             secondIframeElement.innerHTML = '<div class="line-box">Error loading HTML content: ' + error.message + '</div>';
                         });
-                    // Fetch and display HTML content in the second iframe
+                                        // Fetch and display HTML content in the second iframe
                     fetch(htmlPath3) // Use the same or a different HTML path as needed
                         .then(response => response.text())
                         .then(htmlContent => {
@@ -547,11 +450,11 @@
                     contentDisplay.innerHTML = '<div class="line-box">Error loading content: ' + error.message + '</div>';
                 });
         }
-    
+
         var thirdToggle = document.getElementById('thirdToggle');
         var graphContainer = document.getElementById('graphContainer');
-    
-        thirdToggle.addEventListener('click', function () {
+
+        thirdToggle.addEventListener('click', function() {
             if (graphContainer.classList.contains('hidden')) {
                 graphContainer.classList.remove('hidden');
                 thirdToggleContent.classList.add('triangle-rotate');
@@ -560,7 +463,7 @@
                 thirdToggleContent.classList.remove('triangle-rotate');
             }
         });
-    
+
         function fetchAndDisplayGraphs(htmlPath, iframeId) {
             fetch(htmlPath)
                 .then(response => response.text())
@@ -575,179 +478,16 @@
                     iframeElement.innerHTML = '<div class="line-box">Error loading HTML content: ' + error.message + '</div>';
                 });
         }
-    
-        // Function to extract university name from the full title
-        function getUniversityName(fullTitle, classValue) {
-            // Remove the suffix ("- Electric" or "- Combustion")
-            var universityName = fullTitle.replace(` - ${classValue}`, '').trim();
-            return universityName;
-        }
-    
-        var urlParams = new URLSearchParams(window.location.search);
-        var encodedFilename = urlParams.get('file');
-        var classValue = urlParams.get('class'); // Retrieve class value
-        var filename = decodeURIComponent(encodedFilename);
-    
-        // Get the university name based on the filename and classValue
-        var universityName = getUniversityName(filename, classValue);
-    
-        // Update the display with the extracted university name
-        var universityNameElement = document.getElementById('universityName');
-        universityNameElement.textContent = universityName;
-    
-        // Assuming you have the class name in a variable named classValue
-        var capitalizedClass = classValue.charAt(0).toUpperCase() + classValue.slice(1);
-    
-        // Then, you can display it in the "class" div
-        var classDiv = document.getElementById('class');
-        classDiv.textContent = capitalizedClass;
-    
-        // Modify the fetchAndParseCSV function to pass the countryName to the callback
-        function fetchAndParseCSV(classValue, universityName, callback) {
-            var csvFilePath = (classValue === 'Electric')
-                ? 'Lists/Electric Countries.csv'
-                : 'Lists/Combustion Countries.csv';
 
-            fetch(csvFilePath)
-                .then(response => response.text())
-                .then(csvData => {
-                    // Split the CSV data into rows
-                    var rows = csvData.split('\n');
-                    
-                    // Initialize a variable to store the countryName
-                    var countryName = '';
+        var graphIframeElement = document.getElementById('iframeElement');
+        var secondGraphIframeElement = document.getElementById('secondIframeElement');
+        var thirdGraphIframeElement = document.getElementByID('thirdIframeElement')
 
-                    // Loop through rows and parse the country name
-                    for (var i = 1; i < rows.length; i++) {
-                        var columns = rows[i].split(',');
-                        if (columns.length >= 2) {
-                            var uniName = columns[0].trim();
-                            var country = columns[1].trim();
-
-                            // Check if the university name matches the desired university
-                            if (uniName === universityName) {
-                                countryName = country;
-                                break; // Stop searching once found
-                            }
-                        }
-                    }
-
-                    // Pass the countryName to the callback
-                    callback(countryName);
-                })
-                .catch(error => {
-                    console.error('Error fetching or parsing CSV data:', error);
-                    // Handle errors here if necessary
-                });
-        }
-
-
-        // Modify the displayFlagForCountry function to accept the country as an argument
-        function displayFlagForCountry(countryName) {
-            // Construct the path to the flag image using forward slashes
-            var flagImagePath = 'Flags/' + countryName + '.png';
-
-            // Log the full file path to the console for debugging
-            console.log('Full file path:', flagImagePath);
-
-            // Find the img element where you want to display the flag
-            var flagImageElement = document.getElementById('flagImage');
-
-            // Set the src attribute of the img element to display the flag
-            flagImageElement.src = flagImagePath;
-
-            // Find the div element to display the file path
-            var filePathElement = document.getElementById('filePath');
-
-            // Set the content of the div element to display the file path
-            filePathElement.textContent = 'File Path: ' + flagImagePath;
-        }
-
-        // Fetch and parse the CSV data to get the country name
-        fetchAndParseCSV(classValue, universityName, displayFlagForCountry);
-
-
-
-        var isWorldwide = false; // Default to 'Worldwide'
-        var filePath; // Declare the filePath variable outside the function
-
-        function toggleDirection() {
-            var slider = document.querySelector('.slider');
-            var labelLeft = document.getElementById('labelLeft');
-            var labelRight = document.getElementById('labelRight');
-
-            if (isWorldwide) {
-                // Update the filePath for 'Nationwide'
-                filePath = (classValue === 'electric')
-                    ? `Lists/Electric Teams Worldwide/${filename}.csv`
-                    : `Lists/IC Teams Worldwide/${filename}.csv`;
-            } else {
-                // Update the filePath for 'Worldwide'
-                filePath = (classValue === 'electric')
-                    ? `Lists/Electric Teams/${filename}.csv`
-                    : `Lists/IC Teams/${filename}.csv`;
-            }
-
-            // Fetch and display the new CSV data
-            fetch(filePath)
-                .then(response => response.text())
-                .then(content => {
-                    var lines = content.split('\n');
-                    var linesHTML = '';
-
-                    for (var i = 0; i < lines.length - 1; i++) {
-                        var line = lines[i];
-                        var items = line.split(',');
-                        var modifiedLine = '';
-
-                        var item1 = items[0].trim();
-                        var item2 = (items.length > 1) ? items[1].trim() : '';
-                        var item3 = (items.length > 2) ? items[2].trim() : '';
-                        var item4 = (items.length > 3) ? items[3].trim() : '';
-
-                        modifiedLine += '<div class="item-left">' + item1 + '<br> <br>' + item3 + ' ' + item4 + '</div>';
-                        modifiedLine += '<div class="item-right">' + item2 + '</div>';
-
-                        linesHTML += '<div class="line-box">' + modifiedLine + '</div>';
-                    }
-
-                    var contentDisplay = document.getElementById('contentDisplay');
-                    contentDisplay.innerHTML = linesHTML;
-                })
-                .catch(error => {
-                    console.error('Error fetching or displaying CSV data:', error);
-                });
-
-            // You can now use the 'filePath' variable as needed in your code
-            console.log('Current filePath:', filePath);
-
-            // Toggle the state
-            isWorldwide = !isWorldwide;
-
-            // Update the slider position and label colors
-            if (isWorldwide) {
-                slider.style.left = '50%';
-                labelLeft.style.color = 'white'; // Contrasting color for left label
-                labelRight.style.color = 'black'; // White text color for right label
-            } else {
-                slider.style.left = '0';
-                labelLeft.style.color = 'black'; // White text color for left label
-                labelRight.style.color = 'white'; // Contrasting color for right label
-            }
-        }
-
-        // Initial filePath assignment when the page loads
-        filePath = (classValue === 'electric')
-            ? `Lists/Electric Teams/${filename}.csv`
-            : `Lists/IC Teams/${filename}.csv`;
-
-
-
-
-
+        fetchAndDisplayGraphs(htmlPath, 'iframeElement');
+        fetchAndDisplayGraphs(htmlPath2, 'secondIframeElement');
+        fetchAndDisplayGraphs(htmlPath3, 'thirdIframeElement');
 
 
     </script>
-      
 </body>
 </html>

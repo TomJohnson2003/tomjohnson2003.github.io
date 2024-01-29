@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2022.08,Alpe Adria,0.85,25,18.,10.,78.8,23.,32.8,13.,99.4,19.,3.5,-,0,13.,21.8,-,0,-,0,-50,186,148.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2022,Alpe Adria,0.85,25,18.,10.,23.,13.,19.,-,13.,-,-,-50,186,148.

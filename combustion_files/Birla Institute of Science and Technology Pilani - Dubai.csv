@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2022.07,Netherlands,0.85,14,13.,12.,21.29,3.,70.0,13.,14.89,-,0,-,0,-,0,-,0,-,0,-40,66,514.
-2017.07,Italy,0.91,43,40.,38.,42.85,39.,28.32,41.,24.83,-,0,-,0,-,0,-,0,-,0,-10,86,472.
-2016.08,Germany,0.99,73,68.,12.,76.0,61.,35.72,71.,35.0,-,0,-,0,-,0,-,0,-,0,0,147,412.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2022,Netherlands,0.85,14,13.,12.,3.,13.,-,-,-,-,-,-40,66,514.
+2017,Italy,0.91,43,40.,38.,39.,41.,-,-,-,-,-,-10,86,472.
+2016,Germany,0.99,73,68.,12.,61.,71.,-,-,-,-,-,0,147,412.

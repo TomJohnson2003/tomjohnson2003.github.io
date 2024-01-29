@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
-2007.06,California,0.95,59,54.,43.,56.0,56.,31.47,43.,40.0,-,0,-,0,44.,7.5,-,0,-,0,0,135,291.
+date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
+2007,California,0.95,59,54.,43.,56.,43.,-,-,44.,-,-,0,135,291.

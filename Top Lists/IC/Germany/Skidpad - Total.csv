@@ -1,13 +1,13 @@
 Rank,University,Points
-1,Universität Stuttgart,3343.55
+1,Universität Stuttgart,3596.2
 2,Hochschule Esslingen,2306.63
 3,Karlsruhe Institute of Technology,2082.28
-4,Technical University of Munich,1844.54
-5,Fachhochschule Coburg,1780.22
+4,Fachhochschule Coburg,1923.61
+5,Technical University of Munich,1844.54
 6,Hochschule für Angewandte Wissenschaften Hamburg,1550.64
 7,Hochschule Karlsruhe - Technik und Wirtschaft,1525.3
-8,Technische Universität Berlin,1366.54
-9,Fachhochschule Stralsund,1335.49
+8,Fachhochschule Stralsund,1442.78
+9,Technische Universität Berlin,1366.54
 10,Friedrich-Alexander-Universität Erlangen-Nürnberg,1267.02
 11,Ostbayerische Technische Hochschule Regensburg,1113.03
 12,Universität Paderborn,1102.5
@@ -20,8 +20,8 @@ Rank,University,Points
 19,Universität Kassel,733.04
 20,Ulm University of Applied Sciences,676.3
 21,UAS Würzburg-Schweinfurt,638.58
-22,Technische Universität Braunschweig,601.91
-23,Fachhochschule Aachen,581.38
+22,Fachhochschule Aachen,636.48
+23,Technische Universität Braunschweig,601.91
 24,Technische Hochschule Mittelhessen,493.52
 25,Technische Universität Darmstadt,456.01
 26,Westsächsische Hochschule Zwickau,439.26
@@ -34,8 +34,8 @@ Rank,University,Points
 33,Hochschule Pforzheim,364.57
 34,Ostfalia University of Applied Sciences,356.11
 35,Hochschule RheinMain,331.49
-36,Duale Hochschule Baden-Württemberg Ravensburg,260.49
-37,Hochschule Niederrhein,255.81
+36,Hochschule Niederrhein,311.39
+37,Duale Hochschule Baden-Württemberg Ravensburg,260.49
 38,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,223.23
 39,Universität Bayreuth,200.77
 40,Hochschule Heilbronn,192.07
@@ -51,14 +51,14 @@ Rank,University,Points
 50,Brandenburgische Technische Universität Cottbus,83.0
 51,Duale Hochschule Baden-Württemberg Stuttgart,78.92
 52,Technische Universität Dortmund,78.35
-53,Technische Universität Dresden,69.93
-54,Fachhochschule Osnabrück,69.19
-55,Hochschule Bonn-Rhein-Sieg,64.55
-56,Bergische Universität Wuppertal,62.71
-57,Fachhochschule Dortmund,61.1
+53,Fachhochschule Dortmund,70.72
+54,Technische Universität Dresden,69.93
+55,Fachhochschule Osnabrück,69.19
+56,Hochschule Bonn-Rhein-Sieg,64.55
+57,Bergische Universität Wuppertal,62.71
 58,Deggendorf Institute of Technology,58.3
-59,Technische Universität Ilmenau,55.24
-60,Technische Hochschule Lübeck,53.38
+59,Technische Hochschule Lübeck,56.88
+60,Technische Universität Ilmenau,55.24
 61,Universität der Bundeswehr München,37.4
 62,Leibniz Universität Hannover,22.21
 63,Hochschule Offenburg,3.5
