@@ -1,2 +1,3 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2022,Michigan,0.91,43,40.,-,27.,40.,-,-,-,-,-,0,69,191.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2023.06,Michigan,0.90,61,51.,52.,39.0,13.,58.4,57.,25.0,-,0,-,0,-,0,-,0,-,0,0,122,214.
+2022.06,Michigan,0.91,43,40.,-,0,27.,59.0,40.,10.0,-,0,-,0,-,0,-,0,-,0,0,69,191.

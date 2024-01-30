@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2014,Germany,0.98,74,25.,58.,40.,64.,33.,35.,35.,18.,1.,0,458,117.
-2011,California,0.95,60,43.,20.,6.,28.,-,-,-,-,-,0,208,264.
-2009,California,0.93,45,23.,6.,25.,33.,29.,22.,30.,17.,-,0,366,147.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2014.08,Germany,0.98,74,25.,58.,49.59,40.,45.94,64.,45.0,33.,42.49,35.,28.49,35.,18.43,18.,128.26,1.,100.0,0,458,117.
+2011.06,California,0.95,60,43.,20.,65.7,6.,67.7,28.,74.0,-,0,-,0,-,0,-,0,-,0,0,208,264.
+2009.06,California,0.93,45,23.,6.,75.0,25.,52.0,33.,35.0,29.,8.8,22.,24.7,30.,7.5,17.,163.0,-,0,0,366,147.

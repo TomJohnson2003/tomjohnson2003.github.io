@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2016,Australia,0.90,32,23.,21.,28.,29.,16.,17.,16.,13.,-,0,211,339.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2016.12,Australia,0.90,32,23.,21.,56.2,28.,46.7,29.,78.4,16.,3.5,17.,3.5,16.,5.0,13.,18.0,-,0,0,211,339.

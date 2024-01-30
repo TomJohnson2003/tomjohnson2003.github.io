@@ -1,3 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2019,Japan,0.96,87,81.,85.,11.,75.,-,-,-,-,-,-50,50,183.
-2017,Japan,0.92,83,81.,74.,4.,69.,-,-,-,-,-,-50,65,130.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2023.12,Australia,0.90,22,16.,15.,13.38,6.,61.14,13.,95.9,13.,4.5,12.,3.6,11.,6.5,13.,10.0,-,0,0,195,220.
+2019.08,Japan,0.96,87,81.,85.,2.0,11.,60.93,75.,37.0,-,0,-,0,-,0,-,0,-,0,-50,50,183.
+2017.09,Japan,0.92,83,81.,74.,3.0,4.,63.75,69.,48.0,-,0,-,0,-,0,-,0,-,0,-50,65,130.

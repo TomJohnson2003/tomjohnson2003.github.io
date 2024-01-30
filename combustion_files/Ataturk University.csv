@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2022,Italy,0.86,24,24.,24.,16.,24.,-,-,-,-,-,0,50,514.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2022.07,Italy,0.86,24,24.,24.,2.5,16.,27.66,24.,19.42,-,0,-,0,-,0,-,0,-,0,0,50,514.

@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2021,Czech Republic,0.85,14,3.,-,2.,14.,3.,2.,-,2.,2.,0,488,36.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2021.08,Czech Republic,0.85,14,3.,-,0,2.,74.0,14.,5.0,3.,50.14,2.,52.52,-,0,2.,216.83,2.,89.96,0,488,36.

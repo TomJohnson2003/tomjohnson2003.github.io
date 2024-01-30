@@ -1,3 +1,5 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2021,Czech Republic,0.85,14,13.,10.,11.,12.,-,-,-,-,-,0,163,156.
-2019,Germany,0.97,38,37.,34.,34.,36.,-,-,-,-,-,-40,89,168.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2023.08,Germany,0.91,70,66.,68.,31.02,57.,43.26,66.,30.0,-,0,-,0,-,0,-,0,-,0,0,104,245.
+2023.08,Czech Republic,0.89,35,30.,26.,53.0,33.,35.0,29.,56.0,-,0,-,0,-,0,-,0,-,0,0,144,222.
+2021.08,Czech Republic,0.85,14,13.,10.,33.0,11.,45.0,12.,85.0,-,0,-,0,-,0,-,0,-,0,0,163,156.
+2019.08,Germany,0.97,38,37.,34.,56.0,34.,38.39,36.,35.0,-,0,-,0,-,0,-,0,-,0,-40,89,168.

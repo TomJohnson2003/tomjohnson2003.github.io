@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2014,Germany,0.98,74,70.,66.,72.,68.,-,-,45.,-,-,0,100,455.
-2012,Germany,0.98,76,72.,69.,68.,70.,-,-,-,-,-,0,103,429.
-2011,Germany,0.96,74,69.,62.,67.,71.,-,-,43.,-,-,0,110,409.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2014.08,Germany,0.98,74,70.,66.,36.25,72.,19.08,68.,40.0,-,0,-,0,45.,4.5,-,0,-,0,0,100,455.
+2012.08,Germany,0.98,76,72.,69.,30.06,68.,33.22,70.,40.0,-,0,-,0,-,0,-,0,-,0,0,103,429.
+2011.08,Germany,0.96,74,69.,62.,39.65,67.,36.08,71.,30.0,-,0,-,0,43.,4.5,-,0,-,0,0,110,409.

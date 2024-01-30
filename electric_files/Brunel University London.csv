@@ -1,2 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2019,United Kingdom,0.85,64,65.,63.,55.,51.,-,-,-,-,-,0,17,174.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2023.07,United Kingdom,0.85,60,25.,3.,111.0,34.,59.3,31.,72.0,-,0,-,0,-,0,-,0,-,0,7,249,202.
+2023.07,Italy,0.85,30,29.,-,0,29.,12.75,-,0,-,0,-,0,-,0,-,0,-,0,0,13,268.
+2019.07,United Kingdom,0.85,64,65.,63.,-52.0,55.,21.8,51.,47.0,-,0,-,0,-,0,-,0,-,0,0,17,174.

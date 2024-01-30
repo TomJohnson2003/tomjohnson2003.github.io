@@ -1,4 +1,5 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2022,Spain,0.85,38,25.,22.,14.,15.,-,-,-,-,-,0,241,117.
-2022,Germany,0.93,63,39.,29.,54.,10.,-,-,-,-,-,0,219,117.
-2022,East,0.92,33,26.,15.,29.,25.,-,-,-,-,-,0,198,133.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2023.08,Alpe Adria,0.88,29,29.,26.,37.0,24.,35.9,28.,44.5,-,0,-,0,-,0,-,0,-,0,-115,2,238.
+2022.09,Spain,0.85,38,25.,22.,69.6,14.,63.0,15.,108.0,-,0,-,0,-,0,-,0,-,0,0,241,117.
+2022.08,Germany,0.93,63,39.,29.,76.0,54.,48.13,10.,95.0,-,0,-,0,-,0,-,0,-,0,0,219,117.
+2022.08,East,0.92,33,26.,15.,80.79,29.,29.89,25.,87.0,-,0,-,0,-,0,-,0,-,0,0,198,133.

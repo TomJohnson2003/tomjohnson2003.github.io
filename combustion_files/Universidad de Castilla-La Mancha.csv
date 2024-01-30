@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2015,Spain,0.90,28,26.,16.,27.,26.,-,-,-,-,-,0,129,439.
-2014,Spain,0.91,25,23.,20.,14.,21.,22.,18.,13.,-,-,0,149,449.
-2013,Italy,0.94,42,39.,33.,38.,33.,30.,20.,29.,30.,-,-50,83,474.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2015.08,Spain,0.90,28,26.,16.,45.55,27.,37.4,26.,46.0,-,0,-,0,-,0,-,0,-,0,0,129,439.
+2014.08,Spain,0.91,25,23.,20.,27.47,14.,49.58,21.,59.0,22.,5.21,18.,3.5,13.,4.5,-,0,-,0,0,149,449.
+2013.09,Italy,0.94,42,39.,33.,36.3,38.,17.2,33.,62.0,30.,3.5,20.,2.5,29.,7.5,30.,4.0,-,0,-50,83,474.

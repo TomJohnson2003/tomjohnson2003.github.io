@@ -1,4 +1,4 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2014,Japan,0.93,75,75.,-,-,74.,-,-,-,-,-,0,5,507.
-2011,United Kingdom,0.95,77,73.,74.,51.,-,-,-,-,-,-,0,68,433.
-2010,Australia,0.90,27,26.,2.,21.,-,-,-,-,-,-,0,127,411.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2014.09,Japan,0.93,75,75.,-,0,-,0,74.,5.0,-,0,-,0,-,0,-,0,-,0,0,5,507.
+2011.07,United Kingdom,0.95,77,73.,74.,22.0,51.,46.0,-,0,-,0,-,0,-,0,-,0,-,0,0,68,433.
+2010.12,Australia,0.90,27,26.,2.,79.9,21.,46.9,-,0,-,0,-,0,-,0,-,0,-,0,0,127,411.

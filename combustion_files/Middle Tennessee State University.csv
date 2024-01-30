@@ -1,5 +1,5 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2008,Virginia,0.88,28,22.,26.,-,16.,9.,14.,11.,-,-,0,202,281.
-2006,California,0.97,49,40.,46.,45.,38.,-,38.,38.,21.,-,0,220,253.
-2005,Michigan,0.99,114,113.,111.,-,-,-,-,-,-,-,0,40,248.
-2004,Michigan,1.00,129,128.,124.,-,-,-,-,-,-,-,0,39,218.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2008.04,Virginia,0.88,28,22.,26.,53.2,-,0,16.,80.0,9.,55.0,14.,6.8,11.,7.5,-,0,-,0,0,202,281.
+2006.06,California,0.97,49,40.,46.,52.07,45.,25.09,38.,30.0,-,0,38.,11.87,38.,19.08,21.,81.61,-,0,0,220,253.
+2005.05,Michigan,0.99,114,113.,111.,40.37,-,0,-,0,-,0,-,0,-,0,-,0,-,0,0,40,248.
+2004.05,Michigan,1.00,129,128.,124.,38.82,-,0,-,0,-,0,-,0,-,0,-,0,-,0,0,39,218.

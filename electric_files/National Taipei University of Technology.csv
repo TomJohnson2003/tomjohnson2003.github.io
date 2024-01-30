@@ -1,2 +1,2 @@
-date,event,C,teams,place,cost,bp,ed,acc,sp,autox,endu,fuel,pen,total,wrl
-2019,Japan,0.96,87,82.,82.,-,73.,-,-,-,-,-,0,43,186.
+date,event,C,teams,place,cost,cost points,bp,bp points,ed,ed points,acc,acc points,sp,sp points,autox,autox points,endu,endu points,fuel,fuel points,pen,total,wrl
+2019.08,Japan,0.96,87,82.,82.,5.0,-,0,73.,38.0,-,0,-,0,-,0,-,0,-,0,0,43,186.
