@@ -115,29 +115,31 @@
             const urlParams = new URLSearchParams(window.location.search);
             const category = urlParams.get('category');
             const type = urlParams.get('type');
-    
+            // Corrected code to retrieve the 'country' parameter
+            const folder = urlParams.get('country');
+
             if (category && type) {
                 let filePath = "";
-    
+
                 if (type === "combustion") {
-                    filePath = `Lists/IC/${category}.csv`;
+                    filePath = `Top Lists/IC/${folder}/${category}.csv`;
                 } else if (type === "electric") {
-                    filePath = `Lists/Electric/${category}.csv`;
+                    filePath = `Top Lists/Electric/${folder}/${category}.csv`;
                 }
-    
+
                 try {
                     const response = await fetch(filePath);
-                    
+
                     if (!response.ok) {
                         throw new Error("CSV file not found.");
                     }
-    
+
                     const csvContent = await response.text();
                     const csvLines = csvContent.split("\n");
                     csvLines.pop();
                     let tableHTML = "<table>";
                     let isOddRow = false; // Flag to track if the row is odd
-    
+
                     // Create table rows and columns from CSV lines
                     for (let i = 0; i < csvLines.length; i++) {
                         const cells = csvLines[i].split(",");
@@ -160,11 +162,11 @@
                     }
 
                     tableHTML += "</table>";
-                
+
                     // Get the title from the category parameter and set it as the CSV title
                     const title = category.replace("_", " ");
-                    document.getElementById("csv-title").textContent = title + " - " + type.charAt(0).toUpperCase() + type.slice(1);
-                    document.getElementById("csv-content").innerHTML = "<h2>" + title + " - " + type.charAt(0).toUpperCase() + type.slice(1) + "</h2>" + tableHTML;
+                    document.getElementById("csv-title").textContent = title + " - " + type.charAt(0).toUpperCase() + type.slice(1) + " - " + folder;
+                    document.getElementById("csv-content").innerHTML = "<h2>" + title + " - " + type.charAt(0).toUpperCase() + type.slice(1) + " - " + folder + "</h2>" + tableHTML;
                     document.getElementById("csv-content").style.display = "block";
                 } catch (error) {
                     document.getElementById("csv-content").innerHTML = "<p>Error: " + error.message + "</p>";
@@ -175,6 +177,7 @@
                 document.getElementById("csv-content").style.display = "block";
             }
         };
+
     </script>
 </body>
 </html>
