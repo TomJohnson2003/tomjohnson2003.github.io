@@ -9,7 +9,7 @@ Rank,University,Points
 8,Fachhochschule Stralsund,4160.82
 9,Hochschule Karlsruhe - Technik und Wirtschaft,3916.25
 10,University of Applied Sciences Ravensburg-Weingarten,3629.18
-11,Technische Universität Berlin,3518.19
+11,Technische Universität Berlin,3537.36
 12,Ostbayerische Technische Hochschule Regensburg,3403.87
 13,Fachhochschule München,3354.72
 14,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),3342.28
@@ -35,19 +35,19 @@ Rank,University,Points
 34,Universität Bayreuth,718.6
 35,Hochschule Niederrhein,661.64
 36,Hochschule für Technik und Wirtschaft Berlin,597.76
-37,Hochschule Pforzheim,547.65
-38,Fachhochschule Osnabrück,498.33
-39,Hochschule Heilbronn,480.65
-40,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,471.61
-41,Ruhr-Universität Bochum,462.66
-42,Technische Hochschule Köln,446.44
-43,Saarland University,407.83
-44,Universität Siegen,393.94
-45,Bergische Universität Wuppertal,359.18
-46,Fachhochschule Dortmund,357.67
-47,Duale Hochschule Baden-Württemberg Ravensburg,341.77
-48,Technische Universität Kaiserslautern,339.31
-49,Fachhochschule Aachen,301.53
+37,Fachhochschule Aachen,580.67
+38,Hochschule Pforzheim,547.65
+39,Fachhochschule Dortmund,523.75
+40,Fachhochschule Osnabrück,498.33
+41,Hochschule Heilbronn,480.65
+42,Helmut Schmidt Universität  Universität der Bundeswehr Hamburg,471.61
+43,Ruhr-Universität Bochum,462.66
+44,Technische Hochschule Köln,446.44
+45,Saarland University,407.83
+46,Universität Siegen,393.94
+47,Bergische Universität Wuppertal,359.18
+48,Duale Hochschule Baden-Württemberg Ravensburg,341.77
+49,Technische Universität Kaiserslautern,339.31
 50,Otto-von-Guericke-Universität Magdeburg,286.16
 51,Technische Universität Dresden,238.9
 52,Hochschule Bonn-Rhein-Sieg,188.46
@@ -56,8 +56,8 @@ Rank,University,Points
 55,Hochschule Mannheim,168.79
 56,Fachhochschule für Wirtschaft und Technik,153.84
 57,Deggendorf Institute of Technology,119.52
-58,Technische Universität Dortmund,75.0
-59,Technische Hochschule Lübeck,25.0
+58,Technische Hochschule Lübeck,109.3
+59,Technische Universität Dortmund,75.0
 60,Berlin School of Economics,0.0
 61,Brandenburgische Technische Universität Cottbus,0.0
 62,Fachhochschule Frankfurt am Main,0.0

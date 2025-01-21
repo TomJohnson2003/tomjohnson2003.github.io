@@ -1,45 +1,59 @@
 Rank,University,Points
-1,University of Wisconsin-Madison,127.0
-2,Carnegie Mellon University,124.6
-3,University of Washington,117.0
-4,University of Michigan - Ann Arbor,113.75
-5,University of Pennsylvania,109.0
-6,Georgia Institute of Technology,103.33
-7,Cornell University,100.0
-8,University of Kansas,100.0
-9,California State Polytechnic University - San Luis Obispo,98.0
-10,San José State University,88.0
-11,Virginia Polytechnic Institute and State University,83.33
-12,Massachusetts Institute of Technology,82.5
-13,Texas A&M University,80.0
-14,University of Illinois at Urbana-Champaign,80.0
-15,University of Minnesota Twin Cities,80.0
-16,The University of Akron,79.83
-17,Western Washington University,77.5
-18,University of Texas at Austin,76.0
-19,Purdue University - West Lafayette,73.0
-20,Olin College of Engineering,70.0
-21,University of New Mexico,70.0
-22,California Baptist University,67.5
-23,Kennesaw State University,63.33
-24,University of California Davis,63.0
-25,University of California Berkeley,62.5
-26,North Carolina State University,60.0
-27,Portland State University,60.0
-28,The University of Michigan-Dearborn,60.0
-29,University of California Irvine,60.0
-30,University of Iowa,60.0
-31,Missouri University of Science and Technology,50.0
-32,San Diego State University,47.5
-33,University of California Riverside,45.0
-34,University of North Carolina at Asheville,40.0
-35,University of Utah,40.0
-36,California Institute of Technology,35.0
-37,Rutgers The State University of New Jersey,30.0
-38,University of California - Santa Cruz,30.0
-39,University of Colorado - Colorado Springs,30.0
-40,University of Texas at San Antonio,30.0
-41,Drexel University,25.0
-42,University of Cincinnati,25.0
-43,University of Southern California,20.0
-44,University of Maryland,17.5
+1,University of Wisconsin-Madison,124.17
+2,University of Michigan - Ann Arbor,118.4
+3,Carnegie Mellon University,116.33
+4,Rochester Institute of Technology,114.0
+5,University of Washington,110.83
+6,University of Pennsylvania,109.0
+7,University of Texas at Arlington,105.0
+8,California State Polytechnic University - San Luis Obispo,104.17
+9,Georgia Institute of Technology,100.0
+10,University of Kansas,100.0
+11,Cornell University,98.33
+12,University of Florida,95.0
+13,San José State University,94.17
+14,University of Illinois at Urbana-Champaign,89.17
+15,Texas A&M University,87.5
+16,Massachusetts Institute of Technology,85.0
+17,Virginia Polytechnic Institute and State University,83.75
+18,University of Minnesota Twin Cities,78.33
+19,Columbia University,77.5
+20,University of California Berkeley,76.67
+21,Purdue University - West Lafayette,75.0
+22,Western Washington University,75.0
+23,Auburn University,72.5
+24,Pennsylvania State University,72.5
+25,University of Texas at Austin,72.5
+26,University of New Mexico,70.0
+27,Kennesaw State University,68.75
+28,California Baptist University,67.5
+29,The University of Akron,66.67
+30,Olin College of Engineering,65.0
+31,University of California Davis,65.0
+32,University of Missouri,65.0
+33,Rensselaer Polytechnic Institute,62.5
+34,North Carolina State University,60.0
+35,Northwestern University,60.0
+36,Portland State University,60.0
+37,The University of Michigan-Dearborn,60.0
+38,University of California Irvine,60.0
+39,University of Iowa,60.0
+40,Missouri University of Science and Technology,50.0
+41,University of Nevada - Reno,50.0
+42,University of North Carolina at Charlotte,50.0
+43,San Diego State University,47.5
+44,University of California Riverside,45.0
+45,Rutgers The State University of New Jersey,41.67
+46,University of North Carolina at Asheville,40.0
+47,University of Utah,40.0
+48,University of California - Santa Cruz,37.5
+49,University of California Santa Barbara,37.5
+50,Cooper Union,35.0
+51,University of Cincinnati,31.67
+52,Drexel University,30.0
+53,Louisiana State University,30.0
+54,University of Texas at San Antonio,30.0
+55,University of Southern California,28.33
+56,California Institute of Technology,25.0
+57,University of Maryland,25.0
+58,University of Colorado - Colorado Springs,20.0

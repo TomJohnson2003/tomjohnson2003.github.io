@@ -1,66 +1,68 @@
 Rank,University,Points
-1,Westsächsische Hochschule Zwickau,57.64
-2,Duale Hochschule Baden-Württemberg Stuttgart,56.42
-3,Technische Universität Bergakademie Freiberg,53.53
-4,Karlsruhe Institute of Technology,51.11
-5,Universität Stuttgart,50.3
-6,Technical University of Munich,45.68
-7,Hochschule Bonn-Rhein-Sieg,45.58
-8,Rheinisch-Westfälische Technische Hochschule Aachen,44.65
-9,Georg-Simon-Ohm-Hochschule Nürnberg,43.6
-10,Fachhochschule Osnabrück,42.44
-11,Technische Hochschule Ingolstadt,39.1
-12,Hochschule Esslingen,37.54
-13,Fachhochschule München,37.3
-14,Hochschule für angewandte Wissenschaften Augsburg,36.01
-15,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),34.89
-16,Fachhochschule Kiel,34.7
-17,Deggendorf Institute of Technology,33.36
-18,Otto-von-Guericke-Universität Magdeburg,33.33
-19,Ostfalia University of Applied Sciences,31.82
-20,Technische Universität Dresden,30.57
-21,Technische Universität Hamburg,29.48
-22,Universität Bayreuth,28.32
-23,Hochschule Pforzheim,25.0
+1,Westsächsische Hochschule Zwickau,59.16
+2,Karlsruhe Institute of Technology,52.22
+3,Duale Hochschule Baden-Württemberg Stuttgart,50.91
+4,Universität Stuttgart,47.09
+5,Technische Universität Bergakademie Freiberg,46.39
+6,Technical University of Munich,45.89
+7,Rheinisch-Westfälische Technische Hochschule Aachen,41.31
+8,Hochschule Bonn-Rhein-Sieg,40.69
+9,Fachhochschule München,37.79
+10,Fachhochschule Osnabrück,37.73
+11,Georg-Simon-Ohm-Hochschule Nürnberg,37.37
+12,Hochschule für Angewandte Wissenschaften Hamburg,37.35
+13,Hochschule Esslingen,35.66
+14,Fachhochschule Kiel,34.7
+15,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),33.73
+16,Technische Hochschule Ingolstadt,33.44
+17,Technische Hochschule Augsburg,32.41
+18,Technische Universität Dresden,31.73
+19,Ostfalia University of Applied Sciences,30.88
+20,Deggendorf Institute of Technology,30.13
+21,Universität Bayreuth,27.68
+22,Technische Universität Hamburg,26.94
+23,Otto-von-Guericke-Universität Magdeburg,25.0
 24,Universität Siegen,23.38
-25,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,23.17
-26,UAS Würzburg-Schweinfurt,21.33
-27,Technische Universität Kaiserslautern,20.47
-28,Technische Universität Darmstadt,20.14
-29,Technische Universität Berlin,17.15
-30,Saarland University,16.18
-31,Duale Hochschule Baden-Württemberg - Mannheim,15.98
-32,Technische Hochschule Köln,14.79
-33,Hochschule RheinMain,14.62
-34,Universität Paderborn,13.26
-35,Ostbayerische Technische Hochschule Regensburg,12.9
-36,Technische Universität Ilmenau,12.26
-37,Leibniz Universität Hannover,12.17
-38,Hochschule Mannheim,11.98
-39,Hochschule Landshut,11.56
-40,Technische Universität Clausthal,11.08
-41,Hochschule Aalen - Technik und Wirtschaft,7.28
-42,Technische Universität Braunschweig,6.25
-43,Universität Duisburg-Essen,5.79
-44,Fachhochschule für Wirtschaft und Technik,2.64
-45,Duale Hochschule Baden-Württemberg Mosbach,0.0
-46,Fachhochschule Konstanz,0.0
-47,Friedrich-Alexander-Universität Erlangen-Nürnberg,0.0
-48,Hochschule Darmstadt UAS,0.0
-49,Hochschule Düsseldorf,0.0
-50,Hochschule für Angewandte Wissenschaften Hof,0.0
-51,Hochschule für Technik und Wirtschaft Mittweida,0.0
-52,Hochschule Karlsruhe - Technik und Wirtschaft,0.0
-53,Hochschule Niederrhein,0.0
-54,Hochschule Ruhr West - UAS,0.0
-55,Rhein-Waal University of Applied Sciences,0.0
-56,Ruhr-Universität Bochum,0.0
-57,Technische Hochschule Ostwestfalen-Lippe,0.0
-58,Technische Universität Chemnitz,0.0
-59,Technische Universität Dortmund,0.0
-60,UAS Kempten,0.0
-61,Ulm University of Applied Sciences,0.0
-62,University of Applied Sciences Ravensburg-Weingarten,0.0
-63,Universität Bremen,0.0
-64,Universität der Bundeswehr München,0.0
-65,Universität Kassel,0.0
+25,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,21.93
+26,Technische Universität Darmstadt,21.9
+27,Hochschule Pforzheim,20.66
+28,UAS Würzburg-Schweinfurt,19.81
+29,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,19.45
+30,Hochschule Karlsruhe,18.75
+31,Universität Paderborn,17.08
+32,Saarland University,16.18
+33,Technische Universität Berlin,15.7
+34,Technische Hochschule Köln,14.79
+35,Duale Hochschule Baden-Württemberg - Mannheim,11.98
+36,Hochschule RheinMain,11.83
+37,Hochschule Aalen - Technik und Wirtschaft,11.65
+38,Technische Universität Clausthal,11.08
+39,Leibniz Universität Hannover,10.65
+40,Hochschule Mannheim,10.49
+41,Ostbayerische Technische Hochschule Regensburg,10.32
+42,Technische Universität Ilmenau,10.03
+43,University of Applied Sciences Ravensburg-Weingarten,9.51
+44,Hochschule Landshut,9.46
+45,Technische Universität Dortmund,6.98
+46,Technische Universität Braunschweig,6.25
+47,Universität Duisburg-Essen,5.79
+48,Fachhochschule für Wirtschaft und Technik,2.18
+49,Duale Hochschule Baden-Württemberg Mosbach,0.0
+50,Fachhochschule Konstanz,0.0
+51,Fachhochschule Stralsund,0.0
+52,Friedrich-Alexander-Universität Erlangen-Nürnberg,0.0
+53,Hochschule Darmstadt UAS,0.0
+54,Hochschule Düsseldorf,0.0
+55,Hochschule für Angewandte Wissenschaften Hof,0.0
+56,Hochschule für Technik und Wirtschaft Mittweida,0.0
+57,Hochschule Niederrhein,0.0
+58,Hochschule Ruhr West - UAS,0.0
+59,Rhein-Waal University of Applied Sciences,0.0
+60,Ruhr-Universität Bochum,0.0
+61,Technische Hochschule Ostwestfalen-Lippe,0.0
+62,Technische Universität Chemnitz,0.0
+63,UAS Kempten,0.0
+64,Ulm University of Applied Sciences,0.0
+65,Universität Bremen,0.0
+66,Universität der Bundeswehr München,0.0
+67,Universität Kassel,0.0

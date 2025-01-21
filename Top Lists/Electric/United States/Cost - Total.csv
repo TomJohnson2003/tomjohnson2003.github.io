@@ -1,45 +1,59 @@
 Rank,University,Points
-1,Carnegie Mellon University,425.1
-2,California State Polytechnic University - San Luis Obispo,404.5
-3,University of Pennsylvania,392.9
-4,University of California Davis,381.3
-5,University of Texas at Austin,353.8
-6,University of Wisconsin-Madison,349.6
-7,San José State University,338.5
-8,University of Illinois at Urbana-Champaign,314.6
-9,Massachusetts Institute of Technology,311.4
-10,University of Washington,305.4
-11,University of Michigan - Ann Arbor,284.5
-12,Georgia Institute of Technology,261.9
-13,Kennesaw State University,230.0
-14,Purdue University - West Lafayette,223.6
-15,The University of Akron,214.1
-16,Virginia Polytechnic Institute and State University,190.2
-17,Missouri University of Science and Technology,189.6
-18,University of Minnesota Twin Cities,169.4
-19,San Diego State University,158.1
-20,The University of Michigan-Dearborn,156.1
-21,University of New Mexico,149.5
-22,University of North Carolina at Asheville,127.4
-23,Western Washington University,124.7
-24,California Institute of Technology,118.7
-25,Olin College of Engineering,118.7
-26,Cornell University,115.3
-27,University of California Riverside,105.8
-28,University of California Berkeley,103.9
-29,University of Utah,98.1
-30,University of Texas at San Antonio,89.3
-31,University of Iowa,73.0
-32,University of California - Santa Cruz,69.7
-33,California Baptist University,64.4
-34,Portland State University,60.1
-35,University of Kansas,60.1
-36,Rutgers The State University of New Jersey,59.1
-37,North Carolina State University,54.3
-38,University of Cincinnati,52.7
-39,Drexel University,43.8
-40,University of Maryland,39.0
-41,University of Southern California,36.3
-42,University of Colorado - Colorado Springs,34.1
-43,Texas A&M University,0.0
-44,University of California Irvine,-9.3
+1,California State Polytechnic University - San Luis Obispo,481.7
+2,Carnegie Mellon University,476.1
+3,University of California Davis,465.2
+4,San José State University,433.7
+5,University of Wisconsin-Madison,432.8
+6,University of Texas at Austin,397.2
+7,University of Pennsylvania,392.9
+8,University of Illinois at Urbana-Champaign,389.0
+9,Massachusetts Institute of Technology,377.1
+10,University of Washington,370.8
+11,University of Michigan - Ann Arbor,358.5
+12,Georgia Institute of Technology,337.0
+13,Kennesaw State University,326.9
+14,Purdue University - West Lafayette,298.7
+15,Virginia Polytechnic Institute and State University,246.6
+16,University of Minnesota Twin Cities,246.0
+17,Missouri University of Science and Technology,229.6
+18,University of New Mexico,218.9
+19,Western Washington University,199.6
+20,The University of Akron,197.8
+21,Cornell University,191.3
+22,Olin College of Engineering,190.0
+23,University of California Berkeley,178.9
+24,Auburn University,165.1
+25,San Diego State University,158.1
+26,The University of Michigan-Dearborn,156.1
+27,Rochester Institute of Technology,152.8
+28,University of Florida,151.4
+29,Columbia University,143.2
+30,Rensselaer Polytechnic Institute,137.9
+31,University of Texas at Arlington,135.6
+32,California Institute of Technology,133.7
+33,University of California - Santa Cruz,130.7
+34,University of North Carolina at Asheville,127.4
+35,University of Missouri,119.2
+36,University of Cincinnati,116.3
+37,University of Nevada - Reno,110.1
+38,University of California Riverside,105.8
+39,University of Maryland,104.8
+40,Rutgers The State University of New Jersey,104.3
+41,University of Utah,98.1
+42,University of Texas at San Antonio,89.3
+43,University of Southern California,85.7
+44,Louisiana State University,78.0
+45,Drexel University,75.1
+46,University of Iowa,73.0
+47,Pennsylvania State University,70.1
+48,University of California Santa Barbara,69.4
+49,Texas A&M University,64.9
+50,California Baptist University,64.4
+51,Portland State University,60.1
+52,University of Kansas,60.1
+53,Northwestern University,58.9
+54,North Carolina State University,54.3
+55,Cooper Union,39.7
+56,University of North Carolina at Charlotte,34.2
+57,University of Colorado - Colorado Springs,34.1
+58,University of California Irvine,-9.3

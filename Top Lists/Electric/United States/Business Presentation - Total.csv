@@ -1,45 +1,59 @@
 Rank,University,Points
-1,University of Washington,353.5
-2,Carnegie Mellon University,334.5
-3,University of Pennsylvania,331.8
-4,University of Wisconsin-Madison,304.0
-5,California State Polytechnic University - San Luis Obispo,285.7
-6,Purdue University - West Lafayette,276.0
-7,Massachusetts Institute of Technology,258.9
-8,University of Illinois at Urbana-Champaign,257.6
-9,San José State University,253.7
-10,University of Texas at Austin,252.0
-11,University of Michigan - Ann Arbor,245.3
-12,Missouri University of Science and Technology,185.1
-13,Olin College of Engineering,183.7
-14,Georgia Institute of Technology,180.5
-15,San Diego State University,173.1
-16,Virginia Polytechnic Institute and State University,153.6
-17,Kennesaw State University,140.8
-18,University of California Davis,135.5
-19,Western Washington University,126.0
-20,University of Southern California,121.3
-21,California Baptist University,120.3
-22,University of New Mexico,118.7
-23,University of Maryland,117.4
-24,Cornell University,111.2
-25,The University of Michigan-Dearborn,110.2
-26,California Institute of Technology,108.5
-27,The University of Akron,108.1
-28,Rutgers The State University of New Jersey,105.6
-29,Drexel University,104.8
-30,University of North Carolina at Asheville,104.7
-31,University of Utah,103.0
-32,University of Minnesota Twin Cities,86.6
-33,University of California Riverside,84.7
-34,University of California Berkeley,83.0
-35,University of Cincinnati,79.7
-36,University of Colorado - Colorado Springs,67.3
-37,University of Kansas,65.6
-38,North Carolina State University,59.3
-39,Texas A&M University,54.5
-40,University of Iowa,51.1
-41,Portland State University,47.9
-42,University of California Irvine,43.6
-43,University of California - Santa Cruz,0.0
-44,University of Texas at San Antonio,0.0
+1,University of Washington,425.9
+2,Carnegie Mellon University,396.3
+3,University of Wisconsin-Madison,353.4
+4,California State Polytechnic University - San Luis Obispo,333.1
+5,University of Pennsylvania,331.8
+6,Purdue University - West Lafayette,328.2
+7,University of Illinois at Urbana-Champaign,326.8
+8,San José State University,314.4
+9,University of Michigan - Ann Arbor,304.1
+10,Massachusetts Institute of Technology,303.4
+11,University of Texas at Austin,293.1
+12,Georgia Institute of Technology,247.5
+13,Kennesaw State University,215.8
+14,Olin College of Engineering,209.2
+15,Missouri University of Science and Technology,201.9
+16,Virginia Polytechnic Institute and State University,194.0
+17,University of California Davis,181.1
+18,Cornell University,180.4
+19,Western Washington University,175.8
+20,San Diego State University,173.1
+21,University of New Mexico,168.5
+22,University of Southern California,164.2
+23,University of Maryland,161.1
+24,Rutgers The State University of New Jersey,150.3
+25,California Institute of Technology,146.6
+26,University of California Berkeley,144.4
+27,University of Minnesota Twin Cities,142.5
+28,Drexel University,140.1
+29,California Baptist University,120.3
+30,University of Cincinnati,111.6
+31,The University of Michigan-Dearborn,110.2
+32,University of Florida,107.5
+33,University of North Carolina at Asheville,104.7
+34,University of Missouri,103.7
+35,University of Utah,103.0
+36,University of Texas at Arlington,99.5
+37,The University of Akron,98.4
+38,Pennsylvania State University,88.4
+39,Auburn University,88.1
+40,University of Colorado - Colorado Springs,87.9
+41,University of California Santa Barbara,87.3
+42,University of Nevada - Reno,86.5
+43,University of California Riverside,84.7
+44,Rochester Institute of Technology,79.5
+45,Northwestern University,78.2
+46,Columbia University,76.9
+47,University of Kansas,65.6
+48,Texas A&M University,64.5
+49,North Carolina State University,59.3
+50,University of North Carolina at Charlotte,57.6
+51,Rensselaer Polytechnic Institute,53.7
+52,University of Iowa,51.1
+53,Cooper Union,50.8
+54,Portland State University,47.9
+55,University of California Irvine,43.6
+56,University of California - Santa Cruz,33.1
+57,Louisiana State University,19.5
+58,University of Texas at San Antonio,0.0

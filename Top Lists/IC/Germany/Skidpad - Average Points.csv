@@ -3,7 +3,7 @@ Rank,University,Points
 2,Universität Stuttgart,50.65
 3,Karlsruhe Institute of Technology,44.3
 4,Hochschule Karlsruhe - Technik und Wirtschaft,43.58
-5,Technische Universität Berlin,41.41
+5,Technische Universität Berlin,41.66
 6,Technische Universität Bergakademie Freiberg,40.25
 7,Technical University of Munich,40.1
 8,Westsächsische Hochschule Zwickau,39.93
@@ -32,8 +32,8 @@ Rank,University,Points
 31,Duale Hochschule Baden-Württemberg Stuttgart,26.31
 32,Fachhochschule Konstanz,26.07
 33,Ulm University of Applied Sciences,26.01
-34,Hochschule Darmstadt UAS,25.61
-35,Fachhochschule Aachen,25.46
+34,Fachhochschule Aachen,25.97
+35,Hochschule Darmstadt UAS,25.61
 36,Hochschule Pforzheim,24.3
 37,Technische Hochschule Köln,23.96
 38,Fachhochschule Hannover,23.67
@@ -56,11 +56,11 @@ Rank,University,Points
 55,Ruhr-Universität Bochum,9.23
 56,Otto-von-Guericke-Universität Magdeburg,9.08
 57,Universität der Bundeswehr München,7.48
-58,Technische Hochschule Lübeck,6.32
-59,Bergische Universität Wuppertal,5.7
-60,Leibniz Universität Hannover,5.55
+58,Bergische Universität Wuppertal,5.7
+59,Leibniz Universität Hannover,5.55
+60,Technische Hochschule Lübeck,5.52
 61,Technische Universität Dortmund,5.22
-62,Fachhochschule Dortmund,4.16
+62,Fachhochschule Dortmund,5.21
 63,Fachhochschule Frankfurt am Main,1.25
 64,Hochschule Offenburg,0.7
 65,Berlin School of Economics,0.0

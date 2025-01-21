@@ -1,8 +1,8 @@
 Rank,University,Points
 1,University of Bath,422.9
 2,Imperial College London,181.2
-3,University of Surrey,100.0
-4,University of Strathclyde,99.0
+3,University of Strathclyde,108.09
+4,University of Surrey,100.0
 5,University of Nottingham,95.9
 6,Oxford Brookes University,90.4
 7,University Of Hertfordshire,67.46
@@ -18,8 +18,10 @@ Rank,University,Points
 17,Queen's University Belfast,0.0
 18,University of Birmingham,0.0
 19,University of Bristol,0.0
-20,University of Leicester,0.0
-21,University of Oxford,0.0
-22,University of Southampton,0.0
-23,University of Sussex,0.0
-24,University of Warwick,0.0
+20,University of Glasgow,0.0
+21,University of Leicester,0.0
+22,University of Liverpool,0.0
+23,University of Oxford,0.0
+24,University of Southampton,0.0
+25,University of Sussex,0.0
+26,University of Warwick,0.0

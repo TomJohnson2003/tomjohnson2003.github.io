@@ -1,66 +1,68 @@
 Rank,University,Lowest Place,#
 1,Technical University of Munich,1st,7
 2,Westsächsische Hochschule Zwickau,1st,5
-3,Ostfalia University of Applied Sciences,1st,3
-4,Technische Universität Dresden,1st,3
+3,Technische Universität Dresden,1st,4
+4,Ostfalia University of Applied Sciences,1st,3
 5,Deggendorf Institute of Technology,1st,2
 6,Fachhochschule Kiel,1st,2
 7,Hochschule RheinMain,1st,2
-8,Technische Universität Bergakademie Freiberg,1st,2
-9,Technische Universität Hamburg,1st,2
-10,Technische Universität Kaiserslautern,1st,2
-11,Universität Stuttgart,1st,2
-12,Fachhochschule Osnabrück,1st,1
-13,Hochschule Bonn-Rhein-Sieg,1st,1
-14,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,1st,1
-15,Hochschule für angewandte Wissenschaften Augsburg,1st,1
-16,Hochschule Pforzheim,1st,1
-17,Leibniz Universität Hannover,1st,1
-18,Otto-von-Guericke-Universität Magdeburg,1st,1
-19,Rheinisch-Westfälische Technische Hochschule Aachen,1st,1
-20,Technische Universität Braunschweig,1st,1
-21,Universität Bayreuth,1st,1
-22,Duale Hochschule Baden-Württemberg Stuttgart,2nd,4
-23,Georg-Simon-Ohm-Hochschule Nürnberg,2nd,4
-24,Karlsruhe Institute of Technology,2nd,4
-25,Fachhochschule München,2nd,2
-26,Technische Hochschule Köln,2nd,2
-27,Universität Siegen,2nd,2
-28,Hochschule Aalen - Technik und Wirtschaft,2nd,1
-29,Technische Universität Berlin,2nd,1
-30,Technische Universität Clausthal,2nd,1
-31,Technische Universität Darmstadt,2nd,1
-32,Technische Universität Ilmenau,2nd,1
-33,Hochschule Esslingen,3rd,2
-34,Technische Hochschule Ingolstadt,3rd,2
-35,Hochschule Landshut,3rd,1
-36,Saarland University,3rd,1
-37,Fachhochschule für Wirtschaft und Technik,4th,1
-38,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),4th,1
-39,UAS Würzburg-Schweinfurt,4th,1
-40,Universität Duisburg-Essen,4th,1
-41,Duale Hochschule Baden-Württemberg - Mannheim,5th,1
-42,Ostbayerische Technische Hochschule Regensburg,5th,1
-43,Universität Paderborn,5th,1
-44,Hochschule Mannheim,8th,1
-45,Duale Hochschule Baden-Württemberg Mosbach,N/A,0
-46,Fachhochschule Konstanz,N/A,0
-47,Friedrich-Alexander-Universität Erlangen-Nürnberg,N/A,0
-48,Hochschule Darmstadt UAS,N/A,0
-49,Hochschule Düsseldorf,N/A,0
-50,Hochschule für Angewandte Wissenschaften Hof,N/A,0
-51,Hochschule für Technik und Wirtschaft Mittweida,N/A,0
-52,Hochschule Karlsruhe - Technik und Wirtschaft,N/A,0
-53,Hochschule Niederrhein,N/A,0
-54,Hochschule Ruhr West - UAS,N/A,0
-55,Rhein-Waal University of Applied Sciences,N/A,0
-56,Ruhr-Universität Bochum,N/A,0
-57,Technische Hochschule Ostwestfalen-Lippe,N/A,0
-58,Technische Universität Chemnitz,N/A,0
-59,Technische Universität Dortmund,N/A,0
-60,UAS Kempten,N/A,0
-61,Ulm University of Applied Sciences,N/A,0
-62,University of Applied Sciences Ravensburg-Weingarten,N/A,0
-63,Universität Bremen,N/A,0
-64,Universität der Bundeswehr München,N/A,0
-65,Universität Kassel,N/A,0
+8,Karlsruhe Institute of Technology,1st,2
+9,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,1st,2
+10,Technische Universität Bergakademie Freiberg,1st,2
+11,Technische Universität Hamburg,1st,2
+12,Universität Stuttgart,1st,2
+13,Fachhochschule Osnabrück,1st,1
+14,Hochschule Bonn-Rhein-Sieg,1st,1
+15,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,1st,1
+16,Hochschule für Angewandte Wissenschaften Hamburg,1st,1
+17,Hochschule Karlsruhe,1st,1
+18,Hochschule Pforzheim,1st,1
+19,Leibniz Universität Hannover,1st,1
+20,Otto-von-Guericke-Universität Magdeburg,1st,1
+21,Rheinisch-Westfälische Technische Hochschule Aachen,1st,1
+22,Technische Hochschule Augsburg,1st,1
+23,Technische Universität Braunschweig,1st,1
+24,Universität Bayreuth,1st,1
+25,Duale Hochschule Baden-Württemberg Stuttgart,2nd,4
+26,Georg-Simon-Ohm-Hochschule Nürnberg,2nd,4
+27,Fachhochschule München,2nd,3
+28,Hochschule Aalen - Technik und Wirtschaft,2nd,2
+29,Technische Hochschule Köln,2nd,2
+30,Universität Siegen,2nd,2
+31,Hochschule Esslingen,2nd,1
+32,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2nd,1
+33,Technische Universität Berlin,2nd,1
+34,Technische Universität Clausthal,2nd,1
+35,Technische Universität Darmstadt,2nd,1
+36,Technische Universität Ilmenau,2nd,1
+37,Technische Hochschule Ingolstadt,3rd,2
+38,Hochschule Landshut,3rd,1
+39,Saarland University,3rd,1
+40,Technische Universität Dortmund,3rd,1
+41,Fachhochschule für Wirtschaft und Technik,4th,1
+42,UAS Würzburg-Schweinfurt,4th,1
+43,Universität Duisburg-Essen,4th,1
+44,Duale Hochschule Baden-Württemberg - Mannheim,5th,1
+45,Ostbayerische Technische Hochschule Regensburg,5th,1
+46,University of Applied Sciences Ravensburg-Weingarten,5th,1
+47,Universität Paderborn,5th,1
+48,Hochschule Mannheim,8th,1
+49,Duale Hochschule Baden-Württemberg Mosbach,N/A,0
+50,Fachhochschule Konstanz,N/A,0
+51,Fachhochschule Stralsund,N/A,0
+52,Friedrich-Alexander-Universität Erlangen-Nürnberg,N/A,0
+53,Hochschule Darmstadt UAS,N/A,0
+54,Hochschule Düsseldorf,N/A,0
+55,Hochschule für Angewandte Wissenschaften Hof,N/A,0
+56,Hochschule für Technik und Wirtschaft Mittweida,N/A,0
+57,Hochschule Niederrhein,N/A,0
+58,Hochschule Ruhr West - UAS,N/A,0
+59,Rhein-Waal University of Applied Sciences,N/A,0
+60,Ruhr-Universität Bochum,N/A,0
+61,Technische Hochschule Ostwestfalen-Lippe,N/A,0
+62,Technische Universität Chemnitz,N/A,0
+63,UAS Kempten,N/A,0
+64,Ulm University of Applied Sciences,N/A,0
+65,Universität Bremen,N/A,0
+66,Universität der Bundeswehr München,N/A,0
+67,Universität Kassel,N/A,0

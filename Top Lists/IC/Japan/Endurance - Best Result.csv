@@ -5,19 +5,19 @@ Rank,University,Lowest Place,#
 4,Kobe University,1st,1
 5,Kyoto University,1st,1
 6,Nagoya University,1st,1
-7,Ritsumeikan University,1st,1
-8,Sophia University,1st,1
-9,The University of Tokyo,1st,1
-10,Tokyo Denki University,1st,1
-11,Yokohama National University,2nd,2
-12,College of Science and Technology Nihon University,2nd,1
-13,Ibaraki University,2nd,1
-14,Kanazawa University,2nd,1
-15,Nihon Automobile College,2nd,1
-16,Osaka University,2nd,1
-17,Shibaura Institute of Technology,2nd,1
-18,Toyohashi University of Technology,3rd,2
-19,Gifu University,3rd,1
+7,Nihon Automobile College,1st,1
+8,Ritsumeikan University,1st,1
+9,Sophia University,1st,1
+10,The University of Tokyo,1st,1
+11,Tokyo Denki University,1st,1
+12,Yokohama National University,2nd,2
+13,College of Science and Technology Nihon University,2nd,1
+14,Gifu University,2nd,1
+15,Ibaraki University,2nd,1
+16,Kanazawa University,2nd,1
+17,Osaka University,2nd,1
+18,Shibaura Institute of Technology,2nd,1
+19,Toyohashi University of Technology,3rd,2
 20,Tokyo City University,3rd,1
 21,Tokai University,4th,3
 22,Chiba University,4th,1
@@ -27,26 +27,26 @@ Rank,University,Lowest Place,#
 26,Kogakuin University,4th,1
 27,Osaka Sangyo University,4th,1
 28,University of Fukui,4th,1
-29,Okayama University of Science,5th,1
-30,Utsunomiya University,5th,1
-31,Honda Technical College Kansai,6th,1
-32,Kyushu Institute of Technology,6th,1
-33,Meijo University,6th,1
-34,Osaka City University,6th,1
-35,Tokyo University of Agriculture and Technology,6th,1
-36,Kanazawa Institute of Technology,7th,1
-37,Keio University,7th,1
-38,Nippon Institute of Technology,7th,1
-39,Shizuoka University,7th,1
-40,Shizuoka Institute of Science and Technology,8th,2
-41,Honda Technical College Kanto,9th,1
+29,Nippon Institute of Technology,5th,1
+30,Okayama University of Science,5th,1
+31,Utsunomiya University,5th,1
+32,Honda Technical College Kansai,6th,1
+33,Honda Technical College Kanto,6th,1
+34,Kyushu Institute of Technology,6th,1
+35,Meijo University,6th,1
+36,Osaka City University,6th,1
+37,Tokyo University of Agriculture and Technology,6th,1
+38,Kanazawa Institute of Technology,7th,1
+39,Keio University,7th,1
+40,Shizuoka University,7th,1
+41,Shizuoka Institute of Science and Technology,8th,2
 42,Tokyo University of Science,10th,2
 43,Meisei University,10th,1
-44,Seikei University,10th,1
-45,Tokyo Metropolitan College of Industrial Technology,10th,1
-46,Hokkaido University,11th,1
-47,Osaka Institute of Technology,11th,1
-48,Sanyo-Onoda City University at Tokyo University of Science,11th,1
+44,Sanyo-Onoda City University at Tokyo University of Science,10th,1
+45,Seikei University,10th,1
+46,Tokyo Metropolitan College of Industrial Technology,10th,1
+47,Hokkaido University,11th,1
+48,Osaka Institute of Technology,11th,1
 49,Toyota Technical College Nagoya,11th,1
 50,Saitama University,12th,1
 51,Waseda University,13th,2
@@ -56,23 +56,23 @@ Rank,University,Lowest Place,#
 55,Tokyo Metropolitan University,15th,1
 56,Daido Institute of Technology,16th,1
 57,Okayama University,16th,1
-58,Shizuoka Professional College of Automobile Technology,17th,1
-59,Teikyo University,17th,1
-60,College of Industrial Technology Nihon University,18th,1
-61,Kurume Institute of Technology,18th,1
-62,Niigata University,18th,1
-63,Hiroshima University,19th,1
-64,Chiba Institute of Technology,21st,1
-65,Faculty of Textile Science & Technology. Shinshu University,22nd,1
-66,Tottori University,22nd,1
-67,University of Toyama,26th,1
-68,Hiroshima Institute of Technology,27th,1
-69,Setsunan University,28th,1
-70,Hokkaido Automotive Engineering College,30th,1
-71,WIZ International College of Information and Technology,30th,1
-72,Saitama Institute of Technology,31st,1
-73,Osaka Prefecture University,32nd,1
-74,The University of Kitakyushu,32nd,1
+58,The University of Kitakyushu,16th,1
+59,Shizuoka Professional College of Automobile Technology,17th,1
+60,Teikyo University,17th,1
+61,College of Industrial Technology Nihon University,18th,1
+62,Kurume Institute of Technology,18th,1
+63,Niigata University,18th,1
+64,Hiroshima University,19th,1
+65,Chiba Institute of Technology,21st,1
+66,Faculty of Textile Science & Technology. Shinshu University,22nd,1
+67,Tottori University,22nd,1
+68,University of Toyama,26th,1
+69,Hiroshima Institute of Technology,27th,1
+70,Setsunan University,28th,1
+71,Hokkaido Automotive Engineering College,30th,1
+72,WIZ International College of Information and Technology,30th,1
+73,Saitama Institute of Technology,31st,1
+74,Osaka Prefecture University,32nd,1
 75,Aso College of Automotive Engineering and Technology,33rd,1
 76,Sojo University,45th,1
 77,Gunma University,58th,1

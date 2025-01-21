@@ -31,15 +31,15 @@ Rank,University,Lowest Place,#
 30,Tokyo City University,9th,2
 31,Kinki University,9th,1
 32,Kogakuin University,9th,1
-33,Seikei University,9th,1
-34,Shizuoka University,9th,1
-35,Honda Technical College Kansai,10th,1
-36,Tokyo Metropolitan College of Industrial Technology,10th,1
-37,University of Toyama,10th,1
-38,Nihon Automobile College,12th,1
-39,University of Yamanashi,12th,1
-40,Hokkaido University,13th,1
-41,Kyushu Institute of Technology,13th,1
+33,Kyushu Institute of Technology,9th,1
+34,Seikei University,9th,1
+35,Shizuoka University,9th,1
+36,Honda Technical College Kansai,10th,1
+37,Tokyo Metropolitan College of Industrial Technology,10th,1
+38,University of Toyama,10th,1
+39,Nihon Automobile College,12th,1
+40,University of Yamanashi,12th,1
+41,Hokkaido University,13th,1
 42,Ritsumeikan University,14th,2
 43,Institute of Technologists,14th,1
 44,Toyota Technical College Nagoya,14th,1
@@ -60,10 +60,10 @@ Rank,University,Lowest Place,#
 59,Fukui University of Technology,24th,1
 60,Niigata University,24th,1
 61,Okayama University of Science,24th,1
-62,Aichi Institute of Technology,26th,1
-63,Tokyo Metropolitan University,26th,1
-64,Saitama University,28th,1
-65,Sanyo-Onoda City University at Tokyo University of Science,28th,1
+62,Sanyo-Onoda City University at Tokyo University of Science,24th,1
+63,Aichi Institute of Technology,26th,1
+64,Tokyo Metropolitan University,26th,1
+65,Saitama University,28th,1
 66,Chiba Institute of Technology,29th,1
 67,Teikyo University,33rd,1
 68,The University of Kitakyushu,34th,1

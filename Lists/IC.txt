@@ -2,8 +2,10 @@ AGH University of Science and Technology
 AISSMS (All India Shri Shivaji Memorial Society's) College of Engineering
 Aalborg University
 Acharya Institute of Technology
+Ahsanullah University of Science and Technology
 Aichi Institute of Technology
 Ain Shams University
+Aix-Marseille Université
 Ajou University
 Akita Prefectural University
 Alabama A&M University
@@ -11,11 +13,11 @@ Alexandria University
 Aligarh Muslim University
 Alma Mater Studiorum - Università di Bologna
 Amity School of Engineering and Technology
-Amrita School of Engineering Coimbatore
-Amrutvahini College Of Engineering Sangamner
+Amrita School of Engineering, Coimbatore
+Amrutvahini College Of Engineering, Sangamner
 Ana G. Méndez University - Gurabo
 Aoyama Gakuin University
-Arab Academy for Science Technology & Maritime Transport (AASTMT)
+Arab Academy for Science, Technology & Maritime Transport (AASTMT)
 Aristotle University of Thessaloniki
 Arizona State University
 Aso College of Automotive Engineering and Technology
@@ -24,7 +26,9 @@ Ataturk University
 Auburn University
 Australian National University
 BITS Pilani KK Birla Goa Campus
+BMS College of Engineering
 Bangalore Institute of Technology
+Barcelona School of Industrial Engineering - ETSEIB - UPC
 Bauman Moscow State Technical University
 Beijing Institute of Technology
 Belgorod state technological university named after V. G. Shukhov
@@ -36,8 +40,8 @@ Bhartiya Institute of Engineering and Technology
 Białystok University of Technology
 Binghamton University
 Birla Institute of Science and Technology Pilani - Dubai
-Birla Institute of Technology & Science  Pilani
-Birla Institute of Technology Mesra
+Birla Institute of Technology & Science , Pilani
+Birla Institute of Technology, Mesra
 Birmingham City University
 Bradley University
 Brandenburgische Technische Universität Cottbus
@@ -51,16 +55,16 @@ COEP Technological University
 Cairo University
 California Baptist University
 California State Polytechnic University - San Luis Obispo
-California State Polytechnic University Pomona
-California State University Chico
-California State University Fresno
-California State University Fullerton
-California State University Long Beach
-California State University Los Angeles
-California State University Northridge
-California State University Sacramento
+California State Polytechnic University, Pomona
+California State University, Chico
+California State University, Fresno
+California State University, Fullerton
+California State University, Long Beach
+California State University, Los Angeles
+California State University, Northridge
+California State University, Sacramento
 Cape Peninsula University of Technology
-Cardiff University Wales
+Cardiff University, Wales
 Carleton University
 Carnegie Mellon University
 Case Western Reserve University
@@ -81,7 +85,7 @@ Charotar University of Science and Technology
 Cherepovets State University
 Chiba Institute of Technology
 Chiba University
-Chitkara University Punjab
+Chitkara University, Punjab
 Chulalongkorn University
 Chungbuk National University
 City College of The City University of New York
@@ -89,8 +93,9 @@ City University London
 Clarkson University
 Clemson University
 Cleveland State University
-College of Industrial Technology Nihon University
-College of Science and Technology Nihon University
+College of Engineering Trivandrum
+College of Industrial Technology, Nihon University
+College of Science and Technology, Nihon University
 Colorado Mesa University
 Colorado School of Mines
 Colorado State University
@@ -103,8 +108,8 @@ Curtin University
 Czech Technical University in Prague
 Czech University of Life Sciences Prague
 Cégep du Vieux Montréal
-D. Y. Patil College of Engineering & Technology Kasaba Bawada Kolhapur 
-D.Y. Patil School of Engineering Academy Ambi
+D Y Patil University Pune, Ambi
+D. Y. Patil College of Engineering & Technology, Kasaba Bawada, Kolhapur 
 DHA Suffa University
 DIT University
 Daido Institute of Technology
@@ -133,8 +138,6 @@ Embry-Riddle Aeronautical University
 Escola Politècnica Superior d'Enginyeria de Manresa
 Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú UPC
 Escola Politécnica da Universidade de São Paulo
-Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya
-Escola Universitària Salesiana de Sarrià (UAB)
 Escola de Engenharia de Lorena da Universidade de São Paulo
 Escola de Engenharia de São Carlos da Universidade de São Paulo
 Escuela Superior de Ingeniería Automotriz (ESIA) Tlalnepa
@@ -172,11 +175,13 @@ GFR DHBW Ravensburg & Oregon State University
 Gadjah Mada University
 Galgotias University
 Gdańsk University of Technology
+Gebze Technical University
 Georgia Institute of Technology
 Georgia Southern University
 Gheorghe Asachi Technical University of Iaşi
 Gifu University
 Glasgow Caledonian University
+Government Engineering College - Thrissur
 Grand Canyon University
 Grand Valley State University
 Graphic Era University
@@ -192,6 +197,7 @@ Haldia Institute of Technology
 Hanyang University
 Hanze University of Applied Sciences Groningen
 Harbin Institute of Technology at Weihai
+Hefei University of Technology
 Helmut Schmidt Universität  Universität der Bundeswehr Hamburg
 Helsinki Metropolia University of Applied Sciences
 Helwan University (‏جامعة حلوان)
@@ -200,7 +206,7 @@ Hindustan Institute of Technology and Science
 Hiroshima Institute of Technology
 Hiroshima University
 Hochschule Bonn-Rhein-Sieg
-Hochschule Darmstadt UAS
+Hochschule Darmstadt, UAS
 Hochschule Esslingen
 Hochschule Hannover
 Hochschule Heilbronn
@@ -245,8 +251,9 @@ Iowa State University
 Iran University of Science and Technology - Arak
 Isfahan University of Technology
 Istanbul Technical University
-J.C. Bose University of Science and Technology YMCA
-J.S.S. Academy of Technical Education Noida
+Izmir Katip Celebi University
+J.C. Bose University of Science and Technology, YMCA
+J.S.S. Academy of Technical Education, Noida
 James Cook University
 Jilin University
 John von Neumann University
@@ -255,7 +262,7 @@ K L University
 K. J. Somaiya College of Engineering
 KLE Technological University
 KTH Royal Institute of Technology
-Kakatiya Institute of Technology and Science Warangal
+Kakatiya Institute of Technology and Science, Warangal
 Kalinga Institute of Industrial Technology
 Kanagawa Institute of Technology
 Kanazawa Institute of Technology
@@ -310,8 +317,8 @@ Loyola Marymount University
 Luleå University of Technology
 Lund University
 M.H. Saboo Siddik College of Engineering
-MCT's Rajiv Gandhi Institute of Technology
 MGM's Jawaharlal Nehru Engineering College
+MIT Art, Design and Technology University
 MIT World Peace University
 Madras Institute of Technology
 Maejo University
@@ -335,7 +342,7 @@ Middle East Technical University
 Middle Tennessee State University
 Midwestern State University
 Milwaukee School of Engineering
-Minnesota State University Mankato
+Minnesota State University, Mankato
 Mississippi State University
 Missouri State University
 Missouri University of Science and Technology
@@ -355,6 +362,7 @@ National Institute of Technology - Jamshedpur
 National Institute of Technology - Karnataka
 National Institute of Technology - Kurukshetra
 National Institute of Technology - Rourkela
+National Institute of Technology, Raipur
 National Taipei University of Technology
 National Technical University of Athens
 National Technical University of Ukraine Kyiv Polytechnic Institute
@@ -425,6 +433,7 @@ Prince of Songkla University
 Pune Vidyarti Griha's college of Engineering and Technology
 Purdue University - Northwest
 Purdue University - West Lafayette
+Qingdao Technological University
 Queen Mary University of London
 Queen's University
 Queen's University Belfast
@@ -435,6 +444,7 @@ RMIT University
 Rajarambapu Institute of Technology
 Rajarshi Shahu College Of Engineering
 Rajendra Mane College of Engineering and Technology
+Rajiv Gandhi Institute of Technology - Kottayam
 Ramaiah Institute of Technology
 Rayat Institute of Engineering and Information Technology
 Recinto Universitario de Mayagüez
@@ -446,23 +456,26 @@ Ritsumeikan University
 Rochester Institute of Technology
 Rose-Hulman Institute of Technology
 Ruhr-Universität Bochum
-Rutgers The State University of New Jersey
+Rutgers, The State University of New Jersey
 Ryerson University
 Rzeszów University of Technology
+Rīgas Tehniskā universitāte
+SASTRA Deemed To Be University
 SRM Institute of Science and Technology - Kattankulathur
 SRM Institute of Science and Technology - Ramapuram
-SRM Institute of Science and Technology NCR Campus
+SRM Institute of Science and Technology, NCR Campus
 Saarland University
 Saginaw Valley State University
 Saint Louis University
 Saitama Institute of Technology
 Saitama University
+Salesian University School of Sarrià - EUSS
 San Diego State University
 San José State University
 Santa Clara University
 Sanyo-Onoda City University at Tokyo University of Science
 Saraswati College of Engineering
-Sardar Patel College of Engineering Mumbai
+Sardar Patel College of Engineering, Mumbai
 Sardar Vallabhbhai National Institute of Technology
 Sebelas Maret University
 Seikei University
@@ -478,9 +491,10 @@ Shizuoka University
 Shonan Institute of Technology
 Shri G.S. Institute of Technology and Science Indore
 Siam University
+Sikkim Manipal Institute of Technology
 Silesian University of Technology
 Sinhgad Academy Of Engineering
-Sinhgad College of Engineering Vadgaon
+Sinhgad College of Engineering, Vadgaon
 Slovak University of Technology in Bratislava
 Smt. Kashibai Navale College of Engineering
 Sojo University
@@ -540,7 +554,7 @@ Texas Tech University
 Thai-Nichi Institute of Technology
 Thakur College of Engineering and Technology
 Thapar Institute of Engineering and Technology
-The National Institute of Engineering Mysore
+The National Institute of Engineering, Mysore
 The Ohio State University
 The University of Akron
 The University of Kitakyushu
@@ -549,6 +563,7 @@ The University of Newcastle
 The University of Texas at Dallas
 The University of Tokyo
 Thomas More Mechelen - De Nayer
+Tianjin University
 Togliatti State University
 Tokai University
 Tokyo City University
@@ -563,7 +578,7 @@ Tongji University
 Tottori University
 Toyohashi University of Technology
 Toyota Technical College Nagoya
-Trinity College University of Dublin
+Trinity College, University of Dublin
 Tsinghua University
 Tyumen Industrial University
 UAS Kempten
@@ -597,6 +612,7 @@ Universidad Rey Juan Carlos
 Universidad Simón Bolívar
 Universidad Tecnológica de Pereira
 Universidad de Castilla-La Mancha
+Universidad de Córdoba
 Universidad de Oriente Venezuela
 Universidad de Vigo
 Universidad de las Fuerzas Armadas - ESPE
@@ -627,6 +643,7 @@ Universidade Federal do Pará - Campus Tucuruí - UFPA
 Universidade Federal do Rio Grande do Sul
 Universidade Federal do Rio de Janeiro
 Universidade Independente
+Universidade NOVA de Lisboa
 Universidade Paulista
 Universidade Paulista - Campinas - Campus II
 Universidade Paulista - Sorocaba
@@ -659,7 +676,7 @@ University of Applied Sciences Ravensburg-Weingarten
 University of Arizona
 University of Auckland
 University of Bath
-University of Belgrade (Универзитет у Београду)
+University of Belgrade
 University of Birmingham
 University of Bolton
 University of Brescia
@@ -669,13 +686,13 @@ University of British Columbia - Vancouver
 University of Burgundy - ISAT
 University of Cadiz
 University of Calgary
-University of California Berkeley
 University of California Davis
 University of California Irvine
-University of California Los Angeles
-University of California Riverside
 University of California San Diego
 University of California Santa Barbara
+University of California, Berkeley
+University of California, Los Angeles
+University of California, Riverside
 University of Cambridge
 University of Canterbury
 University of Central Florida
@@ -781,7 +798,7 @@ University of Surrey
 University of Sussex
 University of Sydney
 University of Tasmania
-University of Technology Sydney
+University of Technology, Sydney
 University of Texas at Arlington
 University of Texas at Austin
 University of Texas at San Antonio
@@ -849,7 +866,7 @@ Vanderbilt University
 Vasavi College of Engineering
 Vaughn College of Aeronautics and Technology
 Veer Surendra Sai University of Technology
-Victoria University Australia
+Victoria University, Australia
 Vidyavardhini's College of Engineering and Technology
 Villanova University
 Virginia Commonwealth University
@@ -885,4 +902,5 @@ Zhejiang University City College
 École Polytechnique de Montréal
 École de Technologie Superieure
 École nationale d'aérotechnique
+Óbuda University
 Østfold University College

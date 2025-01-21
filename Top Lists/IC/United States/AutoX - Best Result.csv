@@ -9,139 +9,139 @@ Rank,University,Lowest Place,#
 8,Auburn University,1st,1
 9,Georgia Institute of Technology,1st,1
 10,San José State University,1st,1
-11,University of Illinois at Urbana-Champaign,1st,1
-12,University of Missouri,1st,1
-13,University of Wisconsin-Madison,1st,1
-14,The University of Akron,2nd,2
-15,University of Oklahoma,2nd,2
-16,Michigan State University,2nd,1
-17,North Carolina State University,2nd,1
-18,Oregon State University,2nd,1
-19,Pennsylvania State University,2nd,1
-20,South Dakota School of Mines and Technology,2nd,1
-21,University of California Berkeley,2nd,1
-22,University of Cincinnati,2nd,1
-23,Virginia Polytechnic Institute and State University,2nd,1
-24,Lawrence Technological University,3rd,4
-25,University of Maryland,3rd,3
-26,Kettering University,3rd,1
-27,Purdue University - West Lafayette,3rd,1
-28,Rutgers The State University of New Jersey,3rd,1
-29,The University of Michigan-Dearborn,3rd,1
-30,University of Florida,3rd,1
-31,University of Minnesota Twin Cities,3rd,1
-32,University of Washington,4th,2
-33,California State Polytechnic University - San Luis Obispo,4th,1
-34,California State Polytechnic University Pomona,4th,1
-35,Colorado State University,4th,1
-36,Drexel University,4th,1
-37,Oregon Institute of Technology,4th,1
-38,Rensselaer Polytechnic Institute,4th,1
-39,The Ohio State University,4th,1
-40,University of Connecticut,4th,1
-41,University of Toledo,4th,1
-42,Iowa State University,5th,3
-43,California State University Northridge,5th,1
-44,University of Nebraska–Lincoln,5th,1
-45,Western Washington University,5th,1
-46,Kansas State University,6th,1
-47,Kennesaw State University,6th,1
-48,Louisiana State University,6th,1
-49,University of California Los Angeles,6th,1
-50,California State University Sacramento,7th,1
-51,Clemson University,7th,1
-52,State University of New York at Buffalo,7th,1
-53,University of California San Diego,7th,1
-54,University of Louisville,7th,1
-55,University of South Florida,7th,1
-56,West Virginia University,7th,1
-57,Oklahoma State University - Stillwater,8th,1
-58,University of Alabama,8th,1
-59,University of Idaho,8th,1
-60,University of North Carolina at Charlotte,8th,1
-61,Arizona State University,9th,1
-62,Dartmouth College,9th,1
-63,Oakland University,9th,1
-64,University of New Mexico,9th,1
-65,University of Pittsburgh,9th,1
-66,Villanova University,9th,1
-67,Pittsburg State University,10th,1
-68,Marquette University,11th,2
-69,Cedarville University,11th,1
-70,Lafayette College,11th,1
-71,Lehigh University,11th,1
-72,Middle Tennessee State University,11th,1
-73,Northern Illinois University,11th,1
-74,Old Dominion University,11th,1
-75,Saginaw Valley State University,11th,1
-76,Southern Illinois University Edwardsville,11th,1
-77,Temple University,11th,1
-78,United States Air Force Academy,11th,1
-79,University of Massachusetts Lowell,11th,1
-80,York College of Pennsylvania,11th,1
-81,Duke University,12th,1
-82,Rose-Hulman Institute of Technology,12th,1
-83,University of Texas at Austin,12th,1
-84,University of Texas at San Antonio,12th,1
-85,Western Michigan University,12th,1
-86,California Baptist University,13th,1
-87,Massachusetts Institute of Technology,13th,1
-88,South Dakota State University,13th,1
-89,University of California Irvine,13th,1
-90,Brown University,14th,1
-91,Vanderbilt University,15th,1
-92,Florida Atlantic University,16th,1
-93,Hope College,16th,1
+11,The Ohio State University,1st,1
+12,University of Illinois at Urbana-Champaign,1st,1
+13,University of Missouri,1st,1
+14,University of Wisconsin-Madison,1st,1
+15,The University of Akron,2nd,2
+16,University of California Berkeley,2nd,2
+17,University of Oklahoma,2nd,2
+18,Michigan State University,2nd,1
+19,North Carolina State University,2nd,1
+20,Oregon State University,2nd,1
+21,Pennsylvania State University,2nd,1
+22,South Dakota School of Mines and Technology,2nd,1
+23,University of Cincinnati,2nd,1
+24,Virginia Polytechnic Institute and State University,2nd,1
+25,Lawrence Technological University,3rd,4
+26,University of Maryland,3rd,3
+27,Kettering University,3rd,1
+28,Purdue University - West Lafayette,3rd,1
+29,Rutgers The State University of New Jersey,3rd,1
+30,The University of Michigan-Dearborn,3rd,1
+31,University of Florida,3rd,1
+32,University of Minnesota Twin Cities,3rd,1
+33,University of North Carolina at Charlotte,3rd,1
+34,University of Washington,4th,2
+35,California State Polytechnic University - San Luis Obispo,4th,1
+36,California State Polytechnic University Pomona,4th,1
+37,Colorado State University,4th,1
+38,Drexel University,4th,1
+39,Oregon Institute of Technology,4th,1
+40,Rensselaer Polytechnic Institute,4th,1
+41,University of Connecticut,4th,1
+42,University of Toledo,4th,1
+43,Iowa State University,5th,3
+44,California State University Northridge,5th,1
+45,University of Nebraska–Lincoln,5th,1
+46,Western Washington University,5th,1
+47,Kansas State University,6th,1
+48,Kennesaw State University,6th,1
+49,Louisiana State University,6th,1
+50,University of California Los Angeles,6th,1
+51,California State University Sacramento,7th,1
+52,Clemson University,7th,1
+53,State University of New York at Buffalo,7th,1
+54,University of California San Diego,7th,1
+55,University of Louisville,7th,1
+56,University of South Florida,7th,1
+57,West Virginia University,7th,1
+58,Hope College,8th,1
+59,Oklahoma State University - Stillwater,8th,1
+60,University of Alabama,8th,1
+61,University of Idaho,8th,1
+62,Arizona State University,9th,1
+63,Dartmouth College,9th,1
+64,Oakland University,9th,1
+65,University of New Mexico,9th,1
+66,University of Pittsburgh,9th,1
+67,Villanova University,9th,1
+68,Pittsburg State University,10th,1
+69,Marquette University,11th,2
+70,Cedarville University,11th,1
+71,Lafayette College,11th,1
+72,Lehigh University,11th,1
+73,Middle Tennessee State University,11th,1
+74,Northern Illinois University,11th,1
+75,Old Dominion University,11th,1
+76,Saginaw Valley State University,11th,1
+77,Southern Illinois University Edwardsville,11th,1
+78,Temple University,11th,1
+79,United States Air Force Academy,11th,1
+80,University of Massachusetts Lowell,11th,1
+81,York College of Pennsylvania,11th,1
+82,Duke University,12th,1
+83,Rose-Hulman Institute of Technology,12th,1
+84,University of Texas at Austin,12th,1
+85,University of Texas at San Antonio,12th,1
+86,Western Michigan University,12th,1
+87,California Baptist University,13th,1
+88,Massachusetts Institute of Technology,13th,1
+89,South Dakota State University,13th,1
+90,University of California Irvine,13th,1
+91,Brown University,14th,1
+92,Vanderbilt University,15th,1
+93,Florida Atlantic University,16th,1
 94,Minnesota State University Mankato,16th,1
-95,Worcester Polytechnic Institute,16th,1
-96,California State University Fullerton,17th,1
-97,Michigan Technological University,18th,2
-98,University of Delaware,18th,2
-99,Georgia Southern University,18th,1
-100,University of Hartford,18th,1
-101,University of Southern California,18th,1
-102,California State University Fresno,19th,1
-103,Portland State University,19th,1
-104,University of Colorado at Boulder,19th,1
-105,University of Louisiana at Lafayette,19th,1
-106,University of North Texas,19th,1
-107,Wichita State University,19th,1
-108,Colorado School of Mines,20th,1
-109,Pellissippi State Community College,20th,1
-110,University of Evansville,20th,1
-111,Mississippi State University,21st,1
-112,University of Pennsylvania,21st,1
-113,Wayne State University,21st,1
-114,Cooper Union,22nd,1
-115,University of Virginia,22nd,1
-116,Clarkson University,24th,1
-117,North Carolina Agricultural and Technical State University,24th,1
-118,Washington University in St. Louis,24th,1
-119,Carnegie Mellon University,25th,1
-120,San Diego State University,25th,1
-121,Southern Illinois University Carbondale,25th,1
-122,University of California Davis,25th,1
-123,University of Central Florida,25th,1
-124,Washington State University,25th,1
-125,LeTourneau University,26th,1
-126,University of Wisconsin-Platteville,26th,1
-127,University of Wyoming,26th,1
-128,Bradley University,27th,1
-129,Brigham Young University,27th,1
-130,Milwaukee School of Engineering,27th,1
-131,Northwestern University,27th,1
-132,Syracuse University,27th,1
-133,California State University Chico,28th,1
-134,Montana State University - Bozeman,28th,1
-135,Union College,28th,1
-136,Indiana University – Purdue University Indianapolis,29th,1
-137,Polytechnic Institute of New York University,29th,1
-138,University of Arizona,29th,1
-139,University of New Hampshire,29th,1
-140,Santa Clara University,30th,1
-141,University of North Dakota,30th,1
-142,University of North Florida,30th,1
-143,Embry-Riddle Aeronautical University,31st,1
+95,University of North Florida,16th,1
+96,Worcester Polytechnic Institute,16th,1
+97,California State University Fullerton,17th,1
+98,Michigan Technological University,18th,2
+99,University of Delaware,18th,2
+100,Georgia Southern University,18th,1
+101,University of Hartford,18th,1
+102,University of Southern California,18th,1
+103,California State University Fresno,19th,1
+104,Portland State University,19th,1
+105,University of Colorado at Boulder,19th,1
+106,University of Louisiana at Lafayette,19th,1
+107,University of North Texas,19th,1
+108,Wichita State University,19th,1
+109,Colorado School of Mines,20th,1
+110,Embry-Riddle Aeronautical University,20th,1
+111,Pellissippi State Community College,20th,1
+112,University of Evansville,20th,1
+113,Mississippi State University,21st,1
+114,University of Pennsylvania,21st,1
+115,Wayne State University,21st,1
+116,Cooper Union,22nd,1
+117,University of Virginia,22nd,1
+118,Clarkson University,24th,1
+119,North Carolina Agricultural and Technical State University,24th,1
+120,Washington University in St. Louis,24th,1
+121,Carnegie Mellon University,25th,1
+122,San Diego State University,25th,1
+123,Southern Illinois University Carbondale,25th,1
+124,University of California Davis,25th,1
+125,University of Central Florida,25th,1
+126,Washington State University,25th,1
+127,LeTourneau University,26th,1
+128,University of Wisconsin-Platteville,26th,1
+129,University of Wyoming,26th,1
+130,Bradley University,27th,1
+131,Brigham Young University,27th,1
+132,Milwaukee School of Engineering,27th,1
+133,Northwestern University,27th,1
+134,Syracuse University,27th,1
+135,California State University Chico,28th,1
+136,Montana State University - Bozeman,28th,1
+137,Union College,28th,1
+138,Indiana University – Purdue University Indianapolis,29th,1
+139,Polytechnic Institute of New York University,29th,1
+140,University of Arizona,29th,1
+141,University of New Hampshire,29th,1
+142,Santa Clara University,30th,1
+143,University of North Dakota,30th,1
 144,University of Houston,31st,1
 145,University of Illinois at Chicago,31st,1
 146,St. Cloud State University,32nd,1
@@ -155,46 +155,46 @@ Rank,University,Lowest Place,#
 154,United States Naval Academy,37th,2
 155,Monroe County Community College,37th,1
 156,California State University Los Angeles,38th,1
-157,FAMU-FSU College of Engineering,39th,1
-158,Loyola Marymount University,39th,1
-159,Texas Tech University,39th,1
-160,University of Colorado Denver,39th,1
-161,Grand Valley State University,41st,1
-162,Southern Methodist University,42nd,1
-163,University of South Carolina,42nd,1
-164,Nicholls State University,43rd,1
-165,University of Alabama at Birmingham,44th,1
-166,Central Piedmont Community College,47th,1
-167,Colorado Mesa University,48th,1
-168,University of California Santa Barbara,48th,1
-169,University of the Pacific,48th,1
-170,Florida International University,49th,1
-171,Virginia Commonwealth University,49th,1
-172,California State University Long Beach,50th,1
-173,The University of Texas at Dallas,51st,1
-174,University of Maine,52nd,1
-175,University of St. Thomas,55th,1
-176,Case Western Reserve University,57th,1
-177,Ferris State University,57th,1
-178,North Dakota State University,57th,1
-179,University of Portland,58th,1
-180,University of Minnesota Duluth,60th,1
-181,Penn State Harrisburg,61st,1
-182,Alabama A&M University,65th,1
-183,Central Michigan University,74th,2
-184,Miami University,75th,1
-185,Binghamton University,79th,1
-186,University of Alabama in Huntsville,83rd,1
-187,Purdue University - Northwest,86th,1
-188,City College of The City University of New York,N/A,0
-189,Grand Canyon University,N/A,0
-190,Midwestern State University,N/A,0
-191,New Jersey Institute of Technology,N/A,0
-192,Philadelphia University,N/A,0
-193,Saint Louis University,N/A,0
-194,Texas State University,N/A,0
-195,University of California Riverside,N/A,0
-196,University of Georgia,N/A,0
+157,The University of Texas at Dallas,38th,1
+158,FAMU-FSU College of Engineering,39th,1
+159,Loyola Marymount University,39th,1
+160,Texas Tech University,39th,1
+161,University of Colorado Denver,39th,1
+162,Grand Valley State University,41st,1
+163,Southern Methodist University,42nd,1
+164,University of South Carolina,42nd,1
+165,Nicholls State University,43rd,1
+166,University of Alabama at Birmingham,44th,1
+167,Central Piedmont Community College,47th,1
+168,Colorado Mesa University,48th,1
+169,University of California Santa Barbara,48th,1
+170,University of the Pacific,48th,1
+171,Florida International University,49th,1
+172,Virginia Commonwealth University,49th,1
+173,California State University Long Beach,50th,1
+174,University of Georgia,52nd,1
+175,University of Maine,52nd,1
+176,University of St. Thomas,55th,1
+177,Case Western Reserve University,57th,1
+178,Ferris State University,57th,1
+179,North Dakota State University,57th,1
+180,University of Portland,58th,1
+181,University of Minnesota Duluth,60th,1
+182,Penn State Harrisburg,61st,1
+183,Alabama A&M University,65th,1
+184,Central Michigan University,74th,2
+185,Miami University,75th,1
+186,Binghamton University,79th,1
+187,University of Alabama in Huntsville,83rd,1
+188,Purdue University - Northwest,86th,1
+189,City College of The City University of New York,N/A,0
+190,Grand Canyon University,N/A,0
+191,Midwestern State University,N/A,0
+192,New Jersey Institute of Technology,N/A,0
+193,Philadelphia University,N/A,0
+194,Saint Louis University,N/A,0
+195,Texas State University,N/A,0
+196,University of California Riverside,N/A,0
 197,University of Iowa,N/A,0
 198,University of Massachusetts Dartmouth,N/A,0
 199,Vaughn College of Aeronautics and Technology,N/A,0

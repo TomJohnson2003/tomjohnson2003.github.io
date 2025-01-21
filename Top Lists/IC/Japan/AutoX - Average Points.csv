@@ -1,76 +1,76 @@
 Rank,University,Points
 1,Yokohama National University,112.61
-2,Kyoto Institute of Technology,108.09
-3,Kyoto University,106.39
-4,Ibaraki University,104.32
-5,Nihon Automobile College,101.31
+2,Kyoto Institute of Technology,109.22
+3,Kyoto University,105.53
+4,Ibaraki University,104.09
+5,Nihon Automobile College,101.79
 6,Nagoya Institute of Technology,99.36
 7,Utsunomiya University,94.09
-8,Nagoya University,90.69
-9,Chiba University,90.67
+8,Chiba University,91.13
+9,Nagoya University,90.69
 10,Sophia University,90.21
-11,Shibaura Institute of Technology,88.47
-12,Kanazawa Institute of Technology,87.05
-13,Osaka University,86.14
-14,Shizuoka Institute of Science and Technology,84.93
+11,Shibaura Institute of Technology,88.34
+12,Osaka University,87.39
+13,Shizuoka Institute of Science and Technology,84.93
+14,Kanazawa Institute of Technology,82.02
 15,The University of Tokyo,80.24
-16,Osaka Sangyo University,79.83
-17,Nippon Institute of Technology,78.05
-18,Tokyo City University,77.1
-19,Tokyo Institute of Technology,73.25
-20,Shizuoka University,73.22
-21,Tokai University,73.2
-22,Kobe University,72.98
-23,Kanazawa University,68.8
+16,Nippon Institute of Technology,79.92
+17,Tokyo City University,75.48
+18,Kobe University,74.67
+19,Osaka Sangyo University,74.12
+20,Tokyo Institute of Technology,73.25
+21,Shizuoka University,73.22
+22,Tokai University,69.71
+23,Kanazawa University,69.49
 24,Toyohashi University of Technology,67.13
-25,Waseda University,63.14
-26,Ritsumeikan University,62.52
-27,Doshisha University,62.19
-28,Institute of Technologists,61.89
-29,Kyushu Institute of Technology,60.18
-30,Hokkaido University,60.04
-31,Kogakuin University,59.68
-32,Osaka Institute of Technology,59.66
-33,College of Science and Technology Nihon University,59.1
+25,Ritsumeikan University,65.07
+26,Doshisha University,64.51
+27,Waseda University,63.45
+28,Hokkaido University,62.52
+29,Kyushu Institute of Technology,62.32
+30,Institute of Technologists,61.89
+31,College of Science and Technology Nihon University,61.72
+32,Meijo University,59.66
+33,Sanyo-Onoda City University at Tokyo University of Science,59.32
 34,University of Yamanashi,58.59
-35,Sanyo-Onoda City University at Tokyo University of Science,58.58
-36,Kokushikan University,58.03
-37,Teikyo University,57.41
-38,Meijo University,57.02
-39,Toyota Technical College Nagoya,56.46
-40,Kurume Institute of Technology,55.71
-41,Tokyo Metropolitan College of Industrial Technology,55.45
+35,Osaka Institute of Technology,58.25
+36,Toyota Technical College Nagoya,57.71
+37,Teikyo University,56.8
+38,Kogakuin University,55.7
+39,Tokyo Metropolitan College of Industrial Technology,55.45
+40,Kokushikan University,55.27
+41,Tokyo University of Agriculture and Technology,54.97
 42,Kanagawa Institute of Technology,54.77
-43,Tokyo Denki University,53.07
-44,Keio University,52.62
-45,Tokyo University of Science,52.48
-46,Tokyo University of Agriculture and Technology,51.35
-47,University of Fukui,50.74
+43,Kurume Institute of Technology,53.87
+44,Tokyo Denki University,53.07
+45,Keio University,52.62
+46,University of Fukui,50.74
+47,Tokyo University of Science,49.39
 48,Osaka City University,49.2
-49,Okayama University,47.77
-50,Hiroshima University,47.47
-51,Honda Technical College Kanto,46.37
-52,Seikei University,44.1
-53,Aichi Institute of Technology,42.8
-54,Honda Technical College Kansai,41.91
-55,Saitama University,41.88
-56,Gifu University,41.28
-57,Kinki University,40.37
-58,Okayama University of Science,37.26
-59,Saitama Institute of Technology,36.89
-60,Niigata University,33.32
-61,Shizuoka Professional College of Automobile Technology,30.72
-62,Gunma University,29.0
-63,Tokyo Metropolitan University,28.43
+49,Honda Technical College Kanto,48.76
+50,Saitama University,45.54
+51,Gifu University,45.35
+52,Okayama University,44.96
+53,Seikei University,44.1
+54,Honda Technical College Kansai,43.35
+55,Aichi Institute of Technology,42.8
+56,Hiroshima University,42.19
+57,Tokyo Metropolitan University,38.19
+58,Kinki University,38.13
+59,Okayama University of Science,37.26
+60,Saitama Institute of Technology,36.89
+61,Niigata University,30.76
+62,College of Industrial Technology Nihon University,29.98
+63,The University of Kitakyushu,29.33
 64,Setsunan University,26.83
-65,College of Industrial Technology Nihon University,25.37
+65,Shizuoka Professional College of Automobile Technology,26.33
 66,Daido Institute of Technology,25.32
-67,The University of Kitakyushu,23.95
+67,Gunma University,21.75
 68,University of Toyama,20.69
 69,Sojo University,20.45
-70,Hiroshima Institute of Technology,17.52
-71,Tottori University,15.78
-72,Meisei University,14.68
+70,Tottori University,15.78
+71,Hiroshima Institute of Technology,15.33
+72,Meisei University,13.77
 73,Aso College of Automotive Engineering and Technology,12.06
 74,Hokkaido Automotive Engineering College,7.5
 75,WIZ International College of Information and Technology,7.5
@@ -78,7 +78,7 @@ Rank,University,Points
 77,Chiba Institute of Technology,5.84
 78,Kochi University of Technology,3.75
 79,Osaka Prefecture University,3.0
-80,Fukui University of Technology,0.94
+80,Fukui University of Technology,0.83
 81,Akita Prefectural University,0.0
 82,Aoyama Gakuin University,0.0
 83,Kyushu Sangyo University,0.0

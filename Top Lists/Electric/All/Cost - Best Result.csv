@@ -1,293 +1,342 @@
 Rank,University,Lowest Place,#
-1,ETH Zürich,1st,6
+1,ETH Zürich,1st,7
 2,TU Delft,1st,6
-3,Universität Stuttgart,1st,5
+3,Universität Stuttgart,1st,6
 4,Technische Universität Bergakademie Freiberg,1st,4
-5,Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,1st,3
-6,Hochschule für angewandte Wissenschaften Augsburg,1st,3
-7,Karlsruhe Institute of Technology,1st,3
-8,RMIT University,1st,3
-9,University of Queensland,1st,3
-10,Carnegie Mellon University,1st,2
-11,Escola Superior d'Enginyeries Industrial Aeroespacial i Audiovisual de Terrassa (UPC),1st,2
-12,Fachhochschule München,1st,2
-13,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,1st,2
-14,Tallinn TU UAS,1st,2
-15,Technische Universität Graz,1st,2
-16,UAS Würzburg-Schweinfurt,1st,2
-17,Universidade de Lisboa - Instituto Superior Técnico,1st,2
-18,University of Applied Sciences Ravensburg-Weingarten,1st,2
-19,University of Bath,1st,2
-20,University of Patras,1st,2
-21,Hochschule Aalen - Technik und Wirtschaft,1st,1
-22,Hochschule Bonn-Rhein-Sieg,1st,1
-23,Indian Institute of Technology Delhi,1st,1
-24,Kennesaw State University,1st,1
-25,McGill University,1st,1
-26,Pimpri Chinchwad College Of Engineering,1st,1
-27,Politecnico di Torino,1st,1
-28,Rheinisch-Westfälische Technische Hochschule Aachen,1st,1
-29,Saarland University,1st,1
-30,Slovak University of Technology in Bratislava,1st,1
-31,Technical University of Munich,1st,1
-32,Technische Universiteit Eindhoven,1st,1
-33,Technische Universität Berlin,1st,1
-34,Technische Universität Hamburg,1st,1
-35,Technische Universität Kaiserslautern,1st,1
-36,Technische Universität Wien,1st,1
-37,University of Adelaide,1st,1
-38,University of California Davis,1st,1
-39,University of Pennsylvania,1st,1
-40,University of Strathclyde,1st,1
-41,University of the Basque Country,1st,1
-42,Università degli studi di Padova,1st,1
-43,Westsächsische Hochschule Zwickau,1st,1
-44,Fachhochschule für Wirtschaft und Technik,2nd,2
-45,Georgia Institute of Technology,2nd,2
-46,Universität Bayreuth,2nd,2
-47,Brno University of Technology,2nd,1
-48,Budapest University of Technology and Economics,2nd,1
-49,California State Polytechnic University - San Luis Obispo,2nd,1
-50,Escola d'Enginyeria de Barcelona Est. EEBE,2nd,1
-51,Friedrich-Alexander-Universität Erlangen-Nürnberg,2nd,1
-52,GFR DHBW Ravensburg & Oregon State University,2nd,1
-53,K. J. Somaiya College of Engineering,2nd,1
-54,KU Leuven - Group T Campus,2nd,1
-55,Leibniz Universität Hannover,2nd,1
-56,Missouri University of Science and Technology,2nd,1
-57,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2nd,1
-58,Ostbayerische Technische Hochschule Regensburg,2nd,1
-59,Technische Universität Dresden,2nd,1
-60,University Of Hertfordshire,2nd,1
-61,University of Southern Denmark,2nd,1
-62,University of Western Australia,2nd,1
-63,Università degli Studi di Trento,2nd,1
-64,Zürcher Hochschule für Angewandte Wissenschaften,2nd,1
-65,École de Technologie Superieure,2nd,1
-66,Duale Hochschule Baden-Württemberg Stuttgart,3rd,3
-67,National Technical University of Athens,3rd,2
-68,University of Auckland,3rd,2
-69,University of Technology Sydney,3rd,2
-70,Aristotle University of Thessaloniki,3rd,1
-71,Brunel University London,3rd,1
-72,Czech Technical University in Prague,3rd,1
-73,Deggendorf Institute of Technology,3rd,1
-74,Fachhochschule Joanneum Graz,3rd,1
-75,Fachhochschule Kiel,3rd,1
-76,Norwegian University of Science and Technology,3rd,1
-77,Ostfalia University of Applied Sciences,3rd,1
-78,Oxford Brookes University,3rd,1
-79,Politecnico di Milano,3rd,1
-80,Technische Universität Darmstadt,3rd,1
-81,Ulm University of Applied Sciences,3rd,1
-82,University of Seville,3rd,1
-83,University of Texas at San Antonio,3rd,1
-84,University of Waterloo,3rd,1
-85,Université Laval,3rd,1
-86,Yıldız Technical University,3rd,1
-87,École Polytechnique de Montréal,3rd,1
-88,Chalmers University of Technology,4th,2
-89,Helsinki Metropolia University of Applied Sciences,4th,2
-90,Università degli Studi di Roma La Sapienza,4th,2
-91,Alma Mater Studiorum - Università di Bologna,4th,1
-92,Dwarkadas. J. Sanghvi College of Engineering,4th,1
-93,Fachhochschule Osnabrück,4th,1
-94,Georg-Simon-Ohm-Hochschule Nürnberg,4th,1
-95,Monash University,4th,1
-96,University of Southampton,4th,1
-97,University of Tasmania,4th,1
-98,University of Wollongong,4th,1
-99,Università degli Studi di Parma,4th,1
-100,Virginia Polytechnic Institute and State University,4th,1
-101,Western University,4th,1
-102,Hochschule Esslingen,5th,4
-103,Hochschule RheinMain,5th,1
-104,Kookmin University,5th,1
-105,Massachusetts Institute of Technology,5th,1
-106,Queensland University of Technology,5th,1
-107,Smt. Kashibai Navale College of Engineering,5th,1
-108,Technische Hochschule Ingolstadt,5th,1
-109,The University of Michigan-Dearborn,5th,1
-110,University of Ljubljana,5th,1
-111,University of Manitoba,5th,1
-112,University of Michigan - Ann Arbor,5th,1
-113,University of Minnesota Twin Cities,5th,1
-114,University of New South Wales,5th,1
-115,University of Zagreb,5th,1
-116,Universität Bremen,5th,1
-117,Universität Siegen,5th,1
-118,VIT University - Vellore,5th,1
-119,École Polytechnique Fédérale de Lausanne,5th,1
-120,Ain Shams University,6th,1
-121,Concordia University,6th,1
-122,Duale Hochschule Baden-Württemberg Mosbach,6th,1
-123,MIT World Peace University,6th,1
-124,Moscow State Automobile & Road Technical University - MADI,6th,1
-125,R.V.College of Engineering,6th,1
-126,Technische Universität Chemnitz,6th,1
-127,Universidad Pontificia Comillas,6th,1
-128,University of Canterbury,6th,1
-129,University of Iowa,6th,1
-130,University of Melbourne,6th,1
-131,University of North Carolina at Asheville,6th,1
-132,University of Texas at Austin,6th,1
-133,TECNUN - University of Navarra,7th,2
-134,The University of Akron,7th,2
-135,Ben-Gurion University of the Negev,7th,1
-136,ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),7th,1
-137,Imperial College London,7th,1
-138,Otto-von-Guericke-Universität Magdeburg,7th,1
-139,Technische Universität Braunschweig,7th,1
-140,Technische Universität Ilmenau,7th,1
-141,University of Illinois at Urbana-Champaign,7th,1
-142,University of Nottingham,7th,1
-143,Technische Hochschule Köln,8th,2
-144,Hochschule Mannheim,8th,1
-145,Hochschule Niederrhein,8th,1
-146,Indian Institute of Technology Bombay,8th,1
-147,KTH Royal Institute of Technology,8th,1
-148,The University of Newcastle,8th,1
-149,University of Wisconsin-Madison,8th,1
-150,Universität Duisburg-Essen,8th,1
-151,Universität Kassel,8th,1
-152,Hochschule Karlsruhe - Technik und Wirtschaft,9th,1
-153,Hochschule Pforzheim,9th,1
-154,Manchester Metropolitan University,9th,1
-155,Olin College of Engineering,9th,1
-156,Queen's University Belfast,9th,1
-157,Ramaiah Institute of Technology,9th,1
-158,Swinburne University of Technology,9th,1
-159,Technische Universität Clausthal,9th,1
-160,Universidade Estadual de Campinas,9th,1
-161,Wroclaw University of Technology,9th,1
-162,Duale Hochschule Baden-Württemberg - Mannheim,10th,3
-163,Fachhochschule Konstanz,10th,1
-164,Hochschule Landshut,10th,1
-165,Purdue University - West Lafayette,10th,1
-166,Sardar Patel College of Engineering Mumbai,10th,1
-167,Technische Hochschule Ostwestfalen-Lippe,10th,1
-168,University of Iceland,10th,1
-169,Università degli Studi di Napoli Federico II,10th,1
-170,Cairo University,11th,1
-171,Heriot-Watt University,11th,1
-172,Hochschule Darmstadt UAS,11th,1
-173,Hochschule Ruhr West - UAS,11th,1
-174,Leopold-Franzens-Universität Innsbruck,11th,1
-175,MCT's Rajiv Gandhi Institute of Technology,11th,1
-176,University of Birmingham,11th,1
-177,Delhi Technological University,12th,1
-178,Hochschule für Angewandte Wissenschaften Hof,12th,1
-179,Ryerson University,12th,1
-180,Universidad Nacional Autónoma de México,12th,1
-181,University of Ontario Institute of Technology,12th,1
-182,Universität Paderborn,12th,1
-183,Bern University of Applied Sciences,13th,2
-184,Hochschule Düsseldorf,13th,1
-185,Karlstad University,13th,1
-186,PSG Institute of Technology and Applied Research,13th,1
-187,Universidad Politécnica de Cartagena,13th,1
-188,University of South Australia,13th,1
-189,University of Toronto,13th,1
-190,San José State University,14th,2
-191,AGH University of Science and Technology,14th,1
-192,Belgorod state technological university named after V. G. Shukhov,14th,1
-193,Democritus University of Thrace,14th,1
-194,Ruhr-Universität Bochum,14th,1
-195,Universidad de Oviedo,14th,1
-196,University of New Mexico,15th,2
-197,Gadjah Mada University,15th,1
-198,Istanbul Technical University,15th,1
-199,SRM Institute of Science and Technology - Kattankulathur,15th,1
-200,Technische Universität Dortmund,15th,1
-201,UAS Kempten,15th,1
-202,Universidad Politécnica de Madrid (UPM),15th,1
-203,University of California - Santa Cruz,15th,1
-204,University of Kansas,15th,1
-205,Beijing Institute of Technology,16th,1
-206,ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),16th,1
-207,Nagoya University,16th,1
-208,University of Washington,16th,1
-209,California Institute of Technology,17th,1
-210,Thomas More Mechelen - De Nayer,17th,1
-211,Tohoku University,17th,1
-212,University of California Riverside,17th,1
-213,University of Sussex,17th,1
-214,Kanagawa Institute of Technology,18th,1
-215,National Tsing Hua University,18th,1
-216,Poznan University of Technology,18th,1
-217,San Diego State University,18th,1
-218,University College Dublin,18th,1
-219,Ghent University,19th,2
-220,University of Stavanger,19th,2
-221,Hochschule für Technik und Wirtschaft Mittweida,19th,1
-222,Indian Institute of Technology Roorkee,19th,1
-223,Loughborough University,19th,1
-224,McMaster University,20th,1
-225,Portland State University,20th,1
-226,Università degli studi di Trieste,20th,1
-227,Vrije Universiteit Brussel,20th,1
-228,Linköping University,21st,1
-229,Technical University of Cluj-Napoca,21st,1
-230,University of Agder,21st,1
-231,University of Burgundy - ISAT,21st,1
-232,University of California Irvine,21st,1
-233,University of Utah,21st,1
-234,Islamic Azad University of Karaj,22nd,1
-235,University of California Berkeley,22nd,1
-236,University of Alcalá,23rd,1
-237,University of Belgrade (Универзитет у Београду),23rd,1
-238,Universidad Politecnica Salesiana,24th,1
-239,University of Warwick,24th,1
-240,Toyohashi University of Technology,26th,2
-241,Cornell University,26th,1
-242,Western Washington University,27th,1
-243,Instituto Superior de Engenharia de Lisboa,28th,1
-244,University of Surrey,28th,1
-245,Newcastle University,29th,1
-246,North Carolina State University,29th,1
-247,VIT University - Chennai,29th,1
-248,Lancaster  University,30th,1
-249,University of British Columbia - Vancouver,30th,1
-250,University of Colorado - Colorado Springs,32nd,1
-251,Rutgers The State University of New Jersey,33rd,1
-252,California Baptist University,34th,1
-253,Hubei University of Automotive Technology,34th,1
-254,Universität der Bundeswehr München,34th,1
-255,Liaoning University of Technology,35th,1
-256,Liverpool John Moores University,35th,1
-257,Universidad de Castilla-La Mancha,35th,1
-258,Guangxi Science and Technology University Lushan College,37th,1
-259,Technical University of Denmark,39th,1
-260,Iwate University,40th,1
-261,University of Cincinnati,40th,1
-262,Shizuoka Institute of Science and Technology,41st,1
-263,Sepuluh Nopember Institute of Technology,42nd,1
-264,University of Oxford,42nd,1
-265,Drexel University,48th,1
-266,King Mongkut's University of Technology Thonburi,49th,1
-267,University of Maryland,52nd,1
-268,Tongji University,54th,1
-269,University of Southern California,56th,1
-270,Harbin Institute of Technology at Weihai,57th,1
-271,Pakistan Institute of Engineering & Applied Sciences,57th,1
-272,The Hague University of Applied Sciences,58th,1
-273,University of Bristol,60th,1
-274,Guangdong University of Technology,61st,1
-275,Seikei University,61st,1
-276,Coventry University,62nd,1
-277,Kanagawa University,62nd,1
-278,Toyota Technical College Nagoya,62nd,1
-279,National Cheng Kung University,63rd,1
-280,Niigata Institute of Technology,63rd,1
-281,Daido Institute of Technology,64th,1
-282,Hefei University of Technology,72nd,1
-283,Kyushu Institute of Technology,76th,1
-284,Central South University - Changsha,79th,1
-285,Kingston University,81st,1
-286,National Taipei University of Technology,82nd,1
-287,Rajshahi University of Engineering & Technology,84th,1
-288,University of Leicester,85th,1
-289,Jilin University,N/A,0
-290,Rhein-Waal University of Applied Sciences,N/A,0
-291,Texas A&M University,N/A,0
-292,Warsaw University of Technology,N/A,0
+5,University of Queensland,1st,4
+6,Escola Superior d'Enginyeries Industrial Aeroespacial i Audiovisual de Terrassa (UPC),1st,3
+7,Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya,1st,3
+8,Karlsruhe Institute of Technology,1st,3
+9,RMIT University,1st,3
+10,Tallinn TU UAS,1st,3
+11,Technische Hochschule Augsburg,1st,3
+12,University of Bath,1st,3
+13,Carnegie Mellon University,1st,2
+14,Fachhochschule München,1st,2
+15,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,1st,2
+16,Kennesaw State University,1st,2
+17,Pimpri Chinchwad College Of Engineering,1st,2
+18,Technische Universität Berlin,1st,2
+19,Technische Universität Graz,1st,2
+20,UAS Würzburg-Schweinfurt,1st,2
+21,Universidade de Lisboa - Instituto Superior Técnico,1st,2
+22,University of Applied Sciences Ravensburg-Weingarten,1st,2
+23,University of Patras,1st,2
+24,Duale Hochschule Baden-Württemberg Stuttgart,1st,1
+25,Fachhochschule Joanneum Graz,1st,1
+26,Griffith University,1st,1
+27,Hochschule Aalen - Technik und Wirtschaft,1st,1
+28,Hochschule Bonn-Rhein-Sieg,1st,1
+29,Hochschule Karlsruhe,1st,1
+30,Hochschule Pforzheim,1st,1
+31,Hubei University of Automotive Technology,1st,1
+32,Indian Institute of Technology Delhi,1st,1
+33,McGill University,1st,1
+34,Monash University,1st,1
+35,Politecnico di Milano,1st,1
+36,Politecnico di Torino,1st,1
+37,Rheinisch-Westfälische Technische Hochschule Aachen,1st,1
+38,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,1st,1
+39,Saarland University,1st,1
+40,Slovak University of Technology in Bratislava,1st,1
+41,Technical University of Munich,1st,1
+42,Technische Universiteit Eindhoven,1st,1
+43,Technische Universität Hamburg,1st,1
+44,Technische Universität Wien,1st,1
+45,University of Adelaide,1st,1
+46,University of California Davis,1st,1
+47,University of Pennsylvania,1st,1
+48,University of Strathclyde,1st,1
+49,University of the Basque Country,1st,1
+50,Università degli studi di Padova,1st,1
+51,Westsächsische Hochschule Zwickau,1st,1
+52,Fachhochschule für Wirtschaft und Technik,2nd,2
+53,Georgia Institute of Technology,2nd,2
+54,Universität Bayreuth,2nd,2
+55,Brno University of Technology,2nd,1
+56,Budapest University of Technology and Economics,2nd,1
+57,California State Polytechnic University - San Luis Obispo,2nd,1
+58,Dwarkadas. J. Sanghvi College of Engineering,2nd,1
+59,Escola d'Enginyeria de Barcelona Est. EEBE,2nd,1
+60,Friedrich-Alexander-Universität Erlangen-Nürnberg,2nd,1
+61,GFR DHBW Ravensburg & Oregon State University,2nd,1
+62,Ghent University,2nd,1
+63,Harbin Institute of Technology at Weihai,2nd,1
+64,Indian Institute of Technology Bombay,2nd,1
+65,K. J. Somaiya College of Engineering,2nd,1
+66,KU Leuven - Group T Campus,2nd,1
+67,Leibniz Universität Hannover,2nd,1
+68,Missouri University of Science and Technology,2nd,1
+69,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),2nd,1
+70,Ostbayerische Technische Hochschule Regensburg,2nd,1
+71,San José State University,2nd,1
+72,Technische Universität Dresden,2nd,1
+73,University of Glasgow,2nd,1
+74,University Of Hertfordshire,2nd,1
+75,University of Seville,2nd,1
+76,University of Southern Denmark,2nd,1
+77,University of Tasmania,2nd,1
+78,University of Western Australia,2nd,1
+79,Università degli Studi di Trento,2nd,1
+80,Zürcher Hochschule für Angewandte Wissenschaften,2nd,1
+81,École de Technologie Superieure,2nd,1
+82,National Technical University of Athens,3rd,2
+83,Oxford Brookes University,3rd,2
+84,University of Auckland,3rd,2
+85,University of Technology Sydney,3rd,2
+86,Université Laval,3rd,2
+87,Aristotle University of Thessaloniki,3rd,1
+88,Brunel University London,3rd,1
+89,Curtin University,3rd,1
+90,Czech Technical University in Prague,3rd,1
+91,Deggendorf Institute of Technology,3rd,1
+92,Fachhochschule Kiel,3rd,1
+93,Hochschule für Angewandte Wissenschaften Hamburg,3rd,1
+94,Jilin University,3rd,1
+95,Norwegian University of Science and Technology,3rd,1
+96,Ostfalia University of Applied Sciences,3rd,1
+97,Smt. Kashibai Navale College of Engineering,3rd,1
+98,Technische Universität Darmstadt,3rd,1
+99,Toronto Metropolitan University,3rd,1
+100,Ulm University of Applied Sciences,3rd,1
+101,University of Texas at San Antonio,3rd,1
+102,University of Waterloo,3rd,1
+103,Yıldız Technical University,3rd,1
+104,École Polytechnique de Montréal,3rd,1
+105,Chalmers University of Technology,4th,2
+106,Helsinki Metropolia University of Applied Sciences,4th,2
+107,Università degli Studi di Roma La Sapienza,4th,2
+108,Alma Mater Studiorum - Università di Bologna,4th,1
+109,Fachhochschule Osnabrück,4th,1
+110,Georg-Simon-Ohm-Hochschule Nürnberg,4th,1
+111,Liaoning University of Technology,4th,1
+112,Sardar Patel College of Engineering Mumbai,4th,1
+113,TECNUN - University of Navarra,4th,1
+114,University of Birmingham,4th,1
+115,University of Canterbury,4th,1
+116,University of Southampton,4th,1
+117,University of Wollongong,4th,1
+118,Università degli Studi di Parma,4th,1
+119,Università di Pisa,4th,1
+120,Virginia Polytechnic Institute and State University,4th,1
+121,Western University,4th,1
+122,Hochschule Esslingen,5th,4
+123,Queensland University of Technology,5th,2
+124,École Polytechnique Fédérale de Lausanne,5th,2
+125,Concordia University,5th,1
+126,Delhi Technological University,5th,1
+127,Hochschule RheinMain,5th,1
+128,Kookmin University,5th,1
+129,Massachusetts Institute of Technology,5th,1
+130,National University of Sciences and Technology - Karachi,5th,1
+131,Technische Hochschule Ingolstadt,5th,1
+132,The University of Michigan-Dearborn,5th,1
+133,Universidad Pontificia Comillas,5th,1
+134,University of Ljubljana,5th,1
+135,University of Manitoba,5th,1
+136,University of Michigan - Ann Arbor,5th,1
+137,University of Minnesota Twin Cities,5th,1
+138,University of New South Wales,5th,1
+139,University of Zagreb,5th,1
+140,Universität Bremen,5th,1
+141,Universität Siegen,5th,1
+142,VIT University - Vellore,5th,1
+143,Leopold-Franzens-Universität Innsbruck,6th,2
+144,Ain Shams University,6th,1
+145,Duale Hochschule Baden-Württemberg - Mannheim,6th,1
+146,Duale Hochschule Baden-Württemberg Mosbach,6th,1
+147,MIT World Peace University,6th,1
+148,Moscow State Automobile & Road Technical University - MADI,6th,1
+149,R.V.College of Engineering,6th,1
+150,Technische Universität Chemnitz,6th,1
+151,University of Iowa,6th,1
+152,University of Melbourne,6th,1
+153,University of North Carolina at Asheville,6th,1
+154,University of Texas at Austin,6th,1
+155,University of Warwick,6th,1
+156,The University of Akron,7th,2
+157,Ben-Gurion University of the Negev,7th,1
+158,ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),7th,1
+159,ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile),7th,1
+160,Imperial College London,7th,1
+161,Otto-von-Guericke-Universität Magdeburg,7th,1
+162,Technische Universität Braunschweig,7th,1
+163,Technische Universität Ilmenau,7th,1
+164,University of Illinois at Urbana-Champaign,7th,1
+165,University of Nottingham,7th,1
+166,University of Wisconsin-Madison,7th,1
+167,Technische Hochschule Köln,8th,2
+168,The University of Newcastle,8th,2
+169,Beijing Institute of Technology,8th,1
+170,Hochschule Mannheim,8th,1
+171,Hochschule Niederrhein,8th,1
+172,KTH Royal Institute of Technology,8th,1
+173,Universität Duisburg-Essen,8th,1
+174,Universität Kassel,8th,1
+175,Auburn University,9th,2
+176,Hochschule für Angewandte Wissenschaften Hof,9th,2
+177,Manchester Metropolitan University,9th,1
+178,Nagoya University,9th,1
+179,Olin College of Engineering,9th,1
+180,Queen's University Belfast,9th,1
+181,Ramaiah Institute of Technology,9th,1
+182,Swinburne University of Technology,9th,1
+183,Technische Universität Clausthal,9th,1
+184,Universidade Estadual de Campinas,9th,1
+185,Wroclaw University of Technology,9th,1
+186,Bern University of Applied Sciences,10th,1
+187,Fachhochschule Konstanz,10th,1
+188,Hochschule Düsseldorf,10th,1
+189,Hochschule Landshut,10th,1
+190,Indian Institute of Technology Roorkee,10th,1
+191,Lund University,10th,1
+192,Purdue University - West Lafayette,10th,1
+193,Technische Hochschule Ostwestfalen-Lippe,10th,1
+194,University of British Columbia - Vancouver,10th,1
+195,University of Florida,10th,1
+196,University of Iceland,10th,1
+197,Università degli Studi di Napoli Federico II,10th,1
+198,Vitoria-University of the Basque Country,10th,1
+199,Hochschule Darmstadt UAS,11th,2
+200,Cairo University,11th,1
+201,Heriot-Watt University,11th,1
+202,Hochschule Ruhr West - UAS,11th,1
+203,MCT's Rajiv Gandhi Institute of Technology,11th,1
+204,Ryerson University,12th,1
+205,Universidad Nacional Autónoma de México,12th,1
+206,Universidad Politécnica de Madrid (UPM),12th,1
+207,University of Ontario Institute of Technology,12th,1
+208,Universität Paderborn,12th,1
+209,Centro Universitário da FEI,13th,1
+210,HES-SO Valais-Wallis,13th,1
+211,Karlstad University,13th,1
+212,National Taiwan University,13th,1
+213,PSG Institute of Technology and Applied Research,13th,1
+214,Universidad Politécnica de Cartagena,13th,1
+215,University of South Australia,13th,1
+216,University of Toronto,13th,1
+217,AGH University of Science and Technology,14th,1
+218,Belgorod state technological university named after V. G. Shukhov,14th,1
+219,Democritus University of Thrace,14th,1
+220,Ecole Nationale d'Ingénieurs de Metz,14th,1
+221,Loughborough University,14th,1
+222,Ruhr-Universität Bochum,14th,1
+223,Technion - Israel Institute of Technology,14th,1
+224,Universidad de Oviedo,14th,1
+225,University of Porto,14th,1
+226,UAS Kempten,15th,2
+227,University of New Mexico,15th,2
+228,Central South University - Changsha,15th,1
+229,Gadjah Mada University,15th,1
+230,Istanbul Technical University,15th,1
+231,SRM Institute of Science and Technology - Kattankulathur,15th,1
+232,Technische Universität Dortmund,15th,1
+233,University of California - Santa Cruz,15th,1
+234,University of Kansas,15th,1
+235,University of Liverpool,15th,1
+236,Rochester Institute of Technology,16th,1
+237,University of Washington,16th,1
+238,California Institute of Technology,17th,1
+239,Louisiana State University,17th,1
+240,Thomas More Mechelen - De Nayer,17th,1
+241,Tohoku University,17th,1
+242,University of California Riverside,17th,1
+243,University of New South Wales - Australian Defence Force Academy,17th,1
+244,University of Sussex,17th,1
+245,Kanagawa Institute of Technology,18th,1
+246,National Tsing Hua University,18th,1
+247,Poznan University of Technology,18th,1
+248,Rajshahi University of Engineering & Technology,18th,1
+249,San Diego State University,18th,1
+250,The University of Tokyo,18th,1
+251,University College Dublin,18th,1
+252,University of Stavanger,19th,2
+253,Cornell University,19th,1
+254,Hochschule für Technik und Wirtschaft Mittweida,19th,1
+255,Università degli studi di Trieste,20th,2
+256,Instituto Superior de Engenharia de Lisboa,20th,1
+257,McMaster University,20th,1
+258,Portland State University,20th,1
+259,Vrije Universiteit Brussel,20th,1
+260,Linköping University,21st,1
+261,Technical University of Cluj-Napoca,21st,1
+262,University of Agder,21st,1
+263,University of Burgundy - ISAT,21st,1
+264,University of California Irvine,21st,1
+265,University of Utah,21st,1
+266,Islamic Azad University of Karaj,22nd,1
+267,Rensselaer Polytechnic Institute,22nd,1
+268,University of California Berkeley,22nd,1
+269,Guangdong University of Technology,23rd,1
+270,University of Alcalá,23rd,1
+271,University of Belgrade (Универзитет у Београду),23rd,1
+272,Universidad Politecnica Salesiana,24th,1
+273,University of Kocaeli,24th,1
+274,Western Washington University,24th,1
+275,Columbia University,25th,1
+276,Dalhousie University,25th,1
+277,Toyohashi University of Technology,26th,2
+278,Warsaw University of Technology,27th,1
+279,Tongji University,28th,1
+280,University of Surrey,28th,1
+281,National University of Singapore,29th,1
+282,Newcastle University,29th,1
+283,North Carolina State University,29th,1
+284,VIT University - Chennai,29th,1
+285,Lancaster  University,30th,1
+286,Silesian University of Technology,30th,1
+287,University of Missouri,30th,1
+288,Coventry University,31st,1
+289,Fachhochschule Stralsund,31st,1
+290,University of Texas at Arlington,32nd,2
+291,Technical University of Denmark,32nd,1
+292,University of Colorado - Colorado Springs,32nd,1
+293,Hanze University of Applied Sciences Groningen,33rd,1
+294,Rutgers The State University of New Jersey,33rd,1
+295,California Baptist University,34th,1
+296,Universität der Bundeswehr München,34th,1
+297,Liverpool John Moores University,35th,1
+298,Universidad de Castilla-La Mancha,35th,1
+299,University of Maryland,35th,1
+300,University of Windsor,35th,1
+301,University of Nevada - Reno,36th,1
+302,Guangxi Science and Technology University Lushan College,37th,1
+303,Texas A&M University,38th,1
+304,University of La Laguna,38th,1
+305,University of Cincinnati,39th,1
+306,Iwate University,40th,1
+307,Shizuoka Institute of Science and Technology,41st,1
+308,Sepuluh Nopember Institute of Technology,42nd,1
+309,University of Oxford,42nd,1
+310,Drexel University,48th,1
+311,Nissan Automobile Technical College Kyoto,48th,1
+312,Hefei University of Technology,49th,1
+313,King Mongkut's University of Technology Thonburi,49th,1
+314,Nanyang Technological University,49th,1
+315,Northwestern University,49th,1
+316,University of Southern California,49th,1
+317,Pennsylvania State University,50th,1
+318,Cooper Union,51st,1
+319,University of California Santa Barbara,54th,1
+320,Texas A&M University at Qatar,55th,1
+321,Pakistan Institute of Engineering & Applied Sciences,57th,1
+322,Shizuoka University,58th,1
+323,The Hague University of Applied Sciences,58th,1
+324,University of North Carolina at Charlotte,58th,1
+325,The Hong Kong Polytechnic University,60th,1
+326,University of Bristol,60th,1
+327,University of Victoria,60th,1
+328,Seikei University,61st,1
+329,Shizuoka Professional College of Automobile Technology,61st,1
+330,Kanagawa University,62nd,1
+331,Toyota Technical College Nagoya,62nd,1
+332,National Cheng Kung University,63rd,1
+333,Niigata Institute of Technology,63rd,1
+334,Daido Institute of Technology,64th,1
+335,Tokyo University of Technology,64th,1
+336,Kyushu Institute of Technology,76th,1
+337,Kingston University,81st,1
+338,National Taipei University of Technology,82nd,1
+339,University of Leicester,85th,1
+340,ECAM LaSalle - Campus de Lyon,N/A,0
+341,Rhein-Waal University of Applied Sciences,N/A,0

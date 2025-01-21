@@ -1,45 +1,59 @@
 Rank,University,Points
-1,Carnegie Mellon University,3747
-2,University of Washington,2991
-3,University of Pennsylvania,2499
-4,University of Michigan - Ann Arbor,2315
-5,Massachusetts Institute of Technology,2123
-6,University of Wisconsin-Madison,1864
-7,Georgia Institute of Technology,1683
-8,University of Texas at Austin,1478
-9,University of California Davis,1453
-10,Purdue University - West Lafayette,1394
-11,University of Illinois at Urbana-Champaign,1335
-12,California State Polytechnic University - San Luis Obispo,1244
-13,San José State University,1167
-14,The University of Akron,1089
-15,Virginia Polytechnic Institute and State University,1069
-16,Kennesaw State University,935
-17,Missouri University of Science and Technology,855
-18,University of Minnesota Twin Cities,807
-19,Cornell University,692
-20,San Diego State University,511
-21,Olin College of Engineering,487
-22,University of New Mexico,408
-23,Western Washington University,405
-24,The University of Michigan-Dearborn,386
-25,California Baptist University,320
-26,University of North Carolina at Asheville,313
-27,University of California Berkeley,312
-28,University of Utah,281
-29,University of California Riverside,280
-30,California Institute of Technology,277
-31,University of Kansas,226
-32,Rutgers The State University of New Jersey,215
-33,University of Maryland,191
-34,University of Cincinnati,183
-35,North Carolina State University,174
-36,Portland State University,168
-37,Drexel University,149
-38,University of Southern California,138
-39,Texas A&M University,134
-40,University of Iowa,134
-41,University of Colorado - Colorado Springs,121
-42,University of Texas at San Antonio,119
-43,University of California Irvine,84
-44,University of California - Santa Cruz,40
+1,Carnegie Mellon University,4337
+2,University of Washington,3679
+3,University of Michigan - Ann Arbor,2836
+4,University of Wisconsin-Madison,2618
+5,University of Pennsylvania,2499
+6,Massachusetts Institute of Technology,2496
+7,Georgia Institute of Technology,2435
+8,University of Illinois at Urbana-Champaign,2035
+9,California State Polytechnic University - San Luis Obispo,1892
+10,San José State University,1891
+11,University of California Davis,1844
+12,Virginia Polytechnic Institute and State University,1697
+13,Purdue University - West Lafayette,1672
+14,University of Texas at Austin,1654
+15,Kennesaw State University,1504
+16,Rochester Institute of Technology,1489
+17,Cornell University,1404
+18,The University of Akron,1370
+19,University of Minnesota Twin Cities,1015
+20,Missouri University of Science and Technology,962
+21,University of Texas at Arlington,932
+22,Olin College of Engineering,639
+23,University of New Mexico,604
+24,Western Washington University,600
+25,Auburn University,560
+26,University of California Berkeley,553
+27,Columbia University,546
+28,Pennsylvania State University,518
+29,San Diego State University,511
+30,University of Missouri,459
+31,University of Florida,449
+32,The University of Michigan-Dearborn,386
+33,Rutgers The State University of New Jersey,370
+34,University of Maryland,341
+35,California Institute of Technology,335
+36,University of Cincinnati,323
+37,California Baptist University,320
+38,Rensselaer Polytechnic Institute,317
+39,University of North Carolina at Asheville,313
+40,University of Nevada - Reno,296
+41,University of Utah,281
+42,University of California Riverside,280
+43,University of Southern California,275
+44,Texas A&M University,260
+45,University of Kansas,226
+46,University of California Santa Barbara,222
+47,Northwestern University,207
+48,Drexel University,206
+49,University of California - Santa Cruz,179
+50,North Carolina State University,174
+51,Portland State University,168
+52,University of Colorado - Colorado Springs,152
+53,University of North Carolina at Charlotte,142
+54,University of Iowa,134
+55,Louisiana State University,128
+56,University of Texas at San Antonio,119
+57,Cooper Union,116
+58,University of California Irvine,84

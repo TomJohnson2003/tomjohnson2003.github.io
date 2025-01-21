@@ -1,45 +1,59 @@
 Rank,University,Points
-1,University of Washington,70.7
-2,University of Colorado - Colorado Springs,67.3
-3,Carnegie Mellon University,66.9
-4,University of Pennsylvania,66.36
-5,University of Kansas,65.6
-6,Massachusetts Institute of Technology,64.72
-7,Western Washington University,63.0
-8,Missouri University of Science and Technology,61.7
-9,University of Michigan - Ann Arbor,61.32
-10,Olin College of Engineering,61.23
-11,University of Wisconsin-Madison,60.8
-12,University of Southern California,60.65
-13,Georgia Institute of Technology,60.17
-14,California Baptist University,60.15
-15,University of New Mexico,59.35
-16,North Carolina State University,59.3
-17,University of Maryland,58.7
-18,California State Polytechnic University - San Luis Obispo,57.14
-19,Cornell University,55.6
-20,Purdue University - West Lafayette,55.2
-21,The University of Michigan-Dearborn,55.1
-22,Texas A&M University,54.5
-23,California Institute of Technology,54.25
-24,Rutgers The State University of New Jersey,52.8
-25,Drexel University,52.4
-26,University of North Carolina at Asheville,52.35
-27,University of Illinois at Urbana-Champaign,51.52
-28,University of Utah,51.5
-29,Virginia Polytechnic Institute and State University,51.2
-30,University of Iowa,51.1
-31,San José State University,50.74
-32,University of Texas at Austin,50.4
-33,Portland State University,47.9
-34,Kennesaw State University,46.93
-35,University of California Irvine,43.6
-36,University of Minnesota Twin Cities,43.3
-37,San Diego State University,43.28
-38,University of California Riverside,42.35
-39,University of California Berkeley,41.5
-40,University of Cincinnati,39.85
-41,The University of Akron,36.03
-42,University of California Davis,27.1
-43,University of California - Santa Cruz,0.0
-44,University of Texas at San Antonio,0.0
+1,University of Washington,70.98
+2,University of Pennsylvania,66.36
+3,Carnegie Mellon University,66.05
+4,University of Kansas,65.6
+5,Georgia Institute of Technology,61.88
+6,University of Michigan - Ann Arbor,60.82
+7,Massachusetts Institute of Technology,60.68
+8,California Baptist University,60.15
+9,Cornell University,60.13
+10,North Carolina State University,59.3
+11,University of Wisconsin-Madison,58.9
+12,Western Washington University,58.6
+13,University of North Carolina at Charlotte,57.6
+14,University of New Mexico,56.17
+15,California State Polytechnic University - San Luis Obispo,55.52
+16,The University of Michigan-Dearborn,55.1
+17,University of Southern California,54.73
+18,Purdue University - West Lafayette,54.7
+19,University of Illinois at Urbana-Champaign,54.47
+20,Kennesaw State University,53.95
+21,University of Florida,53.75
+22,University of Maryland,53.7
+23,San José State University,52.4
+24,University of North Carolina at Asheville,52.35
+25,Olin College of Engineering,52.3
+26,University of Missouri,51.85
+27,University of Utah,51.5
+28,University of Iowa,51.1
+29,Cooper Union,50.8
+30,Missouri University of Science and Technology,50.48
+31,Rutgers The State University of New Jersey,50.1
+32,University of Texas at Arlington,49.75
+33,California Institute of Technology,48.87
+34,University of Texas at Austin,48.85
+35,Virginia Polytechnic Institute and State University,48.5
+36,University of California Berkeley,48.13
+37,Portland State University,47.9
+38,University of Minnesota Twin Cities,47.5
+39,Drexel University,46.7
+40,Pennsylvania State University,44.2
+41,Auburn University,44.05
+42,University of Colorado - Colorado Springs,43.95
+43,University of California Santa Barbara,43.65
+44,University of California Irvine,43.6
+45,San Diego State University,43.28
+46,University of Nevada - Reno,43.25
+47,University of California Riverside,42.35
+48,Rochester Institute of Technology,39.75
+49,Northwestern University,39.1
+50,Columbia University,38.45
+51,University of Cincinnati,37.2
+52,The University of Akron,32.8
+53,Texas A&M University,32.25
+54,University of California Davis,30.18
+55,Rensselaer Polytechnic Institute,26.85
+56,Louisiana State University,19.5
+57,University of California - Santa Cruz,16.55
+58,University of Texas at San Antonio,0.0

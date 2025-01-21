@@ -1,66 +1,68 @@
 Rank,University,Points
-1,Universität Stuttgart,30580
-2,Karlsruhe Institute of Technology,23762
-3,Technical University of Munich,21897
-4,Westsächsische Hochschule Zwickau,19557
-5,Duale Hochschule Baden-Württemberg Stuttgart,16640
-6,Technische Universität Dresden,16241
-7,Fachhochschule München,15360
-8,Technische Universität Bergakademie Freiberg,14051
-9,Hochschule Bonn-Rhein-Sieg,12511
-10,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),12375
-11,Technische Universität Darmstadt,11844
-12,Rheinisch-Westfälische Technische Hochschule Aachen,11293
-13,Technische Universität Hamburg,11208
-14,Fachhochschule Kiel,10204
-15,Deggendorf Institute of Technology,9507
-16,Hochschule Esslingen,9413
-17,Technische Hochschule Ingolstadt,8601
-18,Leibniz Universität Hannover,7598
-19,Universität Bayreuth,7521
-20,Ostfalia University of Applied Sciences,7036
-21,Hochschule für angewandte Wissenschaften Augsburg,6022
-22,Georg-Simon-Ohm-Hochschule Nürnberg,5714
-23,Universität Siegen,5705
-24,Fachhochschule Osnabrück,5375
-25,Technische Universität Kaiserslautern,4814
-26,Hochschule RheinMain,4624
-27,Technische Hochschule Köln,4567
-28,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,4557
-29,Technische Universität Berlin,4356
-30,UAS Würzburg-Schweinfurt,4108
-31,Fachhochschule für Wirtschaft und Technik,3700
-32,Ostbayerische Technische Hochschule Regensburg,3682
-33,Technische Universität Braunschweig,3225
-34,Hochschule Aalen - Technik und Wirtschaft,2977
-35,Duale Hochschule Baden-Württemberg - Mannheim,2263
-36,Universität Paderborn,2241
-37,Universität Duisburg-Essen,2116
-38,Technische Universität Clausthal,1983
-39,Technische Universität Ilmenau,1827
-40,Fachhochschule Konstanz,1664
-41,University of Applied Sciences Ravensburg-Weingarten,1568
-42,Hochschule Landshut,1563
-43,Hochschule für Angewandte Wissenschaften Hof,1535
-44,Universität Bremen,1529
-45,Hochschule Mannheim,1459
-46,Ulm University of Applied Sciences,1358
-47,Saarland University,1258
-48,Hochschule Pforzheim,1156
-49,Universität Kassel,1151
-50,Technische Universität Chemnitz,1105
-51,Friedrich-Alexander-Universität Erlangen-Nürnberg,875
-52,Ruhr-Universität Bochum,839
-53,Hochschule Ruhr West - UAS,810
-54,Hochschule Darmstadt UAS,672
-55,UAS Kempten,660
-56,Otto-von-Guericke-Universität Magdeburg,652
-57,Technische Universität Dortmund,624
-58,Technische Hochschule Ostwestfalen-Lippe,500
-59,Hochschule Niederrhein,383
-60,Hochschule für Technik und Wirtschaft Mittweida,379
-61,Hochschule Düsseldorf,240
-62,Hochschule Karlsruhe - Technik und Wirtschaft,182
-63,Duale Hochschule Baden-Württemberg Mosbach,177
-64,Universität der Bundeswehr München,119
-65,Rhein-Waal University of Applied Sciences,22
+1,Universität Stuttgart,31788
+2,Karlsruhe Institute of Technology,25891
+3,Technical University of Munich,22824
+4,Westsächsische Hochschule Zwickau,22626
+5,Duale Hochschule Baden-Württemberg Stuttgart,18616
+6,Technische Universität Dresden,18576
+7,Fachhochschule München,17716
+8,Technische Universität Bergakademie Freiberg,14637
+9,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),13703
+10,Technische Universität Darmstadt,13422
+11,Rheinisch-Westfälische Technische Hochschule Aachen,13318
+12,Hochschule Bonn-Rhein-Sieg,13289
+13,Technische Universität Hamburg,12646
+14,Hochschule Esslingen,11875
+15,Fachhochschule Kiel,10204
+16,Deggendorf Institute of Technology,10199
+17,Technische Hochschule Ingolstadt,9616
+18,Leibniz Universität Hannover,8894
+19,Universität Bayreuth,8593
+20,Ostfalia University of Applied Sciences,7790
+21,Georg-Simon-Ohm-Hochschule Nürnberg,6558
+22,Technische Hochschule Augsburg,6394
+23,Technische Universität Berlin,6203
+24,Hochschule RheinMain,5971
+25,Universität Siegen,5705
+26,Fachhochschule Osnabrück,5697
+27,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,5664
+28,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,4907
+29,UAS Würzburg-Schweinfurt,4777
+30,Ostbayerische Technische Hochschule Regensburg,4574
+31,Technische Hochschule Köln,4567
+32,Fachhochschule für Wirtschaft und Technik,4443
+33,Hochschule Aalen - Technik und Wirtschaft,3905
+34,Universität Paderborn,3759
+35,Technische Universität Braunschweig,3225
+36,Hochschule für Angewandte Wissenschaften Hamburg,3140
+37,Duale Hochschule Baden-Württemberg - Mannheim,3022
+38,University of Applied Sciences Ravensburg-Weingarten,2795
+39,Fachhochschule Konstanz,2503
+40,Hochschule Pforzheim,2469
+41,Ulm University of Applied Sciences,2424
+42,Universität Duisburg-Essen,2116
+43,Hochschule für Angewandte Wissenschaften Hof,2019
+44,Technische Universität Clausthal,1983
+45,Technische Universität Ilmenau,1958
+46,Hochschule Landshut,1940
+47,Universität Bremen,1895
+48,Hochschule Mannheim,1643
+49,Friedrich-Alexander-Universität Erlangen-Nürnberg,1500
+50,Universität Kassel,1463
+51,Ruhr-Universität Bochum,1434
+52,UAS Kempten,1427
+53,Hochschule Karlsruhe,1419
+54,Hochschule Darmstadt UAS,1403
+55,Technische Universität Chemnitz,1394
+56,Saarland University,1258
+57,Technische Universität Dortmund,1122
+58,Otto-von-Guericke-Universität Magdeburg,861
+59,Hochschule Ruhr West - UAS,810
+60,Hochschule Düsseldorf,635
+61,Technische Hochschule Ostwestfalen-Lippe,622
+62,Hochschule Niederrhein,488
+63,Fachhochschule Stralsund,457
+64,Hochschule für Technik und Wirtschaft Mittweida,379
+65,Duale Hochschule Baden-Württemberg Mosbach,177
+66,Universität der Bundeswehr München,119
+67,Rhein-Waal University of Applied Sciences,22

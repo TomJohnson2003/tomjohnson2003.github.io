@@ -1,12 +1,20 @@
 AGH University of Science and Technology
+Aichi Institute of Technology
 Ain Shams University
 Alma Mater Studiorum - Università di Bologna
 Aristotle University of Thessaloniki
 Auburn University
+Barcelona East School of Engineering - EEBE - UPC
+Barcelona School of Industrial Engineering - ETSEIB - UPC
+Beihang University
 Beijing Institute of Technology
 Belgorod state technological university named after V. G. Shukhov
 Ben-Gurion University of the Negev
 Bern University of Applied Sciences
+Binghamton University
+Birla Institute of Science and Technology Pilani - Dubai
+Birla Institute of Technology, Mesra
+Brigham Young University
 Brno University of Technology
 Brunel University London
 Budapest University of Technology and Economics
@@ -28,6 +36,7 @@ Curtin University
 Czech Technical University in Prague
 Daido Institute of Technology
 Dalhousie University
+De Montfort University
 Deggendorf Institute of Technology
 Delhi Technological University
 Democritus University of Thrace
@@ -37,17 +46,11 @@ Duale Hochschule Baden-Württemberg Mosbach
 Duale Hochschule Baden-Württemberg Stuttgart
 Dwarkadas. J. Sanghvi College of Engineering
 ECAM LaSalle - Campus de Lyon
-ESTACA - Paris-Saclay (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile)
 ESTACA - West (Ecole Supérieure des Techniques Aéronautiques et de Construction Automobile)
 ETH Zürich
 Ecole Nationale d'Ingénieurs de Metz
-Escola Superior d'Enginyeries Industrial Aeroespacial i Audiovisual de Terrassa (UPC)
-Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - Universitat Politècnica de Catalunya
-Escola d'Enginyeria de Barcelona Est. EEBE
-FH Campus Wien
-Fachhochschule Aachen
-Fachhochschule Coburg
-Fachhochschule Dortmund
+Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (UPC)
+FH Münster
 Fachhochschule Joanneum Graz
 Fachhochschule Kiel
 Fachhochschule Konstanz
@@ -55,6 +58,7 @@ Fachhochschule München
 Fachhochschule Osnabrück
 Fachhochschule Stralsund
 Fachhochschule für Wirtschaft und Technik
+Fr Conceicao Rodrigues College of Engineering
 Friedrich-Alexander-Universität Erlangen-Nürnberg
 GFR DHBW Ravensburg & Oregon State University
 Gadjah Mada University
@@ -64,15 +68,17 @@ Ghent University
 Griffith University
 Guangdong University of Technology
 Guangxi Science and Technology University Lushan College
+Guangxi University of Science and Technology
 HES-SO Valais-Wallis
 Hanze University of Applied Sciences Groningen
 Harbin Institute of Technology at Weihai
 Hefei University of Technology
+Helmut Schmidt Universität  Universität der Bundeswehr Hamburg
 Helsinki Metropolia University of Applied Sciences
 Heriot-Watt University
 Hochschule Aalen - Technik und Wirtschaft
 Hochschule Bonn-Rhein-Sieg
-Hochschule Darmstadt UAS
+Hochschule Darmstadt, UAS
 Hochschule Düsseldorf
 Hochschule Esslingen
 Hochschule Karlsruhe
@@ -84,13 +90,18 @@ Hochschule RheinMain
 Hochschule Ruhr West - UAS
 Hochschule für Angewandte Wissenschaften Hamburg
 Hochschule für Angewandte Wissenschaften Hof
+Hochschule für Technik und Wirtschaft Berlin
 Hochschule für Technik und Wirtschaft Mittweida
 Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen
 Hubei University of Automotive Technology
+Hunan University
 Imperial College London
 Indian Institute of Technology Bombay
 Indian Institute of Technology Delhi
+Indian Institute of Technology Kanpur
+Indian Institute of Technology Madras
 Indian Institute of Technology Roorkee
+Institute of Technologists
 Instituto Superior de Engenharia de Lisboa
 Islamic Azad University of Karaj
 Istanbul Technical University
@@ -117,10 +128,8 @@ Liverpool John Moores University
 Loughborough University
 Louisiana State University
 Lund University
-MCT's Rajiv Gandhi Institute of Technology
 MIT World Peace University
 Manchester Metropolitan University
-Manipal Academy of Higher Education
 Massachusetts Institute of Technology
 McGill University
 McMaster University
@@ -131,8 +140,10 @@ Nagoya Institute of Technology
 Nagoya University
 Nanyang Technological University
 National Cheng Kung University
+National Institute of Technology - Karnataka
 National Taipei University of Technology
 National Taiwan University
+National Taiwan University of Science and Technology
 National Technical University of Athens
 National Tsing Hua University
 National University of Sciences and Technology - Karachi
@@ -142,6 +153,7 @@ Newcastle University
 Niigata Institute of Technology
 Nissan Automobile Technical College Kyoto
 North Carolina State University
+Northeastern University
 Northwestern University
 Norwegian University of Science and Technology
 Olin College of Engineering
@@ -153,8 +165,8 @@ Oxford Brookes University
 PSG Institute of Technology and Applied Research
 Pakistan Institute of Engineering & Applied Sciences
 Pennsylvania State University
+Pillai College Of Engineering
 Pimpri Chinchwad College Of Engineering
-Politecnico di Bari
 Politecnico di Milano
 Politecnico di Torino
 Portland State University
@@ -164,6 +176,8 @@ Queen's University Belfast
 Queensland University of Technology
 R.V.College of Engineering
 RMIT University
+Rajiv Gandhi Institute of Technology - Kottayam
+Rajiv Gandhi Institute of Technology - Mumbai
 Rajshahi University of Engineering & Technology
 Ramaiah Institute of Technology
 Rensselaer Polytechnic Institute
@@ -172,15 +186,18 @@ Rheinisch-Westfälische Technische Hochschule Aachen
 Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
 Rochester Institute of Technology
 Ruhr-Universität Bochum
-Rutgers The State University of New Jersey
+Rutgers, The State University of New Jersey
 Ryerson University
+Rzeszów University of Technology
 SRM Institute of Science and Technology - Kattankulathur
 Saarland University
+Salesian University School of Sarrià - EUSS
 San Diego State University
 San José State University
-Sardar Patel College of Engineering Mumbai
+Sardar Patel College of Engineering, Mumbai
 Seikei University
 Sepuluh Nopember Institute of Technology
+Shenzhen Technology University
 Shizuoka Institute of Science and Technology
 Shizuoka Professional College of Automobile Technology
 Shizuoka University
@@ -188,9 +205,9 @@ Silesian University of Technology
 Slovak University of Technology in Bratislava
 Smt. Kashibai Navale College of Engineering
 Sophia University
+South China University of Technology
+St. Vincent Pallotti College of Engineering and Technology
 Swinburne University of Technology
-Széchenyi István University
-TAMK University of Applied Sciences
 TECNUN - University of Navarra
 TU Delft
 Tallinn TU UAS
@@ -201,7 +218,6 @@ Technion - Israel Institute of Technology
 Technische Hochschule Augsburg
 Technische Hochschule Ingolstadt
 Technische Hochschule Köln
-Technische Hochschule Lübeck
 Technische Hochschule Ostwestfalen-Lippe
 Technische Universiteit Eindhoven
 Technische Universität Bergakademie Freiberg
@@ -218,6 +234,7 @@ Technische Universität Ilmenau
 Technische Universität Wien
 Texas A&M University
 Texas A&M University at Qatar
+Thakur College of Engineering and Technology
 The Hague University of Applied Sciences
 The Hong Kong Polytechnic University
 The University of Akron
@@ -231,6 +248,7 @@ Tongji University
 Toronto Metropolitan University
 Toyohashi University of Technology
 Toyota Technical College Nagoya
+Tsinghua University
 UAS Kempten
 UAS Würzburg-Schweinfurt
 Ulm University of Applied Sciences
@@ -238,13 +256,12 @@ Universidad Nacional Autónoma de México
 Universidad Politecnica Salesiana
 Universidad Politécnica de Cartagena
 Universidad Politécnica de Madrid (UPM)
+Universidad Pompeu Fabra - TecnoCampus
 Universidad Pontificia Comillas
 Universidad de Castilla-La Mancha
 Universidad de Oviedo
 Universidade Estadual de Campinas
 Universidade de Lisboa - Instituto Superior Técnico
-Universitat Politécnica de Valéncia
-University Carlos III of Madrid
 University College Dublin
 University Of Hertfordshire
 University of Adelaide
@@ -253,22 +270,27 @@ University of Alcalá
 University of Applied Sciences Ravensburg-Weingarten
 University of Auckland
 University of Bath
-University of Belgrade (Универзитет у Београду)
+University of Belgrade
 University of Birmingham
 University of Bristol
 University of British Columbia - Vancouver
 University of Burgundy - ISAT
+University of Calgary
 University of California - Santa Cruz
-University of California Berkeley
 University of California Davis
 University of California Irvine
-University of California Riverside
 University of California Santa Barbara
+University of California, Berkeley
+University of California, Los Angeles
+University of California, Riverside
 University of Canterbury
 University of Cincinnati
 University of Colorado - Colorado Springs
 University of Florida
+University of Fukui
 University of Glasgow
+University of Guelph
+University of Huddersfield
 University of Iceland
 University of Illinois at Urbana-Champaign
 University of Iowa
@@ -278,12 +300,17 @@ University of La Laguna
 University of Leicester
 University of Liverpool
 University of Ljubljana
+University of Malaga
+University of Malta
 University of Manitoba
+University of Maribor
 University of Maryland
 University of Melbourne
 University of Michigan - Ann Arbor
 University of Minnesota Twin Cities
+University of Miskolc
 University of Missouri
+University of Moratuwa
 University of Nevada - Reno
 University of New Mexico
 University of New South Wales
@@ -295,9 +322,9 @@ University of Ontario Institute of Technology
 University of Oxford
 University of Patras
 University of Pennsylvania
+University of Pittsburgh
 University of Porto
 University of Queensland
-University of Rijeka
 University of Seville
 University of South Australia
 University of Southampton
@@ -307,33 +334,41 @@ University of Stavanger
 University of Strathclyde
 University of Surrey
 University of Sussex
+University of Sydney
 University of Tasmania
-University of Technology Sydney
+University of Technology, Sydney
 University of Texas at Arlington
 University of Texas at Austin
 University of Texas at San Antonio
-University of Thessaly
 University of Toronto
+University of Toyama
+University of Twente
 University of Utah
 University of Victoria
+University of Virginia
+University of Waikato
 University of Warwick
 University of Washington
 University of Waterloo
+University of West Attica
+University of West Bohemia
 University of Western Australia
+University of Western Macedonia
 University of Windsor
 University of Wisconsin-Madison
 University of Wollongong
 University of Yamanashi
 University of Zagreb
 University of the Basque Country
+Università degli Studi di Cassino e del Lazio Meridionale
 Università degli Studi di Napoli Federico II
 Università degli Studi di Parma
 Università degli Studi di Roma La Sapienza
-Università degli Studi di Roma Tor Vergata
 Università degli Studi di Trento
 Università degli studi di Padova
 Università degli studi di Trieste
 Università degli studi di Udine 
+Università della Calabria
 Università di Pisa
 Universität Bayreuth
 Universität Bremen
@@ -346,14 +381,19 @@ Universität der Bundeswehr München
 Université Laval
 VIT University - Chennai
 VIT University - Vellore
+Vidyavardhini's College of Engineering and Technology
 Virginia Polytechnic Institute and State University
+Vishwakarma Institute of Technology
 Vitoria-University of the Basque Country
 Vrije Universiteit Brussel
 Warsaw University of Technology
+Western Michigan University
+Western Sydney University
 Western University
 Western Washington University
 Westsächsische Hochschule Zwickau
 Wroclaw University of Technology
+Xiamen University of Technology
 Yıldız Technical University
 Zürcher Hochschule für Angewandte Wissenschaften
 École Polytechnique Fédérale de Lausanne

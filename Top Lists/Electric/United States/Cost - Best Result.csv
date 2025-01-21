@@ -1,45 +1,59 @@
 Rank,University,Lowest Place,#
 1,Carnegie Mellon University,1st,2
-2,Kennesaw State University,1st,1
+2,Kennesaw State University,1st,2
 3,University of California Davis,1st,1
 4,University of Pennsylvania,1st,1
 5,Georgia Institute of Technology,2nd,2
 6,California State Polytechnic University - San Luis Obispo,2nd,1
 7,Missouri University of Science and Technology,2nd,1
-8,University of Texas at San Antonio,3rd,1
-9,Virginia Polytechnic Institute and State University,4th,1
-10,Massachusetts Institute of Technology,5th,1
-11,The University of Michigan-Dearborn,5th,1
-12,University of Michigan - Ann Arbor,5th,1
-13,University of Minnesota Twin Cities,5th,1
-14,University of Iowa,6th,1
-15,University of North Carolina at Asheville,6th,1
-16,University of Texas at Austin,6th,1
-17,The University of Akron,7th,2
-18,University of Illinois at Urbana-Champaign,7th,1
-19,University of Wisconsin-Madison,8th,1
-20,Olin College of Engineering,9th,1
-21,Purdue University - West Lafayette,10th,1
-22,San José State University,14th,2
-23,University of New Mexico,15th,2
-24,University of California - Santa Cruz,15th,1
-25,University of Kansas,15th,1
-26,University of Washington,16th,1
-27,California Institute of Technology,17th,1
-28,University of California Riverside,17th,1
-29,San Diego State University,18th,1
-30,Portland State University,20th,1
-31,University of California Irvine,21st,1
-32,University of Utah,21st,1
-33,University of California Berkeley,22nd,1
-34,Cornell University,26th,1
-35,Western Washington University,27th,1
-36,North Carolina State University,29th,1
-37,University of Colorado - Colorado Springs,32nd,1
-38,Rutgers The State University of New Jersey,33rd,1
-39,California Baptist University,34th,1
-40,University of Cincinnati,40th,1
-41,Drexel University,48th,1
-42,University of Maryland,52nd,1
-43,University of Southern California,56th,1
-44,Texas A&M University,N/A,0
+8,San José State University,2nd,1
+9,University of Texas at San Antonio,3rd,1
+10,Virginia Polytechnic Institute and State University,4th,1
+11,Massachusetts Institute of Technology,5th,1
+12,The University of Michigan-Dearborn,5th,1
+13,University of Michigan - Ann Arbor,5th,1
+14,University of Minnesota Twin Cities,5th,1
+15,University of Iowa,6th,1
+16,University of North Carolina at Asheville,6th,1
+17,University of Texas at Austin,6th,1
+18,The University of Akron,7th,2
+19,University of Illinois at Urbana-Champaign,7th,1
+20,University of Wisconsin-Madison,7th,1
+21,Auburn University,9th,2
+22,Olin College of Engineering,9th,1
+23,Purdue University - West Lafayette,10th,1
+24,University of Florida,10th,1
+25,University of New Mexico,15th,2
+26,University of California - Santa Cruz,15th,1
+27,University of Kansas,15th,1
+28,Rochester Institute of Technology,16th,1
+29,University of Washington,16th,1
+30,California Institute of Technology,17th,1
+31,Louisiana State University,17th,1
+32,University of California Riverside,17th,1
+33,San Diego State University,18th,1
+34,Cornell University,19th,1
+35,Portland State University,20th,1
+36,University of California Irvine,21st,1
+37,University of Utah,21st,1
+38,Rensselaer Polytechnic Institute,22nd,1
+39,University of California Berkeley,22nd,1
+40,Western Washington University,24th,1
+41,Columbia University,25th,1
+42,North Carolina State University,29th,1
+43,University of Missouri,30th,1
+44,University of Texas at Arlington,32nd,2
+45,University of Colorado - Colorado Springs,32nd,1
+46,Rutgers The State University of New Jersey,33rd,1
+47,California Baptist University,34th,1
+48,University of Maryland,35th,1
+49,University of Nevada - Reno,36th,1
+50,Texas A&M University,38th,1
+51,University of Cincinnati,39th,1
+52,Drexel University,48th,1
+53,Northwestern University,49th,1
+54,University of Southern California,49th,1
+55,Pennsylvania State University,50th,1
+56,Cooper Union,51st,1
+57,University of California Santa Barbara,54th,1
+58,University of North Carolina at Charlotte,58th,1

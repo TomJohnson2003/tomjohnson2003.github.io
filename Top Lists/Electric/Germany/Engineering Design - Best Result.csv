@@ -3,7 +3,7 @@ Rank,University,Lowest Place,#
 2,Technical University of Munich,1st,4
 3,Westsächsische Hochschule Zwickau,1st,4
 4,Hochschule Bonn-Rhein-Sieg,1st,3
-5,Karlsruhe Institute of Technology,1st,2
+5,Karlsruhe Institute of Technology,1st,3
 6,Duale Hochschule Baden-Württemberg Stuttgart,1st,1
 7,Ostbayerische Technische Hochschule Amberg-Weiden (OTH),1st,1
 8,Technische Universität Darmstadt,1st,1
@@ -11,56 +11,58 @@ Rank,University,Lowest Place,#
 10,Fachhochschule Kiel,2nd,1
 11,Technische Hochschule Ingolstadt,2nd,1
 12,Technische Universität Bergakademie Freiberg,2nd,1
-13,Technische Universität Dresden,3rd,3
-14,Hochschule Esslingen,3rd,2
-15,Universität Siegen,3rd,2
-16,Leibniz Universität Hannover,3rd,1
-17,Rheinisch-Westfälische Technische Hochschule Aachen,3rd,1
-18,Deggendorf Institute of Technology,4th,1
-19,Fachhochschule Osnabrück,4th,1
-20,Hochschule Aalen - Technik und Wirtschaft,4th,1
-21,Technische Hochschule Köln,4th,1
-22,Technische Universität Braunschweig,4th,1
-23,Universität Bayreuth,4th,1
-24,Technische Universität Hamburg,5th,2
-25,Hochschule Mannheim,5th,1
-26,Hochschule RheinMain,5th,1
-27,Technische Universität Berlin,5th,1
+13,Technische Universität Berlin,2nd,1
+14,Technische Universität Dresden,2nd,1
+15,Hochschule Esslingen,3rd,2
+16,Universität Siegen,3rd,2
+17,Leibniz Universität Hannover,3rd,1
+18,Rheinisch-Westfälische Technische Hochschule Aachen,3rd,1
+19,Deggendorf Institute of Technology,4th,1
+20,Fachhochschule Osnabrück,4th,1
+21,Hochschule Aalen - Technik und Wirtschaft,4th,1
+22,Hochschule RheinMain,4th,1
+23,Technische Hochschule Köln,4th,1
+24,Technische Universität Braunschweig,4th,1
+25,Universität Bayreuth,4th,1
+26,Technische Universität Hamburg,5th,2
+27,Hochschule Mannheim,5th,1
 28,Universität Paderborn,5th,1
 29,Hochschule für angewandte Wissenschaft und Kunst HildesheimHolzmindenGöttingen,6th,2
 30,Duale Hochschule Baden-Württemberg - Mannheim,6th,1
-31,Ostfalia University of Applied Sciences,6th,1
-32,Technische Universität Clausthal,7th,1
-33,Fachhochschule für Wirtschaft und Technik,8th,1
-34,Georg-Simon-Ohm-Hochschule Nürnberg,8th,1
-35,Hochschule für angewandte Wissenschaften Augsburg,8th,1
-36,Technische Universität Ilmenau,8th,1
-37,UAS Würzburg-Schweinfurt,8th,1
-38,Ostbayerische Technische Hochschule Regensburg,9th,1
-39,Saarland University,9th,1
-40,Universität Duisburg-Essen,9th,1
-41,Hochschule für Angewandte Wissenschaften Hof,10th,1
-42,Hochschule Landshut,10th,1
-43,Hochschule Niederrhein,10th,1
-44,Hochschule Ruhr West - UAS,10th,1
-45,Otto-von-Guericke-Universität Magdeburg,10th,1
-46,UAS Kempten,10th,1
-47,Technische Universität Chemnitz,11th,1
-48,Technische Universität Kaiserslautern,12th,2
-49,Ulm University of Applied Sciences,12th,2
-50,Duale Hochschule Baden-Württemberg Mosbach,12th,1
-51,Fachhochschule Konstanz,12th,1
-52,Technische Hochschule Ostwestfalen-Lippe,12th,1
-53,University of Applied Sciences Ravensburg-Weingarten,12th,1
-54,Hochschule Darmstadt UAS,14th,1
-55,Hochschule Düsseldorf,14th,1
-56,Universität Bremen,15th,1
-57,Universität Kassel,15th,1
-58,Hochschule Pforzheim,17th,3
-59,Technische Universität Dortmund,17th,1
-60,Hochschule für Technik und Wirtschaft Mittweida,18th,1
-61,Ruhr-Universität Bochum,20th,1
-62,Friedrich-Alexander-Universität Erlangen-Nürnberg,22nd,1
-63,Hochschule Karlsruhe - Technik und Wirtschaft,24th,1
-64,Universität der Bundeswehr München,38th,1
-65,Rhein-Waal University of Applied Sciences,N/A,0
+31,Hochschule Karlsruhe,6th,1
+32,Ostfalia University of Applied Sciences,6th,1
+33,UAS Kempten,6th,1
+34,Hochschule Pforzheim,7th,1
+35,Technische Universität Clausthal,7th,1
+36,Fachhochschule für Wirtschaft und Technik,8th,1
+37,Georg-Simon-Ohm-Hochschule Nürnberg,8th,1
+38,Technische Hochschule Augsburg,8th,1
+39,Technische Universität Ilmenau,8th,1
+40,UAS Würzburg-Schweinfurt,8th,1
+41,University of Applied Sciences Ravensburg-Weingarten,8th,1
+42,Ostbayerische Technische Hochschule Regensburg,9th,1
+43,Saarland University,9th,1
+44,Universität Duisburg-Essen,9th,1
+45,Hochschule für Angewandte Wissenschaften Hamburg,10th,1
+46,Hochschule für Angewandte Wissenschaften Hof,10th,1
+47,Hochschule Landshut,10th,1
+48,Hochschule Ruhr West - UAS,10th,1
+49,Otto-von-Guericke-Universität Magdeburg,10th,1
+50,Technische Universität Chemnitz,11th,1
+51,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,12th,2
+52,Ulm University of Applied Sciences,12th,2
+53,Duale Hochschule Baden-Württemberg Mosbach,12th,1
+54,Fachhochschule Konstanz,12th,1
+55,Hochschule Darmstadt UAS,12th,1
+56,Technische Hochschule Ostwestfalen-Lippe,12th,1
+57,Hochschule Düsseldorf,14th,1
+58,Hochschule Niederrhein,14th,1
+59,Universität Kassel,14th,1
+60,Universität Bremen,15th,1
+61,Technische Universität Dortmund,17th,2
+62,Ruhr-Universität Bochum,17th,1
+63,Hochschule für Technik und Wirtschaft Mittweida,18th,1
+64,Friedrich-Alexander-Universität Erlangen-Nürnberg,22nd,1
+65,Universität der Bundeswehr München,38th,1
+66,Fachhochschule Stralsund,42nd,1
+67,Rhein-Waal University of Applied Sciences,N/A,0

@@ -1,15 +1,18 @@
 Rank,University,Lowest Place,#
 1,RMIT University,1st,1
-2,Monash University,2nd,2
+2,Monash University,2nd,3
 3,Swinburne University of Technology,2nd,1
 4,University of Adelaide,3rd,1
 5,University of Queensland,3rd,1
-6,University of New South Wales,4th,1
-7,University of Technology Sydney,5th,1
-8,University of Western Australia,5th,1
-9,University of Tasmania,6th,1
-10,University of Wollongong,6th,1
-11,The University of Newcastle,7th,1
-12,University of South Australia,10th,1
-13,Queensland University of Technology,13th,1
-14,University of Melbourne,N/A,0
+6,The University of Newcastle,4th,1
+7,University of New South Wales,4th,1
+8,University of Tasmania,5th,1
+9,University of Technology Sydney,5th,1
+10,University of Western Australia,5th,1
+11,University of Wollongong,6th,1
+12,Curtin University,9th,2
+13,University of South Australia,10th,1
+14,Queensland University of Technology,13th,1
+15,Griffith University,N/A,0
+16,University of Melbourne,N/A,0
+17,University of New South Wales - Australian Defence Force Academy,N/A,0
